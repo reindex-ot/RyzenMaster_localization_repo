@@ -320,7 +320,7 @@
     </message>
     <message>
       <source>Combination</source>
-      <translation>コンビネーション</translation>
+      <translation>組み合わせ</translation>
     </message>
     <message>
       <source>(RAM</source>
@@ -652,7 +652,7 @@
     </message>
     <message>
       <source>Reverts your interaction-based preferences to their default state; Profiles and Settings will not be affected</source>
-      <translation>インタラクションに基づく設定を既定の状態に戻します。プロファイルと設定には影響しません。</translation>
+      <translation>インタラクションに基づく設定をデフォルトの状態に戻します。プロファイルと設定には影響しません。</translation>
     </message>
     <message>
       <source>Integrated Graphics</source>
@@ -708,7 +708,7 @@
     </message>
     <message>
       <source>Provides minimal hardware controls to support a novice user</source>
-      <translation>初心者ユーザーをサポートするために、最小限のハードウェア制御機能を提供します</translation>
+      <translation>初心者のユーザーをサポートするために、最小限のハードウェア制御機能を提供します</translation>
     </message>
     <message>
       <source>Hover the respective error icons of each parameter for more details</source>
@@ -1014,7 +1014,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Profile exported successfully.</source>
-      <translation type="unfinished">Profile exported successfully.</translation>
+      <translation>プロファイルをエクスポートしました。</translation>
     </message>
     <message>
       <source>Ryzen Master requires Windows 10 or greater.</source>
@@ -1246,7 +1246,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>CPU Stress test for Curve Optimizer has completed unsuccessfully</source>
-      <translation type="unfinished">CPU Stress test for Curve Optimizer has completed unsuccessfully</translation>
+      <translation>カーブ最適化の CPU 負荷テストは正常に完了しませんでした</translation>
     </message>
     <message>
       <source>Select number of active CCDs required</source>
@@ -1286,7 +1286,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Default Settings</source>
-      <translation>既定の設定</translation>
+      <translation>デフォルトの設定</translation>
     </message>
     <message>
       <source>CPU - </source>
@@ -1330,7 +1330,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Active CCD Mode Combination can not be changed when all CCD's are not enabled</source>
-      <translation type="unfinished">Active CCD Mode Combination can not be changed when all CCD's are not enabled</translation>
+      <translation>すべての CCD がアクティブになっていない場合、アクティブ CCD モードの組み合わせは変更できません</translation>
     </message>
     <message>
       <source>Read to Read timing different DIMM</source>
@@ -1362,7 +1362,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Row Cycle Time</source>
-      <translation type="unfinished">Row Cycle Time</translation>
+      <translation>ロウ サイクル時間</translation>
     </message>
     <message>
       <source>Partial CCDs can not be enabled/disabled when cores are already parked.</source>
@@ -1376,7 +1376,7 @@ Please select valid offset values and then apply again.</translation>
     </message>
     <message>
       <source>Overclocking is not yet enabled.</source>
-      <translation type="unfinished">Overclocking is not yet enabled.</translation>
+      <translation>オーバークロックはまだ有効化していません。</translation>
     </message>
     <message>
       <source>EXPO Mode</source>
@@ -1468,7 +1468,7 @@ Please select valid offset values and then apply again.</translation>
     </message>
     <message>
       <source>Error while deleting </source>
-      <translation type="unfinished">Error while deleting </translation>
+      <translation>削除中にエラーが発生しました </translation>
     </message>
     <message>
       <source>Reset </source>
@@ -1484,11 +1484,11 @@ Please select valid offset values and then apply again.</translation>
     </message>
     <message>
       <source>PBO Scalar</source>
-      <translation>PBO スケーラー</translation>
+      <translation>PBO スカラー</translation>
     </message>
     <message>
       <source>Continue with Current 'Max Offset' Value</source>
-      <translation type="unfinished">Continue with Current 'Max Offset' Value</translation>
+      <translation>現在の「最大オフセット値」で続行</translation>
     </message>
     <message>
       <source>Synchronous DRAM</source>
@@ -1754,7 +1754,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Read CAS# to precharge time</source>
-      <translation type="unfinished">Read CAS# to precharge time</translation>
+      <translation>CAS# を読み取りで充電時間を計測</translation>
     </message>
     <message>
       <source>Curve Values Already Exist</source>
@@ -1762,7 +1762,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source> successfully reset to stock values.</source>
-      <translation> 既定値にリセットしました。</translation>
+      <translation> 標準にリセットしました。</translation>
     </message>
     <message>
       <source>Restore all Settings parameters to their default values</source>
@@ -1796,7 +1796,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Validate</source>
-      <translation type="unfinished">Validate</translation>
+      <translation>検証</translation>
     </message>
     <message>
       <source>PROCODTDQS</source>
@@ -1812,7 +1812,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Reset all application data and settings to factory settings</source>
-      <translation type="unfinished">Reset all application data and settings to factory settings</translation>
+      <translation>アプリケーションデータと設定を出荷時にリセットします</translation>
     </message>
     <message>
       <source>VDD MISC</source>
@@ -1900,7 +1900,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>RAS Active Time</source>
-      <translation>RAS アクティブ時間</translation>
+      <translation>RAS アクティブの時間</translation>
     </message>
     <message>
       <source>. It will also &lt;u&gt;make changes to your BIOS settings&lt;/u&gt;.</source>
@@ -1970,7 +1970,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Consider setting Core Frequency before engaging Manual mode</source>
-      <translation type="unfinished">Consider setting Core Frequency before engaging Manual mode</translation>
+      <translation>手動モードを有効化する前にコア周波数の設定を検討してください</translation>
     </message>
     <message>
       <source>Stress Test</source>
@@ -1982,7 +1982,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Workspace was successfully discarded.</source>
-      <translation type="unfinished">Workspace was successfully discarded.</translation>
+      <translation>ワークスペースを破棄しました。</translation>
     </message>
     <message>
       <source>Eco Mode</source>
@@ -1990,7 +1990,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Provides full set of hardware controls to support an advanced user</source>
-      <translation type="unfinished">Provides full set of hardware controls to support an advanced user</translation>
+      <translation>上級者のユーザーをサポートするために、完全なハードウェア制御機能を提供します</translation>
     </message>
     <message>
       <source>VDD Misc Voltage</source>
@@ -2006,7 +2006,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Default system settings</source>
-      <translation>既定のシステム設定</translation>
+      <translation>デフォルトのシステム設定</translation>
     </message>
     <message>
       <source> You should consider saving your current settings as a profile before proceeding. &lt;br&gt;&lt;br&gt;Are you sure you want to reset your </source>
@@ -2026,7 +2026,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Default</source>
-      <translation>既定</translation>
+      <translation>デフォルト</translation>
     </message>
     <message>
       <source>AMD User Experience Program</source>
@@ -2038,7 +2038,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source> saved successfully.</source>
-      <translation type="unfinished"> saved successfully.</translation>
+      <translation> 保存しました。</translation>
     </message>
     <message>
       <source>This profile cannot be loaded as it is created with Basic App Mode
@@ -2094,11 +2094,11 @@ and will no longer valid for Basic App Mode.</translation>
     </message>
     <message>
       <source>Error while exporting file.</source>
-      <translation type="unfinished">Error while exporting file.</translation>
+      <translation>ファイルのエクスポート中にエラーが発生しました。</translation>
     </message>
     <message>
       <source>Error while importing file.</source>
-      <translation type="unfinished">Error while importing file.</translation>
+      <translation>ファイルのインポート中にエラーが発生しました。</translation>
     </message>
     <message>
       <source>Write to Write timing same chip select</source>
@@ -2112,7 +2112,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>CPU Stress test for '</source>
-      <translation type="unfinished">CPU Stress test for '</translation>
+      <translation>CPU 負荷テスト</translation>
     </message>
     <message>
       <source>Note : Use of AMD products outside of the Specifications or outside of factory settings will void any AMD warranty.</source>
@@ -2188,7 +2188,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Advanced</source>
-      <translation>Advanced</translation>
+      <translation>高度</translation>
     </message>
     <message>
       <source>Curve Optimizer is not enabled when LCM is ON</source>
@@ -2268,11 +2268,11 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Ryzen Master detects another instance running.</source>
-      <translation type="unfinished">Ryzen Master detects another instance running.</translation>
+      <translation>Ryzen Master が別のインスタンスの実行を検出しました。</translation>
     </message>
     <message>
       <source>Are you sure you want to stop stress testing?</source>
-      <translation type="unfinished">Are you sure you want to stop stress testing?</translation>
+      <translation>負荷テストを停止してもよろしいですか？</translation>
     </message>
     <message>
       <source>Per Core</source>
@@ -2312,15 +2312,15 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Restart with New 'Max Offset' Value</source>
-      <translation type="unfinished">Restart with New 'Max Offset' Value</translation>
+      <translation>新しい「最大オフセット値」で再起動</translation>
     </message>
     <message>
       <source>Configures the TX timing between memory controller and PHY</source>
-      <translation type="unfinished">Configures the TX timing between memory controller and PHY</translation>
+      <translation>メモリ コントローラーと PHY 間の TX タイミングを構成します</translation>
     </message>
     <message>
       <source>When turned ON, the PBO parameters will be persistent even after system restart</source>
-      <translation type="unfinished">When turned ON, the PBO parameters will be persistent even after system restart</translation>
+      <translation>PBO パラメータは、オンにするとシステムの再起動後も保持されます。</translation>
     </message>
     <message>
       <source>U Clock Mode</source>
@@ -2328,7 +2328,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>If set to 0, offsets are used as is; for higher values, offsets are adjusted by this amount before being applied</source>
-      <translation type="unfinished">If set to 0, offsets are used as is; for higher values, offsets are adjusted by this amount before being applied</translation>
+      <translation>0 に設定するとオフセットはそのまま使用されます。値が大きい場合は、オフセットはこの値だけをチューニング後に適用されます。</translation>
     </message>
     <message>
       <source>DRAMs On-die Termination impedance for RTT_NOM_RD</source>
@@ -2364,7 +2364,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Advanced Mode</source>
-      <translation>Advanced モード</translation>
+      <translation>高度モード</translation>
     </message>
     <message>
       <source>Activate OTF</source>
@@ -2412,7 +2412,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>System stress test in progress..</source>
-      <translation type="unfinished">System stress test in progress..</translation>
+      <translation>システム負荷テストを実行中です...</translation>
     </message>
     <message>
       <source>Partial cores/CCDs can not be enabled/disabled when LCM is ON. Turn off LCM to enable/disable cores/CCDs</source>
@@ -2562,7 +2562,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>PBO Advanced</source>
-      <translation>PBO Advanced</translation>
+      <translation>PBO 高度</translation>
     </message>
     <message>
       <source>We identified that the processor has been swapped. Hence, the configuration files will no longer be compatible fully or partially.</source>
@@ -2670,7 +2670,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>NOTE: Setting not same values for PMIC VDD and VDDQ (non-coupled mode) may cause memory stability issues. Recommended for advanced users only.</source>
-      <translation type="unfinished">NOTE: Setting not same values for PMIC VDD and VDDQ (non-coupled mode) may cause memory stability issues. Recommended for advanced users only.</translation>
+      <translation>注意: PMIC VDD と VDDQ (非結合モード) に異なる値を設定すると、メモリの安定性に問題が発生する可能性があります。上級者のユーザーのみ推奨します。</translation>
     </message>
     <message>
       <source>Failed to apply Tuning: </source>
@@ -2678,7 +2678,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Default Application Preferences</source>
-      <translation>既定のアプリケーション設定</translation>
+      <translation>デフォルトのアプリケーション設定</translation>
     </message>
     <message>
       <source>Peak Current Limit CPU 0</source>
@@ -3005,7 +3005,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Cannot set value less than BIOS limit:</source>
-      <translation type="unfinished">Cannot set value less than BIOS limit:</translation>
+      <translation>BIOS 制限値より小さい値に設定できません:</translation>
     </message>
   </context>
   <context>
@@ -3016,7 +3016,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Cannot set value beyond BIOS limit:</source>
-      <translation type="unfinished">Cannot set value beyond BIOS limit:</translation>
+      <translation>BIOS 制限値を超える値に設定できません:</translation>
     </message>
   </context>
   <context>
@@ -3167,7 +3167,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>PBO Scalar</source>
-      <translation>PBO スケーラー</translation>
+      <translation>PBO スカラー</translation>
     </message>
     <message>
       <source>System</source>
@@ -3406,9 +3406,9 @@ The following tuning settings could not be applied:</translation>
       <source>Factory reset will restore AMD Ryzen Master and your system’s hardware back to its default state. All application settings, hardware settings and profiles will be lost. This action cannot be undone.
 
 Are you sure you want to perform a factory reset?</source>
-      <translation type="unfinished">Factory reset will restore AMD Ryzen Master and your system’s hardware back to its default state. All application settings, hardware settings and profiles will be lost. This action cannot be undone.
+      <translation>出荷時設定へのリセットを実行すると、AMD Ryzen Master とシステム ハードウェアが初期状態に復元されます。すべてのアプリケーション設定、ハードウェア設定、プロファイルが失われます。この操作は元に戻せません。
 
-Are you sure you want to perform a factory reset?</translation>
+出荷時設定へのリセットを実行してもよろしいですか？</translation>
     </message>
     <message>
       <source>More action may be necessary</source>
@@ -3562,7 +3562,7 @@ Are you sure you want to perform a factory reset?</translation>
     </message>
     <message>
       <source>Cannot set value beyond LN2 limit:</source>
-      <translation type="unfinished">Cannot set value beyond LN2 limit:</translation>
+      <translation>LN2 制限値を超える値に設定できません:</translation>
     </message>
     <message>
       <source>Set All Auto</source>
@@ -3574,7 +3574,7 @@ Are you sure you want to perform a factory reset?</translation>
     </message>
     <message>
       <source>Cannot set value beyond BIOS limit:</source>
-      <translation type="unfinished">Cannot set value beyond BIOS limit:</translation>
+      <translation>BIOS 制限値を超える値に設定できません:</translation>
     </message>
     <message>
       <source>Reset RAM Hardware</source>
@@ -3615,13 +3615,13 @@ Are you sure you want to perform a factory reset?</translation>
       <source>Changing CPU Tuning Mode to Manual will require few additional settings to be done.
 
 You will be redirected to CPU Tuning</source>
-      <translation type="unfinished">Changing CPU Tuning Mode to Manual will require few additional settings to be done.
+      <translation>CPU チューニング モードを手動に変更するには、いくつかの追加設定が必要になります。
 
-You will be redirected to CPU Tuning</translation>
+CPU チューニング画面にリダイレクトします。</translation>
     </message>
     <message>
       <source>Curve Optimizer is not available under Manual tuning. If you switch to this tuning mode, your changes to Curve Optimizer will be discarded. Are you sure you want to continue?</source>
-      <translation type="unfinished">Curve Optimizer is not available under Manual tuning. If you switch to this tuning mode, your changes to Curve Optimizer will be discarded. Are you sure you want to continue?</translation>
+      <translation>カーブの最適化は手動のチューニングでは利用できません。このチューニング モードに切り替えると、カーブの最適化への変更は破棄されます。続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Curve Optimizer</source>
@@ -3631,25 +3631,25 @@ You will be redirected to CPU Tuning</translation>
       <source>Switching between tabs will discard the unsaved changes.
 
 Are you sure you want to continue?</source>
-      <translation type="unfinished">Switching between tabs will discard the unsaved changes.
+      <translation>タブを切り替えると保存されていない変更は破棄されます。
 
-Are you sure you want to continue?</translation>
+続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Changing CPU Tuning Mode to Manual will require Curve Optimizer settings and few additional settings to be done.
 
 You will be redirected to CPU Tuning</source>
-      <translation type="unfinished">Changing CPU Tuning Mode to Manual will require Curve Optimizer settings and few additional settings to be done.
+      <translation>CPU チューニング モードを手動に変更するには、カーブの最適化設定といくつかの追加設定が必要になります。
 
-You will be redirected to CPU Tuning</translation>
+CPU チューニング画面にリダイレクトします。</translation>
     </message>
     <message>
       <source>Switching from the current profile will discard the unsaved changes.
 
 Are you sure you want to continue?</source>
-      <translation type="unfinished">Switching from the current profile will discard the unsaved changes.
+      <translation>現在のプロファイルから切り替えると、保存されていない変更は破棄されます。
 
-Are you sure you want to continue?</translation>
+続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Tuning settings will be lost</source>
@@ -3665,11 +3665,11 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>is not available with CCD Disable. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
-      <translation type="unfinished">is not available with CCD Disable. If you switch, your changes to these will be discarded. Are you sure you want to continue?</translation>
+      <translation>CCD を無効と併用するとこの機能は利用できません。切り替えると、これらの設定の変更は破棄されます。続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Switch to Advanced Mode</source>
-      <translation>Advanced モードに切り替え</translation>
+      <translation>高度モードに切り替え</translation>
     </message>
     <message>
       <source>Tuning Mode : Manual</source>
@@ -3681,11 +3681,11 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>is not available with Legacy Compatibility Mode. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
-      <translation type="unfinished">is not available with Legacy Compatibility Mode. If you switch, your changes to these will be discarded. Are you sure you want to continue?</translation>
+      <translation>レガシー互換モードでは利用できません。切り替えると、これらの設定の変更は破棄されます。続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Some changes will be discarded</source>
-      <translation type="unfinished">Some changes will be discarded</translation>
+      <translation>一部の変更は破棄されます</translation>
     </message>
     <message>
       <source>Continue</source>
@@ -3709,19 +3709,19 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>is not available with Curve Optimizer. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
-      <translation type="unfinished">is not available with Curve Optimizer. If you switch, your changes to these will be discarded. Are you sure you want to continue?</translation>
+      <translation>カーブの最適化では利用できません。切り替えると、これらの設定の変更は破棄されます。続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Switching views modifies the available tuning options and requires adjustments to some settings. However, changes won't be applied, so you can review them later.
 
 Are you sure you want to continue?</source>
-      <translation type="unfinished">Switching views modifies the available tuning options and requires adjustments to some settings. However, changes won't be applied, so you can review them later.
+      <translation>表示を切り替えると利用可能なチューニング オプションが変更され、一部の設定をチューニングする必要があります。ただし、変更はすぐに適用されないため後で確認できます。
 
-Are you sure you want to continue?</translation>
+続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>CPU Tuning can only be used in either AMD Overlocker or AMD Software. By enabling it here, you will also disable it within AMD Software. All CPU devices will be reset to their default state and current tuning settings will be lost. It is recommended that you save any work and close any applications before proceeding.</source>
-      <translation type="unfinished">CPU Tuning can only be used in either AMD Overlocker or AMD Software. By enabling it here, you will also disable it within AMD Software. All CPU devices will be reset to their default state and current tuning settings will be lost. It is recommended that you save any work and close any applications before proceeding.</translation>
+      <translation>CPU チューニングは、AMD Overlocker または AMD Software でのみ使用できます。ここで有効化すると AMD Software 内では無効化されます。すべての CPU デバイスはデフォルトの状態にリセットされ、現在のチューニング設定は失われます。すべてのアプリケーション閉じる前にすべての作業内容を保存してから、操作を実行することを推奨します。</translation>
     </message>
     <message>
       <source>Switch to Basic Mode</source>
@@ -3735,9 +3735,9 @@ Are you sure you want to continue?</translation>
       <source>Exporting a profile with unsaved changes will not reflect unsaved values in exported profile. 
 
 Are you sure you want to continue?</source>
-      <translation type="unfinished">Exporting a profile with unsaved changes will not reflect unsaved values in exported profile. 
+      <translation>保存されていない変更を含むプロファイルをエクスポートした場合、エクスポートしたプロファイルで保存されていない値は反映されません。
 
-Are you sure you want to continue?</translation>
+続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Warning</source>
@@ -3747,9 +3747,9 @@ Are you sure you want to continue?</translation>
       <source>Switching Profiles will discard the unsaved changes.
 
 Are you sure you want to continue?</source>
-      <translation type="unfinished">Switching Profiles will discard the unsaved changes.
+      <translation>プロファイルを切り替えると、保存されていない設定は破棄されます。
 
-Are you sure you want to continue?</translation>
+続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Core Disable</source>
@@ -3791,7 +3791,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Warning: This process may cause your system to crash or reboot, and your display to flicker.</source>
-      <translation type="unfinished">Warning: This process may cause your system to crash or reboot, and your display to flicker.</translation>
+      <translation>警告: この処理により、システムのクラッシュまたは再起動、画面のちらつきが発生する可能性があります。</translation>
     </message>
     <message>
       <source>Stress Test</source>
@@ -3799,7 +3799,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Select the hardware and the length of time the stress test should run for.</source>
-      <translation type="unfinished">Select the hardware and the length of time the stress test should run for.</translation>
+      <translation>ハードウェアと負荷テストを実行する時間を選択してください。</translation>
     </message>
     <message>
       <source>Stress Test Duration</source>
@@ -3822,7 +3822,7 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>Cannot set value less than BIOS limit:</source>
-      <translation type="unfinished">Cannot set value less than BIOS limit:</translation>
+      <translation>BIOS 制限値より小さい値に設定できません:</translation>
     </message>
   </context>
   <context>
@@ -3849,11 +3849,11 @@ Are you sure you want to continue?</translation>
     </message>
     <message>
       <source>The last profile was applied only partially because your system was restarted. This might be because a system restart was required to apply some settings. If you choose to "Continue", the rest of the profile and its settings will be applied.</source>
-      <translation type="unfinished">The last profile was applied only partially because your system was restarted. This might be because a system restart was required to apply some settings. If you choose to "Continue", the rest of the profile and its settings will be applied.</translation>
+      <translation>最後に選択したプロファイルは、システムが再起動されたため部分的にのみ適用されています。これは、一部の設定を適用するためにシステムの再起動が必要だったためです。「続行」を選択すると残りの設定が適用されます。</translation>
     </message>
     <message>
       <source>Important: If you see this message multiple times, it’s likely that the profile caused your system to become unstable and as a result, it crashed. In that case, you can choose to "Cancel" applying the rest of the profile to avoid further instability.</source>
-      <translation type="unfinished">Important: If you see this message multiple times, it’s likely that the profile caused your system to become unstable and as a result, it crashed. In that case, you can choose to "Cancel" applying the rest of the profile to avoid further instability.</translation>
+      <translation>重要: このメッセージが複数回表示される場合は、プロファイルが原因でシステムが不安定化し、クラッシュした可能性があります。その場合はプロファイルの残りの適用を「キャンセル」し、さらなる不安定化を回避してください。</translation>
     </message>
     <message>
       <source>Decline</source>
@@ -3863,9 +3863,9 @@ Are you sure you want to continue?</translation>
       <source>AMD processors are intended to be operated only within their associated specifications and factory settings.  Operating your AMD processor outside of official AMD specifications or outside of factory settings, including but not limited to the conducting of overclocking (including use of this overclocking software, even if such software has been directly or indirectly provided by AMD or otherwise affiliated in any way with AMD), may damage your processor and/or lead to other problems, including but not limited to, damage to your system components (including your motherboard and components thereon (e.g. memory)), system instabilities (e.g. data loss and corrupted images), reduction in system performance, shortened processor, system component and/or system life and in extreme cases, total system failure. AMD does not provide support or service for issues or damages related to use of an AMD processor outside of official AMD specifications or outside of factory settings. You may also not receive support or service from your board or system manufacturer. Please make sure you have saved all important data before using this overclocking software.
 
 DAMAGES CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF OFFICIAL AMD SPECIFICATIONS OR OUTSIDE OF FACTORY SETTINGS ARE NOT COVERED UNDER ANY AMD PRODUCT WARRANTY AND MAY NOT BE COVERED BY YOUR BOARD OR SYSTEM MANUFACTURER'S WARRANTY.</source>
-      <translation type="unfinished">AMD processors are intended to be operated only within their associated specifications and factory settings.  Operating your AMD processor outside of official AMD specifications or outside of factory settings, including but not limited to the conducting of overclocking (including use of this overclocking software, even if such software has been directly or indirectly provided by AMD or otherwise affiliated in any way with AMD), may damage your processor and/or lead to other problems, including but not limited to, damage to your system components (including your motherboard and components thereon (e.g. memory)), system instabilities (e.g. data loss and corrupted images), reduction in system performance, shortened processor, system component and/or system life and in extreme cases, total system failure. AMD does not provide support or service for issues or damages related to use of an AMD processor outside of official AMD specifications or outside of factory settings. You may also not receive support or service from your board or system manufacturer. Please make sure you have saved all important data before using this overclocking software.
+      <translation>AMD プロセッサは、定められた仕様および出荷時の設定の範囲内でのみ使用することを想定しています。AMD の公式仕様または出荷時の設定範囲外で AMD プロセッサを使用した場合 (オーバークロックに限らず、本オーバークロック用ソフトウェアが AMD から直接または間接的に提供されたものであるか、あるいは AMD と何らかの形で関連している場合でも同様) は、プロセッサの損傷やシステムの不安定化 (データの損失やイメージの破損など)やシステム パフォーマンスの低下、プロセッサ システム構成要素、システムの寿命が短命化、最悪の場合はシステム全体の破損などが発生する可能性があります。AMD は AMD の公式仕様または出荷時の設定の範囲外でのプロセッサの使用に関連する問題や損失については、サポートやサービスを一切提供しません。また、マザーボードまたはシステム メーカーからもサポートやサービスの受付を拒否される場合があります。本オーバークロック用ソフトウェアを使用する前に、すべての重要なデータを必ず保存してください。
 
-DAMAGES CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF OFFICIAL AMD SPECIFICATIONS OR OUTSIDE OF FACTORY SETTINGS ARE NOT COVERED UNDER ANY AMD PRODUCT WARRANTY AND MAY NOT BE COVERED BY YOUR BOARD OR SYSTEM MANUFACTURER'S WARRANTY.</translation>
+AMD の公式仕様または出荷時の設定範囲外での AMD プロセッサの使用によって生じた損害は、いかなる AMD 製品の保証対象外となります。同時にマザーボードまたはシステム メーカーの保証の対象外となる場合があります。</translation>
     </message>
     <message>
       <source>Error: </source>
@@ -3982,35 +3982,35 @@ DAMAGES CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF OFFICIAL AMD SPECIFICATIO
     </message>
     <message>
       <source>AMD Spec Parameter values are same as 'Default' Control Mode</source>
-      <translation type="unfinished">AMD Spec Parameter values are same as 'Default' Control Mode</translation>
+      <translation>AMD の仕様パラメータの値は「デフォルト」の制御モードと同じです。</translation>
     </message>
     <message>
       <source>To use custom AMD Spec values, switch to Advanced Mode.</source>
-      <translation type="unfinished">To use custom AMD Spec values, switch to Advanced Mode.</translation>
+      <translation>AMD の仕様値をカスタムするには、高度モードに切り替えてください。</translation>
     </message>
     <message>
       <source>The default values of Precision Boost Overdrive (PBO) Parameter values are same as Eco-Mode.</source>
-      <translation type="unfinished">The default values of Precision Boost Overdrive (PBO) Parameter values are same as Eco-Mode.</translation>
+      <translation>プレシジョン ブースト オーバードライブ (PBO) のパラメータ値は ECO モードと同じです。</translation>
     </message>
     <message>
       <source>The default values of AMD Spec Parameter values are same as Eco-Mode.</source>
-      <translation type="unfinished">The default values of AMD Spec Parameter values are same as Eco-Mode.</translation>
+      <translation>AMD の仕様パラメータのデフォルト値は ECO モードと同じです。</translation>
     </message>
     <message>
       <source>Precision Boost Overdrive (PBO) Parameter values are same as 'Default' Control Mode</source>
-      <translation type="unfinished">Precision Boost Overdrive (PBO) Parameter values are same as 'Default' Control Mode</translation>
+      <translation>プレシジョン ブースト オーバードライブ (PBO) のパラメータ値は「デフォルト」の制御モードと同じです。</translation>
     </message>
     <message>
       <source>PBO Advanced Control mode does not support Boost Override CPU set to zero and PBO scalar set to one at the same time</source>
-      <translation type="unfinished">PBO Advanced Control mode does not support Boost Override CPU set to zero and PBO scalar set to one at the same time</translation>
+      <translation>PBO 高度制御モードでは CPU ブーストの上書きが 0 に設定され、PBO スカラーが 1 に同時設定されている状態は対応していません</translation>
     </message>
     <message>
       <source>To use custom Precision Boost Overdrive (PBO) values, switch to Advanced Mode.</source>
-      <translation type="unfinished">To use custom Precision Boost Overdrive (PBO) values, switch to Advanced Mode.</translation>
+      <translation>プレシジョン ブースト オーバードライブ (PBO) をカスタムするには、高度モードに切り替えてください。</translation>
     </message>
     <message>
       <source>PBO Advanced Control mode does not support Boost Override CPU &amp; GPU set to zero and PBO scalar set to one at the same time</source>
-      <translation type="unfinished">PBO Advanced Control mode does not support Boost Override CPU &amp; GPU set to zero and PBO scalar set to one at the same time</translation>
+      <translation>PBO 高度制御モードでは CPU と GPU ブーストの上書きが 0 に設定され、PBO スカラーが 1 に同時設定されている状態は対応していません</translation>
     </message>
   </context>
   <context>
@@ -4093,7 +4093,7 @@ DAMAGES CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF OFFICIAL AMD SPECIFICATIO
     </message>
     <message>
       <source>Are you sure you want to delete ‘</source>
-      <translation type="unfinished">Are you sure you want to delete ‘</translation>
+      <translation>本当に削除してもよろしいですか</translation>
     </message>
     <message>
       <source>Description (Optional)</source>
@@ -4110,12 +4110,12 @@ DAMAGES CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF OFFICIAL AMD SPECIFICATIO
     <message>
       <source>’? 
 This action cannot be undone.</source>
-      <translation type="unfinished">’? 
-This action cannot be undone.</translation>
+      <translation>？ 
+この操作は元に戻せません。</translation>
     </message>
     <message>
       <source>Reset all hardware to current state</source>
-      <translation type="unfinished">Reset all hardware to current state</translation>
+      <translation>すべてのハードウェアを現在の状態にリセット</translation>
     </message>
     <message>
       <source>Reset Profile</source>
@@ -4157,7 +4157,7 @@ This action cannot be undone.</translation>
     </message>
     <message>
       <source>You've disabled all gauges from being displayed.</source>
-      <translation type="unfinished">You've disabled all gauges from being displayed.</translation>
+      <translation>すべての指標の表示を無効化しました。</translation>
     </message>
     <message>
       <source>System</source>
@@ -4196,15 +4196,15 @@ This action cannot be undone.</translation>
     <name>ProfileDialog</name>
     <message>
       <source>A profile with same name already exists. Please choose a different name for your new profile.</source>
-      <translation type="unfinished">A profile with same name already exists. Please choose a different name for your new profile.</translation>
+      <translation>同じ名前のプロファイルがすでに存在します。新しいプロファイルには別の名前を選択してください。</translation>
     </message>
     <message>
       <source>Profile name cannot be empty. Please enter a valid profile name.</source>
-      <translation type="unfinished">Profile name cannot be empty. Please enter a valid profile name.</translation>
+      <translation>プロファイル名は空欄にできません。有効なプロファイル名を入力してください。</translation>
     </message>
     <message>
       <source>You have already created the maximum number of profiles allowed. Please delete an existing profile if you wish to create a new one.</source>
-      <translation type="unfinished">You have already created the maximum number of profiles allowed. Please delete an existing profile if you wish to create a new one.</translation>
+      <translation>作成可能なプロファイルの最大数に達しています。新しいプロファイルを作成する場合は、既存のプロファイルを削除してください。</translation>
     </message>
     <message>
       <source>Create From</source>
@@ -4212,11 +4212,11 @@ This action cannot be undone.</translation>
     </message>
     <message>
       <source>How would you like to reset this profile?</source>
-      <translation type="unfinished">How would you like to reset this profile?</translation>
+      <translation>このプロファイルをリセットしますか？</translation>
     </message>
     <message>
       <source>Enter some text to describe this profile...</source>
-      <translation type="unfinished">Enter some text to describe this profile...</translation>
+      <translation>このプロファイルについての説明を入力してください...</translation>
     </message>
   </context>
   <context>
@@ -4271,26 +4271,26 @@ This action cannot be undone.</translation>
     </message>
     <message>
       <source>Profile with same name already exist. Cannot Import selected file</source>
-      <translation type="unfinished">Profile with same name already exist. Cannot Import selected file</translation>
+      <translation>同じ名前のプロファイルがすでに存在します。選択したプロファイルをインポートできません。</translation>
     </message>
     <message>
       <source>The profile you are trying to import is incompatible and cannot be imported.</source>
-      <translation type="unfinished">The profile you are trying to import is incompatible and cannot be imported.</translation>
+      <translation>インポートしようとしているファイルは互換性がないため、インポートできません。</translation>
     </message>
     <message>
       <source>Enter some text to describe this profile...</source>
-      <translation type="unfinished">Enter some text to describe this profile...</translation>
+      <translation>このプロファイルについての説明を入力してください...</translation>
     </message>
   </context>
   <context>
     <name>RestartPopup</name>
     <message>
       <source>Hover the respective error icons of each parameter for more details</source>
-      <translation type="unfinished">Hover the respective error icons of each parameter for more details</translation>
+      <translation>各パラメータのエラー アイコンにカーソルを合わせると詳細が表示されます</translation>
     </message>
     <message>
       <source>A restart is required to complete this process.</source>
-      <translation type="unfinished">A restart is required to complete this process.</translation>
+      <translation>この処理を完了するには再起動が必要です。</translation>
     </message>
     <message>
       <source>Summary</source>
@@ -4351,7 +4351,7 @@ This action cannot be undone.</translation>
     <name>SettingsModel</name>
     <message>
       <source>Disabling PROCHOT causes the processor to ignore the system's PROCHOT signal. </source>
-      <translation type="unfinished">Disabling PROCHOT causes the processor to ignore the system's PROCHOT signal. </translation>
+      <translation>PROCHOT を無効化すると、プロセッサはシステムの PROCHOT の信号を無視するようになります。 </translation>
     </message>
     <message>
       <source>NOTE: A system re-start is required to re-enable PROCHOT</source>
@@ -4367,11 +4367,11 @@ This action cannot be undone.</translation>
     </message>
     <message>
       <source>PROCHOT can only be disabled once the CPU is in Manual OC Mode. </source>
-      <translation type="unfinished">PROCHOT can only be disabled once the CPU is in Manual OC Mode. </translation>
+      <translation>PROCHOT は CPU が手動 OC モード時でのみ無効化できます。 </translation>
     </message>
     <message>
       <source>This mode is typically used only with extreme cooling solutions for extreme overclocking experiments. Use with caution.</source>
-      <translation type="unfinished">This mode is typically used only with extreme cooling solutions for extreme overclocking experiments. Use with caution.</translation>
+      <translation>このモードは通常、極端なオーバークロック実験のために極めて高性能な冷却システムと組み合わせているときでのみ使用されます。使用には十分ご注意ください。</translation>
     </message>
   </context>
   <context>
@@ -4396,7 +4396,7 @@ This action cannot be undone.</translation>
     <name>UserMode</name>
     <message>
       <source>Let’s choose an appropriate User Mode for you before you start tuning!</source>
-      <translation type="unfinished">Let’s choose an appropriate User Mode for you before you start tuning!</translation>
+      <translation>チューニングを始める前に、あなたに適したユーザー モードを選択しましょう！</translation>
     </message>
     <message>
       <source>Proceed</source>
@@ -4404,7 +4404,7 @@ This action cannot be undone.</translation>
     </message>
     <message>
       <source>You can change this user mode setting anytime under Settings &gt; Preferences</source>
-      <translation type="unfinished">You can change this user mode setting anytime under Settings &gt; Preferences</translation>
+      <translation>このユーザー モード設定は「設定」&gt;「環境設定」からいつでも変更できます</translation>
     </message>
   </context>
   <context>
@@ -4415,7 +4415,7 @@ This action cannot be undone.</translation>
     </message>
     <message>
       <source>Switch to Advanced Mode</source>
-      <translation>Advanced モードに切り替え</translation>
+      <translation>高度モードに切り替え</translation>
     </message>
     <message>
       <source>Continue</source>
@@ -4425,9 +4425,9 @@ This action cannot be undone.</translation>
       <source>Switching views modifies the available tuning options and requires adjustments to some settings. However, changes won't be applied, so you can review them later.
 
 Are you sure you want to continue?</source>
-      <translation type="unfinished">Switching views modifies the available tuning options and requires adjustments to some settings. However, changes won't be applied, so you can review them later.
+      <translation>表示を切り替えると利用可能なチューニング オプションが変更され、一部の設定をチューニングする必要があります。ただし、変更はすぐに適用されないため、後で確認できません。
 
-Are you sure you want to continue?</translation>
+続行しますか？</translation>
     </message>
     <message>
       <source>Switch to Basic Mode</source>
@@ -4445,7 +4445,7 @@ Are you sure you want to continue?</translation>
     <name>ExceptionPopup</name>
     <message>
       <source>Due to the below exception following tuning settings could not be applied </source>
-      <translation type="unfinished">Due to the below exception following tuning settings could not be applied </translation>
+      <translation>例外により以下のチューニング設定を適用できませんでした </translation>
     </message>
   </context>
   <context>
