@@ -468,7 +468,7 @@
     </message>
     <message>
       <source>Clock Cycles</source>
-      <translation>クロックサイクル</translation>
+      <translation>クロック サイクル</translation>
     </message>
     <message>
       <source>Current I/O Clock Speed</source>
@@ -516,7 +516,7 @@
     </message>
     <message>
       <source>Basic</source>
-      <translation>ベーシック</translation>
+      <translation>基本</translation>
     </message>
     <message>
       <source>EDRAM</source>
@@ -760,7 +760,7 @@
     </message>
     <message>
       <source>Enables users to apply EXPO Profile values on-the-fly. Note that a one-time system restart is necessary before the EXPO Profile can be applied</source>
-      <translation type="unfinished">Enables users to apply EXPO Profile values on-the-fly. Note that a one-time system restart is necessary before the EXPO Profile can be applied</translation>
+      <translation>ユーザーは EXPO プロファイルの値をオンザフライで適用できます。EXPO プロファイルを適用する前に、システムを再起動する必要があることにご注意ください。</translation>
     </message>
     <message>
       <source>AMD Spec</source>
@@ -768,7 +768,7 @@
     </message>
     <message>
       <source>Write CO to BIOS</source>
-      <translation>BIOS に CO を書き込み</translation>
+      <translation>CO を BIOS に書き込む</translation>
     </message>
     <message>
       <source>DRAM Termination RTT_NOM</source>
@@ -1018,7 +1018,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Ryzen Master requires Windows 10 or greater.</source>
-      <translation type="unfinished">Ryzen Master requires Windows 10 or greater.</translation>
+      <translation>Ryzen Master は Windows 10 以降が必要です。</translation>
     </message>
     <message>
       <source>Specifies the Processor CK drive strengths</source>
@@ -1210,7 +1210,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>is dependent on Write PBO to BIOS setting, changes will be applied on-the-fly but may not be preserved after a system restart. To ensure applied values persist even after a reboot, turn ON the Write PBO to BIOS feature in the Settings page.</source>
-      <translation type="unfinished">is dependent on Write PBO to BIOS setting, changes will be applied on-the-fly but may not be preserved after a system restart. To ensure applied values persist even after a reboot, turn ON the Write PBO to BIOS feature in the Settings page.</translation>
+      <translation>この機能は「PBO を BIOS に書き込む」設定に依存しており、変更は即座に適用されますが、システムの再起動後に保持されない場合があります。再起動後も適用された値が確実に保持されるようにするには、設定ページで「PBO を BIOS に書き込む」の機能をオンにしてください。</translation>
     </message>
     <message>
       <source>Simultaneous Multithreading</source>
@@ -1218,7 +1218,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Running the curve optimizer validation is a long and invasive process. You will not be able to use any other tuning features until the process is complete.</source>
-      <translation type="unfinished">Running the curve optimizer validation is a long and invasive process. You will not be able to use any other tuning features until the process is complete.</translation>
+      <translation>カーブ最適化の検証の実行は、時間と労力を要する処理です。この処理が完了するまで、他のチューニング機能は一切使用できません。</translation>
     </message>
     <message>
       <source>PROCODT_PullDown</source>
@@ -1338,7 +1338,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>The 2T Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals(not including CS, CKE, and ODT). Important: The memory controller doesn't support 2T mode and Gear Down enabled together</source>
-      <translation type="unfinished">The 2T Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals(not including CS, CKE, and ODT). Important: The memory controller doesn't support 2T mode and Gear Down enabled together</translation>
+      <translation>2T タイミング機能は、すべての DDR DRAM アドレス信号およびコマンド信号 (CS、CKE、ODT を除く) に追加の MEMCLK セットアップ タイムを提供します。重要: メモリ制御は 2T モードとギア ダウン機能の同時使用をサポートしていません。</translation>
     </message>
     <message>
       <source>GPU - </source>
@@ -1371,8 +1371,8 @@ Please take an appropriate action to proceed further.</translation>
     <message>
       <source>Selected Offset value is same as of Curve Optimizer Mode - OFF.
 Please select valid offset values and then apply again.</source>
-      <translation type="unfinished">Selected Offset value is same as of Curve Optimizer Mode - OFF.
-Please select valid offset values and then apply again.</translation>
+      <translation>選択されたオフセット値は、カーブの最適化モードがオフの場合と同じです。
+有効なオフセット値を選択して、再度適用してください。</translation>
     </message>
     <message>
       <source>Overclocking is not yet enabled.</source>
@@ -1416,11 +1416,11 @@ Please select valid offset values and then apply again.</translation>
     </message>
     <message>
       <source>This mode enables the user to adjust PBO parameters (PPT, TDC, EDC) up to the AMD Spec limits, but not exceeding them</source>
-      <translation type="unfinished">This mode enables the user to adjust PBO parameters (PPT, TDC, EDC) up to the AMD Spec limits, but not exceeding them</translation>
+      <translation>このモードでは、ユーザーが PBO パラメータ (PPT、TDC、EDC) を AMD の仕様の制限値まで調整できますが、制限値を超えることはできません</translation>
     </message>
     <message>
       <source>Update interval for controls under Dashboard section</source>
-      <translation type="unfinished">Update interval for controls under Dashboard section</translation>
+      <translation>ダッシュボード セクションの制御の更新間隔</translation>
     </message>
     <message>
       <source>Manual</source>
@@ -1464,7 +1464,7 @@ Please select valid offset values and then apply again.</translation>
     </message>
     <message>
       <source>Lower value in ohms will configure processor to drive stronger signal on CS and ODT pins</source>
-      <translation type="unfinished">Lower value in ohms will configure processor to drive stronger signal on CS and ODT pins</translation>
+      <translation>Ω を小さくすると、プロセッサは CS ピンと ODT ピンでより強い信号を出力するように設定されます</translation>
     </message>
     <message>
       <source>Error while deleting </source>
@@ -1512,7 +1512,7 @@ Please select valid offset values and then apply again.</translation>
     </message>
     <message>
       <source>Row Precharge Delay</source>
-      <translation type="unfinished">Row Precharge Delay</translation>
+      <translation>ロープリチャージの遅延</translation>
     </message>
     <message>
       <source>Update</source>
@@ -1520,11 +1520,11 @@ Please select valid offset values and then apply again.</translation>
     </message>
     <message>
       <source>Cores Speed is not available when OC Mode is not in Manual</source>
-      <translation type="unfinished">Cores Speed is not available when OC Mode is not in Manual</translation>
+      <translation>OC モードが手動でない場合、コア速度は利用できません</translation>
     </message>
     <message>
       <source> imported successfully.</source>
-      <translation type="unfinished"> imported successfully.</translation>
+      <translation> インポートしました。</translation>
     </message>
     <message>
       <source>Adjust the VDDIO voltage</source>
@@ -1626,7 +1626,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>DRAM Termination RTT_Park</source>
-      <translation type="unfinished">DRAM Termination RTT_Park</translation>
+      <translation>DRAM Termination RTT_Park</translation>
     </message>
     <message>
       <source>Show CCDs</source>
@@ -1650,7 +1650,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source> successfully reset to current values.</source>
-      <translation type="unfinished"> successfully reset to current values.</translation>
+      <translation> 現在の値にリセットしました。</translation>
     </message>
     <message>
       <source>Per Die</source>
@@ -1662,11 +1662,11 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Invalid Symmetry for core disabled. Number of cores should be same across active CCD</source>
-      <translation type="unfinished">Invalid Symmetry for core disabled. Number of cores should be same across active CCD</translation>
+      <translation>コア無効化の対称性が無効化されています。アクティブな CCD 全体でのコア数は同じである必要があります。</translation>
     </message>
     <message>
       <source>Invalid Symmetry for core disabled. Number of cores should be same across active CCX</source>
-      <translation type="unfinished">Invalid Symmetry for core disabled. Number of cores should be same across active CCX</translation>
+      <translation>コア無効化の対称性が無効化されています。アクティブな CCX 全体でのコア数は同じである必要があります。</translation>
     </message>
     <message>
       <source> to stock values.</source>
@@ -1694,11 +1694,11 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>When turned ON, the Curve Optimizer parameters will be persistent even after system restart</source>
-      <translation type="unfinished">When turned ON, the Curve Optimizer parameters will be persistent even after system restart</translation>
+      <translation>オンにするとカーブの最適化のパラメータは、システムの再起動後も保持されます</translation>
     </message>
     <message>
       <source>Click OK to enable overclocking. The configuration requested requires Ryzen Master to Restart Windows, post restart please re-open Ryzen Master</source>
-      <translation type="unfinished">Click OK to enable overclocking. The configuration requested requires Ryzen Master to Restart Windows, post restart please re-open Ryzen Master</translation>
+      <translation>オーバークロックを有効化するには「OK」をクリックしてください。要求された構成を実行するには、Ryzen Master から Windows を再起動する必要があります。再起動後に Ryzen Master を再度開いてください。</translation>
     </message>
     <message>
       <source>VDDCR SOC Telemetry Power</source>
@@ -1746,7 +1746,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Ryzen Master unable to initialize. Kindly reinstall the program.</source>
-      <translation type="unfinished">Ryzen Master unable to initialize. Kindly reinstall the program.</translation>
+      <translation>Ryzen Master を初期化できませんでした。プログラムを再インストールしてください。</translation>
     </message>
     <message>
       <source>Dram Pull-up and Pull-Down Output Driver Impedance for all DQ and DMI Ios</source>
@@ -1754,7 +1754,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Read CAS# to precharge time</source>
-      <translation>CAS# を読み取りで充電時間を計測</translation>
+      <translation>CAS# を読み取りでプリチャージ時間を計測</translation>
     </message>
     <message>
       <source>Curve Values Already Exist</source>
@@ -1766,7 +1766,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Restore all Settings parameters to their default values</source>
-      <translation type="unfinished">Restore all Settings parameters to their default values</translation>
+      <translation>すべての設定パラメータをデフォルト値に戻します</translation>
     </message>
     <message>
       <source>AddrCmdSetup</source>
@@ -1778,7 +1778,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Allows the processor to run beyond the default infrastructure limits up to the limits of the board to potentially achieve higher sustained frequencies</source>
-      <translation type="unfinished">Allows the processor to run beyond the default infrastructure limits up to the limits of the board to potentially achieve higher sustained frequencies</translation>
+      <translation>プロセッサがデフォルトのインフラストラクチャの制限を超えてボードの制限まで動作可能にすることで、より高い持続周波数を実現できる可能性があります</translation>
     </message>
     <message>
       <source>Stop Stress Test</source>
@@ -1787,8 +1787,8 @@ Please take an appropriate action to proceed further.</translation>
     <message>
       <source>Running the curve optimizer is a long and invasive process. You will not be able to use any other tuning features until the process is complete. Your system may restart during this process, so it is recommended that you save any work and close all applications before proceeding.
 Curve Optimizer is not supported with current system values, proceeding with this will lead to reset of few parameters. Do you want to proceed?</source>
-      <translation type="unfinished">Running the curve optimizer is a long and invasive process. You will not be able to use any other tuning features until the process is complete. Your system may restart during this process, so it is recommended that you save any work and close all applications before proceeding.
-Curve Optimizer is not supported with current system values, proceeding with this will lead to reset of few parameters. Do you want to proceed?</translation>
+      <translation>カーブの最適化の実行は、長時間かつシステムに大きな影響を与える処理です。処理が完了するまで、他のチューニング機能は一切使用できません。処理中にシステムが再起動する可能性があるため、作業内容を保存してすべてのアプリケーションを閉じてから実行することを推奨します。
+現在のシステム値では、カーブの最適化はサポートされていません。このまま実行すると一部のパラメータがリセットされます。続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>. Any current tuning settings will be lost.</source>
@@ -1820,7 +1820,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Few cores are already disabled, can not disable further cores</source>
-      <translation type="unfinished">Few cores are already disabled, can not disable further cores</translation>
+      <translation>すでにいくつかのコアが無効化されているため、これ以上のコアを無効化することはできません</translation>
     </message>
     <message>
       <source>Core Sync</source>
@@ -1832,7 +1832,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Previous curve optimization was ended prematurely. Some values have already been optimized. You can either restart the process from the beginning, or continue where it left off.</source>
-      <translation type="unfinished">Previous curve optimization was ended prematurely. Some values have already been optimized. You can either restart the process from the beginning, or continue where it left off.</translation>
+      <translation>前回のカーブ最適化処理が途中で終了しました。一部の値はすでに最適化されています。処理を最初からやり直すか、中断したところから再開するかを選択できます。</translation>
     </message>
     <message>
       <source>Last applied Tuning: Workspace</source>
@@ -1844,7 +1844,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Error while resetting </source>
-      <translation type="unfinished">Error while resetting </translation>
+      <translation>リセット中にエラーが発生しました </translation>
     </message>
     <message>
       <source>Specifies the Processor ODT Impedance Pull Up P0</source>
@@ -1876,7 +1876,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Unsupported hardware!</source>
-      <translation>非対応のハードウェアです！</translation>
+      <translation>サポートしていないハードウェアです！</translation>
     </message>
     <message>
       <source> was successfully created.</source>
@@ -1884,7 +1884,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Error while saving </source>
-      <translation type="unfinished">Error while saving </translation>
+      <translation>保存中にエラーが発生しました </translation>
     </message>
     <message>
       <source>CLDO VDDP</source>
@@ -1909,8 +1909,8 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     <message>
       <source>Selected Curve Optimizer mode has not been optimized.
  Please optimize the values by clicking on 'Optimize' button and then apply again.</source>
-      <translation type="unfinished">Selected Curve Optimizer mode has not been optimized.
- Please optimize the values by clicking on 'Optimize' button and then apply again.</translation>
+      <translation>選択したカーブ最適化モードで最適化されていません。
+ 「最適化」ボタンをクリックして値を最適化し、再度適用してください。</translation>
     </message>
     <message>
       <source> EXPO Mode will load </source>
@@ -1922,7 +1922,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Select a combination of active CCDs for the selected Active CCD Mode</source>
-      <translation type="unfinished">Select a combination of active CCDs for the selected Active CCD Mode</translation>
+      <translation>選択したアクティブ CCD モードに対して、アクティブ CCD の組み合わせを選択してください</translation>
     </message>
     <message>
       <source>Peak Core Voltage</source>
@@ -1930,11 +1930,11 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Error while creating duplicate profile from </source>
-      <translation type="unfinished">Error while creating duplicate profile from </translation>
+      <translation>重複プロファイルの作成中にエラーが発生しました </translation>
     </message>
     <message>
       <source>All cores should be enabled before Legacy Compatibility Mode can be turned ON</source>
-      <translation type="unfinished">All cores should be enabled before Legacy Compatibility Mode can be turned ON</translation>
+      <translation>レガシー互換モードをオンにする前に、すべてのコアを有効化する必要があります</translation>
     </message>
     <message>
       <source>RttPark</source>
@@ -2116,7 +2116,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Note : Use of AMD products outside of the Specifications or outside of factory settings will void any AMD warranty.</source>
-      <translation type="unfinished">Note : Use of AMD products outside of the Specifications or outside of factory settings will void any AMD warranty.</translation>
+      <translation>注意: AMD 製品を仕様外または出荷時の設定外で使用することで、AMD の保証を受けることができなくなります。</translation>
     </message>
     <message>
       <source>Automatic</source>
@@ -2124,11 +2124,11 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Ryzen Master is not supported in current hardware configuration.</source>
-      <translation type="unfinished">Ryzen Master is not supported in current hardware configuration.</translation>
+      <translation>Ryzen Master は現在のハードウェア構成に対応していません。</translation>
     </message>
     <message>
       <source>Curve Optimizer cannot be set when Cores are currently disabled</source>
-      <translation type="unfinished">Curve Optimizer cannot be set when Cores are currently disabled</translation>
+      <translation>コアが無効化されている場合、カーブの最適化は設定できません</translation>
     </message>
     <message>
       <source>The Gear Down mode Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals.  Important: The memory controller doesn't support 2T mode and Gear Down enabled together.</source>
@@ -2136,7 +2136,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Discarded unsupported values for: </source>
-      <translation type="unfinished">Discarded unsupported values for: </translation>
+      <translation>サポートされていない値は破棄されました: </translation>
     </message>
     <message>
       <source>Trcpage</source>
@@ -2192,11 +2192,11 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Curve Optimizer is not enabled when LCM is ON</source>
-      <translation type="unfinished">Curve Optimizer is not enabled when LCM is ON</translation>
+      <translation>LCM がオンの場合、カーブの最適化は有効化されません</translation>
     </message>
     <message>
       <source>Lower value in ohms will configure processor to drive stronger signal on CKE pins</source>
-      <translation type="unfinished">Lower value in ohms will configure processor to drive stronger signal on CKE pins</translation>
+      <translation>Ω が低いほど、プロセッサは CKE ピンに強い信号を送信するように構成されます</translation>
     </message>
     <message>
       <source>Are you sure you want to stop curve optimization?</source>
@@ -2244,7 +2244,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Ryzen Master Driver service is not Running.</source>
-      <translation type="unfinished">Ryzen Master Driver service is not Running.</translation>
+      <translation>Ryzen Master ドライバー サービスは実行されていません。</translation>
     </message>
     <message>
       <source>Error while reading </source>
@@ -2360,7 +2360,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Error while creating </source>
-      <translation type="unfinished">Error while creating </translation>
+      <translation>作成中にエラーが発生しました </translation>
     </message>
     <message>
       <source>Advanced Mode</source>
@@ -2408,7 +2408,7 @@ Please take an appropriate action to proceed further.</translation>
     </message>
     <message>
       <source>Ryzen Master detects some cores are disabled. Core performance indicators will not be available until it is launched in stock core configuration.</source>
-      <translation type="unfinished">Ryzen Master detects some cores are disabled. Core performance indicators will not be available until it is launched in stock core configuration.</translation>
+      <translation>Ryzen Master は一部のコアが無効化されていることを検出しました。標準のコア構成で起動するまで、コアのパフォーマンス指標は表示されません。</translation>
     </message>
     <message>
       <source>System stress test in progress..</source>
@@ -2502,7 +2502,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Write PBO to BIOS</source>
-      <translation>BIOS に PBO を書き込み</translation>
+      <translation>PBO を BIOS を書き込む</translation>
     </message>
     <message>
       <source>Multiple Instance Access Denied!</source>
@@ -2518,7 +2518,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Telemetry values might not be accurate if motherboard manufacturers/endusers override/offset the power rail via PM bus</source>
-      <translation type="unfinished">Telemetry values might not be accurate if motherboard manufacturers/endusers override/offset the power rail via PM bus</translation>
+      <translation>マザーボード メーカーやエンド ユーザーが PM バス経由で電源レールを上書き/オフセットをした場合、テレメトリの値は正確ではない可能性があります</translation>
     </message>
     <message>
       <source>All Cores</source>
@@ -2594,7 +2594,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Unsupported Processor!</source>
-      <translation>非対応なプロセッサです！</translation>
+      <translation>サポートしていないプロセッサです！</translation>
     </message>
     <message>
       <source>Add/Cmd Setup Timing Settings</source>
@@ -2618,7 +2618,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>With Curve Optimizer turned ON, setting Curve Offset to '0' is not allowed, as it functions the same as if Curve Optimizer was turned OFF. Please set a non-zero value for Curve Offset.</source>
-      <translation type="unfinished">With Curve Optimizer turned ON, setting Curve Offset to '0' is not allowed, as it functions the same as if Curve Optimizer was turned OFF. Please set a non-zero value for Curve Offset.</translation>
+      <translation>カーブの最適化がオンの場合、カーブ オフセットを「0」に設定することはできません。これは、カーブの最適化がオフの場合と同じ動作になるためです。カーブ オフセットは 0 以外の値を設定してください。</translation>
     </message>
     <message>
       <source>Show Advertisement Banner</source>
@@ -2638,7 +2638,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Basic Mode</source>
-      <translation>ベーシック モード</translation>
+      <translation>基本モード</translation>
     </message>
     <message>
       <source>Consider setting Core Frequency and Peak Core(s) Voltage before engaging Manual mode</source>
@@ -2654,7 +2654,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Curve optimizer values already exist. If you proceed with optimization, these values will be overwritten. Are you sure you want to continue?</source>
-      <translation type="unfinished">Curve optimizer values already exist. If you proceed with optimization, these values will be overwritten. Are you sure you want to continue?</translation>
+      <translation>カーブ最適化の値はすでに存在しています。最適化を実行すると、これらの値は上書きされます。続行してもよろしいですか？</translation>
     </message>
     <message>
       <source>Missing required OS!</source>
@@ -2666,7 +2666,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>PROCDataDriveStrength_PullDown</source>
-      <translation type="unfinished">PROCDataDriveStrength_PullDown</translation>
+      <translation>PROCDataDriveStrength_PullDown</translation>
     </message>
     <message>
       <source>NOTE: Setting not same values for PMIC VDD and VDDQ (non-coupled mode) may cause memory stability issues. Recommended for advanced users only.</source>
@@ -3725,7 +3725,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
       <source>Switch to Basic Mode</source>
-      <translation>ベーシック モードに切り替え</translation>
+      <translation>基本モードに切り替え</translation>
     </message>
     <message>
       <source>Discard &amp; Continue</source>
@@ -4123,7 +4123,7 @@ This action cannot be undone.</source>
     </message>
     <message>
       <source>Reset Profile to current Memory state?</source>
-      <translation type="unfinished">Reset Profile to current Memory state?</translation>
+      <translation>プロファイルを現在のメモリの状態にリセットしますか？</translation>
     </message>
     <message>
       <source>Description/Info (Optional)</source>
@@ -4336,7 +4336,7 @@ This action cannot be undone.</source>
     <name>IncompatibleProfile</name>
     <message>
       <source>Discard Unsupported Values</source>
-      <translation>非対応の値を破棄</translation>
+      <translation>サポートしていない値を破棄</translation>
     </message>
     <message>
       <source>Incompatible Profile</source>
@@ -4431,7 +4431,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
       <source>Switch to Basic Mode</source>
-      <translation>ベーシック モードに切り替え</translation>
+      <translation>基本モードに切り替え</translation>
     </message>
   </context>
   <context>
