@@ -172,7 +172,7 @@
     </message>
     <message>
         <source>?</source>
-        <translation>？</translation>
+        <translation>?</translation>
     </message>
     <message>
         <source>A</source>
