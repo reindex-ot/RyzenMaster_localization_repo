@@ -1686,7 +1686,7 @@ Please take an appropriate action to proceed further.</source>
     </message>
     <message>
         <source>Factory Reset</source>
-        <translation>リセットする</translation>
+        <translation>リセット</translation>
     </message>
     <message>
         <source>Specifies the Processor DQ drive strengths Pull Up P0</source>
@@ -3388,7 +3388,7 @@ The following tuning settings could not be applied:</source>
     </message>
     <message>
         <source>Factory Reset</source>
-        <translation>出荷時に戻す</translation>
+        <translation>完全に戻す</translation>
     </message>
     <message>
         <source>Proceed</source>
