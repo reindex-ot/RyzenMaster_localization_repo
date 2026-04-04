@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ja_JP" sourcelanguage="en">
+<TS version="2.1" language="ja_JP" sourcelanguage="en_US">
 <context>
     <name>CPUMetricsPage</name>
     <message>
@@ -492,7 +492,7 @@
     </message>
     <message>
         <source>Average Core Voltage 1 (in volts)</source>
-        <translation>平均コアの電圧 1 (V 単位)</translation>
+        <translation>平均コアの電圧 1 (ボルト単位)</translation>
     </message>
     <message>
         <source>3DRAM</source>
@@ -1686,7 +1686,7 @@ Please take an appropriate action to proceed further.</source>
     </message>
     <message>
         <source>Factory Reset</source>
-        <translation>出荷時に戻す</translation>
+        <translation>リセットする</translation>
     </message>
     <message>
         <source>Specifies the Processor DQ drive strengths Pull Up P0</source>
@@ -1904,7 +1904,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
         <source>. It will also &lt;u&gt;make changes to your BIOS settings&lt;/u&gt;.</source>
-        <translation>。また、します。</translation>
+        <translation type="unfinished">また、&lt;u&gt;BIOS の設定も変更されます&lt;/u&gt;。</translation>
     </message>
     <message>
         <source>Selected Curve Optimizer mode has not been optimized.
@@ -2502,7 +2502,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
         <source>Write PBO to BIOS</source>
-        <translation>PBO を BIOS を書き込む</translation>
+        <translation>PBO を BIOS に書き込む</translation>
     </message>
     <message>
         <source>Multiple Instance Access Denied!</source>
