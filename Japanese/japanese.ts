@@ -894,7 +894,7 @@ Please take an appropriate action to proceed further.</source>
     </message>
     <message>
         <source>Couple Mode</source>
-        <translation>結合モード</translation>
+        <translation>統合モード</translation>
     </message>
     <message>
         <source>Peak Core Voltage (in volts)</source>
@@ -2670,7 +2670,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
         <source>NOTE: Setting not same values for PMIC VDD and VDDQ (non-coupled mode) may cause memory stability issues. Recommended for advanced users only.</source>
-        <translation>注意: PMIC VDD と VDDQ (非結合モード) に異なる値を設定すると、メモリの安定性に問題が発生する可能性があります。上級者のユーザーのみ推奨します。</translation>
+        <translation>注意: PMIC VDD と VDDQ (非統合モード) に異なる値を設定すると、メモリの安定性に問題が発生する可能性があります。上級者のユーザーのみ推奨します。</translation>
     </message>
     <message>
         <source>Failed to apply Tuning: </source>
@@ -2698,7 +2698,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
         <source>Coupled Mode</source>
-        <translation>結合モード</translation>
+        <translation>統合モード</translation>
     </message>
     <message>
         <source>VDDCR CPU Power</source>
@@ -4459,7 +4459,7 @@ Are you sure you want to continue?</source>
     <name>BusyIndicatorDialog</name>
     <message>
         <source>Loading...</source>
-        <translation>読み込み中...</translation>
+        <translation>ロード中...</translation>
     </message>
 </context>
 <context>
