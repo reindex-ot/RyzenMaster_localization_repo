@@ -1,4453 +1,3385 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="">
-  <context>
+<TS version="2.1">
+<context>
     <name>CPUMetricsPage</name>
     <message>
-      <source/>
-      <translation/>
+        <source></source>
     </message>
     <message>
-      <source>OC</source>
-      <translation/>
+        <source>OC</source>
     </message>
     <message>
-      <source>OS</source>
-      <translation/>
+        <source>OS</source>
     </message>
     <message>
-      <source>CCD</source>
-      <translation/>
+        <source>CCD</source>
     </message>
     <message>
-      <source>CCX</source>
-      <translation/>
+        <source>CCX</source>
     </message>
     <message>
-      <source>CPU</source>
-      <translation/>
+        <source>CPU</source>
     </message>
     <message>
-      <source>MHz</source>
-      <translation/>
+        <source>MHz</source>
     </message>
     <message>
-      <source>CCD </source>
-      <translation/>
+        <source>CCD </source>
     </message>
     <message>
-      <source>Mode</source>
-      <translation/>
+        <source>Mode</source>
     </message>
     <message>
-      <source>Close</source>
-      <translation/>
+        <source>Close</source>
     </message>
     <message>
-      <source>Hide </source>
-      <translation/>
+        <source>Hide </source>
     </message>
     <message>
-      <source>Show </source>
-      <translation/>
+        <source>Show </source>
     </message>
     <message>
-      <source>Active cores only</source>
-      <translation/>
+        <source>Active cores only</source>
     </message>
     <message>
-      <source>Integrated Graphics</source>
-      <translation/>
+        <source>Integrated Graphics</source>
     </message>
     <message>
-      <source>Control Mode</source>
-      <translation/>
+        <source>Control Mode</source>
     </message>
     <message>
-      <source>Fastest cores only</source>
-      <translation/>
+        <source>Fastest cores only</source>
     </message>
     <message>
-      <source>Offset Value</source>
-      <translation/>
+        <source>Offset Value</source>
     </message>
     <message>
-      <source>You've disabled all gauges from being displayed.</source>
-      <translation/>
+        <source>You&apos;ve disabled all gauges from being displayed.</source>
     </message>
     <message>
-      <source>Curve Optimizer</source>
-      <translation/>
+        <source>Curve Optimizer</source>
     </message>
     <message>
-      <source>OS Ranking is not applicable when Fastest Cores is selected in Cores View</source>
-      <translation/>
+        <source>OS Ranking is not applicable when Fastest Cores is selected in Cores View</source>
     </message>
     <message>
-      <source>Max CPU Speed</source>
-      <translation/>
+        <source>Max CPU Speed</source>
     </message>
     <message>
-      <source>Gauges</source>
-      <translation/>
+        <source>Gauges</source>
     </message>
     <message>
-      <source>Tuning</source>
-      <translation/>
+        <source>Tuning</source>
     </message>
     <message>
-      <source>Fastest cores as preferred by the Operating System</source>
-      <translation/>
+        <source>Fastest cores as preferred by the Operating System</source>
     </message>
     <message>
-      <source>OC Ranking is unavailable because some cores are disabled.</source>
-      <translation/>
+        <source>OC Ranking is unavailable because some cores are disabled.</source>
     </message>
     <message>
-      <source>Show CCDs</source>
-      <translation/>
+        <source>Show CCDs</source>
     </message>
     <message>
-      <source>Additional Controls</source>
-      <translation/>
+        <source>Additional Controls</source>
     </message>
     <message>
-      <source>Fastest cores with best overclocking potential</source>
-      <translation/>
+        <source>Fastest cores with best overclocking potential</source>
     </message>
     <message>
-      <source>Not tracking any gauges.</source>
-      <translation/>
+        <source>Not tracking any gauges.</source>
     </message>
     <message>
-      <source>Stress Test</source>
-      <translation/>
+        <source>Stress Test</source>
     </message>
     <message>
-      <source>Scrollable View</source>
-      <translation/>
+        <source>Scrollable View</source>
     </message>
     <message>
-      <source>Hide Warning Message</source>
-      <translation/>
+        <source>Hide Warning Message</source>
     </message>
     <message>
-      <source>Select All</source>
-      <translation/>
+        <source>Select All</source>
     </message>
     <message>
-      <source>Show Warning Message</source>
-      <translation/>
+        <source>Show Warning Message</source>
     </message>
     <message>
-      <source>Cores View</source>
-      <translation/>
+        <source>Cores View</source>
     </message>
     <message>
-      <source>It will not be available until launched in stock core configuration</source>
-      <translation/>
+        <source>It will not be available until launched in stock core configuration</source>
     </message>
     <message>
-      <source>Current State</source>
-      <translation/>
+        <source>Current State</source>
     </message>
     <message>
-      <source>All Cores</source>
-      <translation/>
+        <source>All Cores</source>
     </message>
     <message>
-      <source>Deselect All</source>
-      <translation/>
+        <source>Deselect All</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>QObject</name>
     <message>
-      <source/>
-      <translation/>
+        <source></source>
     </message>
     <message>
-      <source>)</source>
-      <translation/>
+        <source>)</source>
     </message>
     <message>
-      <source>?</source>
-      <translation/>
+        <source>?</source>
     </message>
     <message>
-      <source>A</source>
-      <translation/>
+        <source>A</source>
     </message>
     <message>
-      <source>V</source>
-      <translation/>
+        <source>V</source>
     </message>
     <message>
-      <source>W</source>
-      <translation/>
+        <source>W</source>
     </message>
     <message>
-      <source>1T</source>
-      <translation/>
+        <source>1T</source>
     </message>
     <message>
-      <source>2T</source>
-      <translation/>
+        <source>2T</source>
     </message>
     <message>
-      <source>CC</source>
-      <translation/>
+        <source>CC</source>
     </message>
     <message>
-      <source>NA</source>
-      <translation/>
+        <source>NA</source>
     </message>
     <message>
-      <source>ON</source>
-      <translation/>
+        <source>ON</source>
     </message>
     <message>
-      <source>Ok</source>
-      <translation/>
+        <source>Ok</source>
     </message>
     <message>
-      <source> GB</source>
-      <translation/>
+        <source> GB</source>
     </message>
     <message>
-      <source>CCD</source>
-      <translation/>
+        <source>CCD</source>
     </message>
     <message>
-      <source>CPU</source>
-      <translation/>
+        <source>CPU</source>
     </message>
     <message>
-      <source>DDR</source>
-      <translation/>
+        <source>DDR</source>
     </message>
     <message>
-      <source>EDC</source>
-      <translation/>
+        <source>EDC</source>
     </message>
     <message>
-      <source>EDO</source>
-      <translation/>
+        <source>EDO</source>
     </message>
     <message>
-      <source>GPU</source>
-      <translation/>
+        <source>GPU</source>
     </message>
     <message>
-      <source>HBM</source>
-      <translation/>
+        <source>HBM</source>
     </message>
     <message>
-      <source>MHz</source>
-      <translation/>
+        <source>MHz</source>
     </message>
     <message>
-      <source>OFF</source>
-      <translation/>
+        <source>OFF</source>
     </message>
     <message>
-      <source>OPP</source>
-      <translation/>
+        <source>OPP</source>
     </message>
     <message>
-      <source>PBO</source>
-      <translation/>
+        <source>PBO</source>
     </message>
     <message>
-      <source>OTF</source>
-      <translation/>
+        <source>OTF</source>
     </message>
     <message>
-      <source>PPT</source>
-      <translation/>
+        <source>PPT</source>
     </message>
     <message>
-      <source>RAM</source>
-      <translation/>
+        <source>RAM</source>
     </message>
     <message>
-      <source>ROM</source>
-      <translation/>
+        <source>ROM</source>
     </message>
     <message>
-      <source>RZQ</source>
-      <translation/>
+        <source>RZQ</source>
     </message>
     <message>
-      <source>TDC</source>
-      <translation/>
+        <source>TDC</source>
     </message>
     <message>
-      <source>Tcl</source>
-      <translation/>
+        <source>Tcl</source>
     </message>
     <message>
-      <source>Trc</source>
-      <translation/>
+        <source>Trc</source>
     </message>
     <message>
-      <source>Trp</source>
-      <translation/>
+        <source>Trp</source>
     </message>
     <message>
-      <source>Twr</source>
-      <translation/>
+        <source>Twr</source>
     </message>
     <message>
-      <source>sec</source>
-      <translation/>
+        <source>sec</source>
     </message>
     <message>
-      <source>°C</source>
-      <translation/>
+        <source>°C</source>
     </message>
     <message>
-      <source>% of</source>
-      <translation/>
+        <source>% of</source>
     </message>
     <message>
-      <source>(CPU</source>
-      <translation/>
+        <source>(CPU</source>
     </message>
     <message>
-      <source>(GPU</source>
-      <translation/>
+        <source>(GPU</source>
     </message>
     <message>
-      <source>Combination</source>
-      <translation/>
+        <source>Combination</source>
     </message>
     <message>
-      <source>(RAM</source>
-      <translation/>
+        <source>(RAM</source>
     </message>
     <message>
-      <source>,GPU</source>
-      <translation/>
+        <source>,GPU</source>
     </message>
     <message>
-      <source>BCLK</source>
-      <translation/>
+        <source>BCLK</source>
     </message>
     <message>
-      <source>CCD </source>
-      <translation/>
+        <source>CCD </source>
     </message>
     <message>
-      <source>DDR2</source>
-      <translation/>
+        <source>DDR2</source>
     </message>
     <message>
-      <source>DDR3</source>
-      <translation/>
+        <source>DDR3</source>
     </message>
     <message>
-      <source>DDR4</source>
-      <translation/>
+        <source>DDR4</source>
     </message>
     <message>
-      <source>DDR5</source>
-      <translation/>
+        <source>DDR5</source>
     </message>
     <message>
-      <source>Auto</source>
-      <translation/>
+        <source>Auto</source>
     </message>
     <message>
-      <source>DRAM</source>
-      <translation/>
+        <source>DRAM</source>
     </message>
     <message>
-      <source>FBD2</source>
-      <translation/>
+        <source>FBD2</source>
     </message>
     <message>
-      <source>Core</source>
-      <translation/>
+        <source>Core</source>
     </message>
     <message>
-      <source>EXPO</source>
-      <translation/>
+        <source>EXPO</source>
     </message>
     <message>
-      <source>HBM2</source>
-      <translation/>
+        <source>HBM2</source>
     </message>
     <message>
-      <source>HBM3</source>
-      <translation/>
+        <source>HBM3</source>
     </message>
     <message>
-      <source>Hi-Z</source>
-      <translation/>
+        <source>Hi-Z</source>
     </message>
     <message>
-      <source>MT/s</source>
-      <translation/>
+        <source>MT/s</source>
     </message>
     <message>
-      <source>NPS0</source>
-      <translation/>
+        <source>NPS0</source>
     </message>
     <message>
-      <source>NPS1</source>
-      <translation/>
+        <source>NPS1</source>
     </message>
     <message>
-      <source>NPS2</source>
-      <translation/>
+        <source>NPS2</source>
     </message>
     <message>
-      <source>NPS4</source>
-      <translation/>
+        <source>NPS4</source>
     </message>
     <message>
-      <source>Load</source>
-      <translation/>
+        <source>Load</source>
     </message>
     <message>
-      <source>Mode</source>
-      <translation/>
+        <source>Mode</source>
     </message>
     <message>
-      <source>None</source>
-      <translation/>
+        <source>None</source>
     </message>
     <message>
-      <source>Ohms</source>
-      <translation/>
+        <source>Ohms</source>
     </message>
     <message>
-      <source>SRAM</source>
-      <translation/>
+        <source>SRAM</source>
     </message>
     <message>
-      <source>TCke</source>
-      <translation/>
+        <source>TCke</source>
     </message>
     <message>
-      <source>VDDQ</source>
-      <translation/>
+        <source>VDDQ</source>
     </message>
     <message>
-      <source>Stop</source>
-      <translation/>
+        <source>Stop</source>
     </message>
     <message>
-      <source>Tfaw</source>
-      <translation/>
+        <source>Tfaw</source>
     </message>
     <message>
-      <source>VRAM</source>
-      <translation/>
+        <source>VRAM</source>
     </message>
     <message>
-      <source>Tras</source>
-      <translation/>
+        <source>Tras</source>
     </message>
     <message>
-      <source>Trcd</source>
-      <translation/>
+        <source>Trcd</source>
     </message>
     <message>
-      <source>Trfc</source>
-      <translation/>
+        <source>Trfc</source>
     </message>
     <message>
-      <source>Trtp</source>
-      <translation/>
+        <source>Trtp</source>
     </message>
     <message>
-      <source>Physical</source>
-      <translation/>
+        <source>Physical</source>
     </message>
     <message>
-      <source>Clock Cycles</source>
-      <translation/>
+        <source>Clock Cycles</source>
     </message>
     <message>
-      <source>Current I/O Clock Speed</source>
-      <translation/>
+        <source>Current I/O Clock Speed</source>
     </message>
     <message>
-      <source>Power Preset</source>
-      <translation/>
+        <source>Power Preset</source>
     </message>
     <message>
-      <source>DRAM Controller Configuration</source>
-      <translation/>
+        <source>DRAM Controller Configuration</source>
     </message>
     <message>
-      <source>Peak Clock Speed</source>
-      <translation/>
+        <source>Peak Clock Speed</source>
     </message>
     <message>
-      <source>Please close already running instance and try again.</source>
-      <translation/>
+        <source>Please close already running instance and try again.</source>
     </message>
     <message>
-      <source>Average Core Voltage 1 (in volts)</source>
-      <translation/>
+        <source>Average Core Voltage 1 (in volts)</source>
     </message>
     <message>
-      <source>3DRAM</source>
-      <translation/>
+        <source>3DRAM</source>
     </message>
     <message>
-      <source>Auto Overclock</source>
-      <translation/>
+        <source>Auto Overclock</source>
     </message>
     <message>
-      <source>Average Core Voltage 0 (in volts)</source>
-      <translation/>
+        <source>Average Core Voltage 0 (in volts)</source>
     </message>
     <message>
-      <source>Last applied Tuning</source>
-      <translation/>
+        <source>Last applied Tuning</source>
     </message>
     <message>
-      <source>CDRAM</source>
-      <translation/>
+        <source>CDRAM</source>
     </message>
     <message>
-      <source>Basic</source>
-      <translation/>
+        <source>Basic</source>
     </message>
     <message>
-      <source>EDRAM</source>
-      <translation/>
+        <source>EDRAM</source>
     </message>
     <message>
-      <source>Cmd2t</source>
-      <translation/>
+        <source>Cmd2t</source>
     </message>
     <message>
-      <source>EPROM</source>
-      <translation/>
+        <source>EPROM</source>
     </message>
     <message>
-      <source>Core </source>
-      <translation/>
+        <source>Core </source>
     </message>
     <message>
-      <source>Cores</source>
-      <translation/>
+        <source>Cores</source>
     </message>
     <message>
-      <source>Flash</source>
-      <translation/>
+        <source>Flash</source>
     </message>
     <message>
-      <source>Lower value in ohms will configure processor to drive stronger signal on address and command bus</source>
-      <translation/>
+        <source>Lower value in ohms will configure processor to drive stronger signal on address and command bus</source>
     </message>
     <message>
-      <source>Load </source>
-      <translation/>
+        <source>Load </source>
     </message>
     <message>
-      <source>RDRAM</source>
-      <translation/>
+        <source>RDRAM</source>
     </message>
     <message>
-      <source>Other</source>
-      <translation/>
+        <source>Other</source>
     </message>
     <message>
-      <source>SDRAM</source>
-      <translation/>
+        <source>SDRAM</source>
     </message>
     <message>
-      <source>SGRAM</source>
-      <translation/>
+        <source>SGRAM</source>
     </message>
     <message>
-      <source>RZQ/1</source>
-      <translation/>
+        <source>RZQ/1</source>
     </message>
     <message>
-      <source>RZQ/2</source>
-      <translation/>
+        <source>RZQ/2</source>
     </message>
     <message>
-      <source>RZQ/3</source>
-      <translation/>
+        <source>RZQ/3</source>
     </message>
     <message>
-      <source>RZQ/4</source>
-      <translation/>
+        <source>RZQ/4</source>
     </message>
     <message>
-      <source>RZQ/5</source>
-      <translation/>
+        <source>RZQ/5</source>
     </message>
     <message>
-      <source>RZQ/6</source>
-      <translation/>
+        <source>RZQ/6</source>
     </message>
     <message>
-      <source>RZQ/7</source>
-      <translation/>
+        <source>RZQ/7</source>
     </message>
     <message>
-      <source>Reset</source>
-      <translation/>
+        <source>Reset</source>
     </message>
     <message>
-      <source>RttWr</source>
-      <translation/>
+        <source>RttWr</source>
     </message>
     <message>
-      <source>Start</source>
-      <translation/>
+        <source>Start</source>
     </message>
     <message>
-      <source>This </source>
-      <translation/>
+        <source>This </source>
     </message>
     <message>
-      <source>Trdwr</source>
-      <translation/>
+        <source>Trdwr</source>
     </message>
     <message>
-      <source>Trfc2</source>
-      <translation/>
+        <source>Trfc2</source>
     </message>
     <message>
-      <source>Trfc4</source>
-      <translation/>
+        <source>Trfc4</source>
     </message>
     <message>
-      <source>TrrdL</source>
-      <translation/>
+        <source>TrrdL</source>
     </message>
     <message>
-      <source>TrrdS</source>
-      <translation/>
+        <source>TrrdS</source>
     </message>
     <message>
-      <source>Twrrd</source>
-      <translation/>
+        <source>Twrrd</source>
     </message>
     <message>
-      <source>TwtrL</source>
-      <translation/>
+        <source>TwtrL</source>
     </message>
     <message>
-      <source>TwtrS</source>
-      <translation/>
+        <source>TwtrS</source>
     </message>
     <message>
-      <source>DRAMDataDriveStrength_PullDown</source>
-      <translation/>
+        <source>DRAMDataDriveStrength_PullDown</source>
     </message>
     <message>
-      <source>Curve Optimizer cannot be set when LCM is Enabled</source>
-      <translation/>
+        <source>Curve Optimizer cannot be set when LCM is Enabled</source>
     </message>
     <message>
-      <source>Reverts your interaction-based preferences to their default state; Profiles and Settings will not be affected</source>
-      <translation/>
+        <source>Reverts your interaction-based preferences to their default state; Profiles and Settings will not be affected</source>
     </message>
     <message>
-      <source>Integrated Graphics</source>
-      <translation/>
+        <source>Integrated Graphics</source>
     </message>
     <message>
-      <source>CLDO VDDG CCD</source>
-      <translation/>
+        <source>CLDO VDDG CCD</source>
     </message>
     <message>
-      <source>CLDO VDDG IOD</source>
-      <translation/>
+        <source>CLDO VDDG IOD</source>
     </message>
     <message>
-      <source>CKE minimum high and low pulse width</source>
-      <translation/>
+        <source>CKE minimum high and low pulse width</source>
     </message>
     <message>
-      <source> has been successfully renamed to </source>
-      <translation/>
+        <source> has been successfully renamed to </source>
     </message>
     <message>
-      <source>Current Frequency</source>
-      <translation/>
+        <source>Current Frequency</source>
     </message>
     <message>
-      <source>Disabled</source>
-      <translation/>
+        <source>Disabled</source>
     </message>
     <message>
-      <source>VDDCR CPU0 EDC0</source>
-      <translation/>
+        <source>VDDCR CPU0 EDC0</source>
     </message>
     <message>
-      <source>VDDCR CPU0 TDC0</source>
-      <translation/>
+        <source>VDDCR CPU0 TDC0</source>
     </message>
     <message>
-      <source>VDDCR CPU1 EDC1</source>
-      <translation/>
+        <source>VDDCR CPU1 EDC1</source>
     </message>
     <message>
-      <source>VDDCR CPU1 TDC1</source>
-      <translation/>
+        <source>VDDCR CPU1 TDC1</source>
     </message>
     <message>
-      <source>Power Down Enable</source>
-      <translation/>
+        <source>Power Down Enable</source>
     </message>
     <message>
-      <source>Selectively performs stress test on CPU, RAM, or both, based on changes made in Tuning</source>
-      <translation/>
+        <source>Selectively performs stress test on CPU, RAM, or both, based on changes made in Tuning</source>
     </message>
     <message>
-      <source>Provides minimal hardware controls to support a novice user</source>
-      <translation/>
+        <source>Provides minimal hardware controls to support a novice user</source>
     </message>
     <message>
-      <source>Hover the respective error icons of each parameter for more details</source>
-      <translation/>
+        <source>Hover the respective error icons of each parameter for more details</source>
     </message>
     <message>
-      <source> and modifying the following settings. These settings can be viewed </source>
-      <translation/>
+        <source> and modifying the following settings. These settings can be viewed </source>
     </message>
     <message>
-      <source>SMT is not available when LCM is ON</source>
-      <translation/>
+        <source>SMT is not available when LCM is ON</source>
     </message>
     <message>
-      <source>Average Core Voltage (in volts)</source>
-      <translation/>
+        <source>Average Core Voltage (in volts)</source>
     </message>
     <message>
-      <source>CO changes will be applied on-the-fly but may not be preserved after a system restart. To ensure applied values persist even after a reboot, turn ON the Write CO to BIOS feature in the Settings page.</source>
-      <translation/>
+        <source>CO changes will be applied on-the-fly but may not be preserved after a system restart. To ensure applied values persist even after a reboot, turn ON the Write CO to BIOS feature in the Settings page.</source>
     </message>
     <message>
-      <source>Automatically adjust CPU and RAM to predefined overclocked settings</source>
-      <translation/>
+        <source>Automatically adjust CPU and RAM to predefined overclocked settings</source>
     </message>
     <message>
-      <source>CPU Stress test for Curve Optimizer has completed successfully</source>
-      <translation/>
+        <source>CPU Stress test for Curve Optimizer has completed successfully</source>
     </message>
     <message>
-      <source>Control Mode</source>
-      <translation/>
+        <source>Control Mode</source>
     </message>
     <message>
-      <source>A more comprehensive memory training algorithm that increases boot time but can result in improved stability at overclocked memory settings</source>
-      <translation/>
+        <source>A more comprehensive memory training algorithm that increases boot time but can result in improved stability at overclocked memory settings</source>
     </message>
     <message>
-      <source>Target Frequency</source>
-      <translation/>
+        <source>Target Frequency</source>
     </message>
     <message>
-      <source>I/O Clock</source>
-      <translation/>
+        <source>I/O Clock</source>
     </message>
     <message>
-      <source>Current Processor Temperature</source>
-      <translation/>
+        <source>Current Processor Temperature</source>
     </message>
     <message>
-      <source>Enables users to apply EXPO Profile values on-the-fly. Note that a one-time system restart is necessary before the EXPO Profile can be applied</source>
-      <translation/>
+        <source>Enables users to apply EXPO Profile values on-the-fly. Note that a one-time system restart is necessary before the EXPO Profile can be applied</source>
     </message>
     <message>
-      <source>AMD Spec</source>
-      <translation/>
+        <source>AMD Spec</source>
     </message>
     <message>
-      <source>Write CO to BIOS</source>
-      <translation/>
+        <source>Write CO to BIOS</source>
     </message>
     <message>
-      <source>DRAM Termination RTT_NOM</source>
-      <translation/>
+        <source>DRAM Termination RTT_NOM</source>
     </message>
     <message>
-      <source>LCM cannot be enabled when Curve Optimizer mode is currently ON</source>
-      <translation/>
+        <source>LCM cannot be enabled when Curve Optimizer mode is currently ON</source>
     </message>
     <message>
-      <source>Fabric Clock</source>
-      <translation/>
+        <source>Fabric Clock</source>
     </message>
     <message>
-      <source>MEM VPP</source>
-      <translation/>
+        <source>MEM VPP</source>
     </message>
     <message>
-      <source>MEM VTT</source>
-      <translation/>
+        <source>MEM VTT</source>
     </message>
     <message>
-      <source>CkeSetup</source>
-      <translation/>
+        <source>CkeSetup</source>
     </message>
     <message>
-      <source> deleted successfully.</source>
-      <translation/>
+        <source> deleted successfully.</source>
     </message>
     <message>
-      <source>Peak clock speed from all active cores</source>
-      <translation/>
+        <source>Peak clock speed from all active cores</source>
     </message>
     <message>
-      <source>Maximum CPU Voltage (in volts)</source>
-      <translation/>
+        <source>Maximum CPU Voltage (in volts)</source>
     </message>
     <message>
-      <source>SOC Telemetry Power</source>
-      <translation/>
+        <source>SOC Telemetry Power</source>
     </message>
     <message>
-      <source>Switch to %1 CCDs</source>
-      <translation/>
+        <source>Switch to %1 CCDs</source>
     </message>
     <message>
-      <source>Confirmation Popups: Display Settings</source>
-      <translation/>
+        <source>Confirmation Popups: Display Settings</source>
     </message>
     <message>
-      <source>Do you want to continue?</source>
-      <translation/>
+        <source>Do you want to continue?</source>
     </message>
     <message>
-      <source>PMIC VDD</source>
-      <translation/>
+        <source>PMIC VDD</source>
     </message>
     <message>
-      <source>We identified that the processor has been swapped. Hence, the configuration files and profiles will no longer be compatible fully or partially. Kindly take an appropriate action.</source>
-      <translation/>
+        <source>We identified that the processor has been swapped. Hence, the configuration files and profiles will no longer be compatible fully or partially. Kindly take an appropriate action.</source>
     </message>
     <message>
-      <source>Supplies power to DDR PHY I/O</source>
-      <translation/>
+        <source>Supplies power to DDR PHY I/O</source>
     </message>
     <message>
-      <source>Curve Offset</source>
-      <translation/>
+        <source>Curve Offset</source>
     </message>
     <message>
-      <source>Invalid count for core disabled. Number of active cores should be more than</source>
-      <translation/>
+        <source>Invalid count for core disabled. Number of active cores should be more than</source>
     </message>
     <message>
-      <source>Due to the processor swap, this profile turned incompatible and cannot be loaded.
+        <source>Due to the processor swap, this profile turned incompatible and cannot be loaded.
 Please take an appropriate action to proceed further.</source>
-      <translation/>
     </message>
     <message>
-      <source>Target VDDCR 0</source>
-      <translation/>
+        <source>Target VDDCR 0</source>
     </message>
     <message>
-      <source>Target VDDCR 1</source>
-      <translation/>
+        <source>Target VDDCR 1</source>
     </message>
     <message>
-      <source>Hence Aborting!</source>
-      <translation/>
+        <source>Hence Aborting!</source>
     </message>
     <message>
-      <source>DDR5 Robust Training Mode</source>
-      <translation/>
+        <source>DDR5 Robust Training Mode</source>
     </message>
     <message>
-      <source>Specifies the Processor CS drive strengths</source>
-      <translation/>
+        <source>Specifies the Processor CS drive strengths</source>
     </message>
     <message>
-      <source>Failed to discard </source>
-      <translation/>
+        <source>Failed to discard </source>
     </message>
     <message>
-      <source>Incomplete Optimization</source>
-      <translation/>
+        <source>Incomplete Optimization</source>
     </message>
     <message>
-      <source>Select the ODT impedance for ACHAN CK IOs</source>
-      <translation/>
+        <source>Select the ODT impedance for ACHAN CK IOs</source>
     </message>
     <message>
-      <source>CsOdtCmdDrvStren</source>
-      <translation/>
+        <source>CsOdtCmdDrvStren</source>
     </message>
     <message>
-      <source>Workspace was successfully loaded.</source>
-      <translation/>
+        <source>Workspace was successfully loaded.</source>
     </message>
     <message>
-      <source>Select the ODT impedance for ACHAN CA IOs</source>
-      <translation/>
+        <source>Select the ODT impedance for ACHAN CA IOs</source>
     </message>
     <message>
-      <source>Couple Mode</source>
-      <translation/>
+        <source>Couple Mode</source>
     </message>
     <message>
-      <source>Peak Core Voltage (in volts)</source>
-      <translation/>
+        <source>Peak Core Voltage (in volts)</source>
     </message>
     <message>
-      <source>' has completed successfully</source>
-      <translation/>
+        <source>&apos; has completed successfully</source>
     </message>
     <message>
-      <source>Hi Impedance</source>
-      <translation/>
+        <source>Hi Impedance</source>
     </message>
     <message>
-      <source>DDR Nitro Mode</source>
-      <translation/>
+        <source>DDR Nitro Mode</source>
     </message>
     <message>
-      <source>Read to Read timing same DIMM</source>
-      <translation/>
+        <source>Read to Read timing same DIMM</source>
     </message>
     <message>
-      <source> to current values.</source>
-      <translation/>
+        <source> to current values.</source>
     </message>
     <message>
-      <source>Ryzen Master unable to allocate memory. Kindly restart your machine.</source>
-      <translation/>
+        <source>Ryzen Master unable to allocate memory. Kindly restart your machine.</source>
     </message>
     <message>
-      <source>This action will apply default settings to </source>
-      <translation/>
+        <source>This action will apply default settings to </source>
     </message>
     <message>
-      <source>Read to Read timing same chip select</source>
-      <translation/>
+        <source>Read to Read timing same chip select</source>
     </message>
     <message>
-      <source>PROCDataDriveStrength</source>
-      <translation/>
+        <source>PROCDataDriveStrength</source>
     </message>
     <message>
-      <source>Manage Later</source>
-      <translation/>
+        <source>Manage Later</source>
     </message>
     <message>
-      <source>Lower value in ohms will configure processor to drive stronger signal on Memory Clock pins</source>
-      <translation/>
+        <source>Lower value in ohms will configure processor to drive stronger signal on Memory Clock pins</source>
     </message>
     <message>
-      <source>Stop Curve Optimization</source>
-      <translation/>
+        <source>Stop Curve Optimization</source>
     </message>
     <message>
-      <source>System restart is required</source>
-      <translation/>
+        <source>System restart is required</source>
     </message>
     <message>
-      <source>Show Parameters</source>
-      <translation/>
+        <source>Show Parameters</source>
     </message>
     <message>
-      <source>User can opt-in to share Anonymous usage information with AMD to improve products and services or opt-out</source>
-      <translation/>
+        <source>User can opt-in to share Anonymous usage information with AMD to improve products and services or opt-out</source>
     </message>
     <message>
-      <source>Missing AMD Processor!</source>
-      <translation/>
+        <source>Missing AMD Processor!</source>
     </message>
     <message>
-      <source>Nitro RX Data</source>
-      <translation/>
+        <source>Nitro RX Data</source>
     </message>
     <message>
-      <source>Write to Write timing same chip select same bank group</source>
-      <translation/>
+        <source>Write to Write timing same chip select same bank group</source>
     </message>
     <message>
-      <source>Running the curve optimizer is a long and invasive process. You will not be able to use any other tuning features until the process is complete. Your system may restart during this process, so it is recommended that you save any work and close all applications before proceeding.</source>
-      <translation/>
+        <source>Running the curve optimizer is a long and invasive process. You will not be able to use any other tuning features until the process is complete. Your system may restart during this process, so it is recommended that you save any work and close all applications before proceeding.</source>
     </message>
     <message>
-      <source>Activate to Activate Delay Time, different bank group(tRRD_S)</source>
-      <translation/>
+        <source>Activate to Activate Delay Time, different bank group(tRRD_S)</source>
     </message>
     <message>
-      <source>LCM is not available when Cores are already parked</source>
-      <translation/>
+        <source>LCM is not available when Cores are already parked</source>
     </message>
     <message>
-      <source>Max I/O Clock</source>
-      <translation/>
+        <source>Max I/O Clock</source>
     </message>
     <message>
-      <source>CAS Latency</source>
-      <translation/>
+        <source>CAS Latency</source>
     </message>
     <message>
-      <source>Write to Write timing same DIMM</source>
-      <translation/>
+        <source>Write to Write timing same DIMM</source>
     </message>
     <message>
-      <source>AddrCmdDrvStren</source>
-      <translation/>
+        <source>AddrCmdDrvStren</source>
     </message>
     <message>
-      <source>Details Unknown</source>
-      <translation/>
+        <source>Details Unknown</source>
     </message>
     <message>
-      <source>Reset was unsuccessful.</source>
-      <translation/>
+        <source>Reset was unsuccessful.</source>
     </message>
     <message>
-      <source>Select the ODT impedance for ACHAN DQ IOs</source>
-      <translation/>
+        <source>Select the ODT impedance for ACHAN DQ IOs</source>
     </message>
     <message>
-      <source>Profile exported successfully.</source>
-      <translation/>
+        <source>Profile exported successfully.</source>
     </message>
     <message>
-      <source>Ryzen Master requires Windows 10 or greater.</source>
-      <translation/>
+        <source>Ryzen Master requires Windows 10 or greater.</source>
     </message>
     <message>
-      <source>Specifies the Processor CK drive strengths</source>
-      <translation/>
+        <source>Specifies the Processor CK drive strengths</source>
     </message>
     <message>
-      <source>Offset Value</source>
-      <translation/>
+        <source>Offset Value</source>
     </message>
     <message>
-      <source>Disabling PROCHOT causes the processor to ignore the system's PROCHOT signal</source>
-      <translation/>
+        <source>Disabling PROCHOT causes the processor to ignore the system&apos;s PROCHOT signal</source>
     </message>
     <message>
-      <source> has been created successfully from Workspace.</source>
-      <translation/>
+        <source> has been created successfully from Workspace.</source>
     </message>
     <message>
-      <source>CLDO VDDG Per CCD</source>
-      <translation/>
+        <source>CLDO VDDG Per CCD</source>
     </message>
     <message>
-      <source>CLDO VDDG Per IOD</source>
-      <translation/>
+        <source>CLDO VDDG Per IOD</source>
     </message>
     <message>
-      <source>LCM is not available when Curve Optimizer is selected</source>
-      <translation/>
+        <source>LCM is not available when Curve Optimizer is selected</source>
     </message>
     <message>
-      <source>Max Offset value</source>
-      <translation/>
+        <source>Max Offset value</source>
     </message>
     <message>
-      <source>CPU Telemetry Voltage 0</source>
-      <translation/>
+        <source>CPU Telemetry Voltage 0</source>
     </message>
     <message>
-      <source>CPU Telemetry Voltage 1</source>
-      <translation/>
+        <source>CPU Telemetry Voltage 1</source>
     </message>
     <message>
-      <source>Configures the command timing latency between the memory controller and PHY</source>
-      <translation/>
+        <source>Configures the command timing latency between the memory controller and PHY</source>
     </message>
     <message>
-      <source>Access Denied!</source>
-      <translation/>
+        <source>Access Denied!</source>
     </message>
     <message>
-      <source>EXPO Profile</source>
-      <translation/>
+        <source>EXPO Profile</source>
     </message>
     <message>
-      <source>PROCODT_PullUp</source>
-      <translation/>
+        <source>PROCODT_PullUp</source>
     </message>
     <message>
-      <source>Curve Optimizer</source>
-      <translation/>
+        <source>Curve Optimizer</source>
     </message>
     <message>
-      <source>Automatic Curve Optimizer completed successfully</source>
-      <translation/>
+        <source>Automatic Curve Optimizer completed successfully</source>
     </message>
     <message>
-      <source>LCM cannot be enabled when Cores are currently disabled</source>
-      <translation/>
+        <source>LCM cannot be enabled when Cores are currently disabled</source>
     </message>
     <message>
-      <source>Logical</source>
-      <translation/>
+        <source>Logical</source>
     </message>
     <message>
-      <source>RAM Stress test for '</source>
-      <translation/>
+        <source>RAM Stress test for &apos;</source>
     </message>
     <message>
-      <source>Automatic Curve Optimizer was Interrupted</source>
-      <translation/>
+        <source>Automatic Curve Optimizer was Interrupted</source>
     </message>
     <message>
-      <source>CKE Setup Timing Settings</source>
-      <translation/>
+        <source>CKE Setup Timing Settings</source>
     </message>
     <message>
-      <source>Error while creating duplicate profile from Default Profile.</source>
-      <translation/>
+        <source>Error while creating duplicate profile from Default Profile.</source>
     </message>
     <message>
-      <source>PROCODTCA</source>
-      <translation/>
+        <source>PROCODTCA</source>
     </message>
     <message>
-      <source>PROCODTCK</source>
-      <translation/>
+        <source>PROCODTCK</source>
     </message>
     <message>
-      <source>PROCODTDQ</source>
-      <translation/>
+        <source>PROCODTDQ</source>
     </message>
     <message>
-      <source>Ryzen Master Driver service does not exist as an installed service.</source>
-      <translation/>
+        <source>Ryzen Master Driver service does not exist as an installed service.</source>
     </message>
     <message>
-      <source>Minimum Write to Read Time, different bank group</source>
-      <translation/>
+        <source>Minimum Write to Read Time, different bank group</source>
     </message>
     <message>
-      <source>DRAMs On-die Termination impedance for DQS_RTT_PARK</source>
-      <translation/>
+        <source>DRAMs On-die Termination impedance for DQS_RTT_PARK</source>
     </message>
     <message>
-      <source>. These settings can be viewed </source>
-      <translation/>
+        <source>. These settings can be viewed </source>
     </message>
     <message>
-      <source>Peak Core Voltage 0</source>
-      <translation/>
+        <source>Peak Core Voltage 0</source>
     </message>
     <message>
-      <source>Peak Core Voltage 1</source>
-      <translation/>
+        <source>Peak Core Voltage 1</source>
     </message>
     <message>
-      <source>DRAM Timing Configuration</source>
-      <translation/>
+        <source>DRAM Timing Configuration</source>
     </message>
     <message>
-      <source>CCD Frequency Optimizer</source>
-      <translation/>
+        <source>CCD Frequency Optimizer</source>
     </message>
     <message>
-      <source>PROC_CS_DriveStrength</source>
-      <translation/>
+        <source>PROC_CS_DriveStrength</source>
     </message>
     <message>
-      <source>PROC_CK_DriveStrength</source>
-      <translation/>
+        <source>PROC_CK_DriveStrength</source>
     </message>
     <message>
-      <source>Workspace View Mode is updated as per last applied profile</source>
-      <translation/>
+        <source>Workspace View Mode is updated as per last applied profile</source>
     </message>
     <message>
-      <source>Change Expo Mode</source>
-      <translation/>
+        <source>Change Expo Mode</source>
     </message>
     <message>
-      <source>Refresh Recovery Delay Time (tRFCSb)</source>
-      <translation/>
+        <source>Refresh Recovery Delay Time (tRFCSb)</source>
     </message>
     <message>
-      <source>LCM is not available when Curve Optimizer is enabled</source>
-      <translation/>
+        <source>LCM is not available when Curve Optimizer is enabled</source>
     </message>
     <message>
-      <source>Ryzen Master Driver not Installed properly.</source>
-      <translation/>
+        <source>Ryzen Master Driver not Installed properly.</source>
     </message>
     <message>
-      <source>Ryzen Master detected change in processor type. All profile data will be reset.</source>
-      <translation/>
+        <source>Ryzen Master detected change in processor type. All profile data will be reset.</source>
     </message>
     <message>
-      <source>Following settings will be impacted while loading </source>
-      <translation/>
+        <source>Following settings will be impacted while loading </source>
     </message>
     <message>
-      <source>Deactivate OTF</source>
-      <translation/>
+        <source>Deactivate OTF</source>
     </message>
     <message>
-      <source>Sets a maximum boost frequency higher than the stock frequency.</source>
-      <translation/>
+        <source>Sets a maximum boost frequency higher than the stock frequency.</source>
     </message>
     <message>
-      <source> was successfully discarded.</source>
-      <translation/>
+        <source> was successfully discarded.</source>
     </message>
     <message>
-      <source>Target VDDCR</source>
-      <translation/>
+        <source>Target VDDCR</source>
     </message>
     <message>
-      <source>DRAM Termination RTT_Wr</source>
-      <translation/>
+        <source>DRAM Termination RTT_Wr</source>
     </message>
     <message>
-      <source>is dependent on Write PBO to BIOS setting, changes will be applied on-the-fly but may not be preserved after a system restart. To ensure applied values persist even after a reboot, turn ON the Write PBO to BIOS feature in the Settings page.</source>
-      <translation/>
+        <source>is dependent on Write PBO to BIOS setting, changes will be applied on-the-fly but may not be preserved after a system restart. To ensure applied values persist even after a reboot, turn ON the Write PBO to BIOS feature in the Settings page.</source>
     </message>
     <message>
-      <source>Simultaneous Multithreading</source>
-      <translation/>
+        <source>Simultaneous Multithreading</source>
     </message>
     <message>
-      <source>Running the curve optimizer validation is a long and invasive process. You will not be able to use any other tuning features until the process is complete.</source>
-      <translation/>
+        <source>Running the curve optimizer validation is a long and invasive process. You will not be able to use any other tuning features until the process is complete.</source>
     </message>
     <message>
-      <source>PROCODT_PullDown</source>
-      <translation/>
+        <source>PROCODT_PullDown</source>
     </message>
     <message>
-      <source>Memory Access Mode</source>
-      <translation/>
+        <source>Memory Access Mode</source>
     </message>
     <message>
-      <source>Nitro Control Line</source>
-      <translation/>
+        <source>Nitro Control Line</source>
     </message>
     <message>
-      <source> has been created successfully from </source>
-      <translation/>
+        <source> has been created successfully from </source>
     </message>
     <message>
-      <source>Stress Test Failed</source>
-      <translation/>
+        <source>Stress Test Failed</source>
     </message>
     <message>
-      <source>Partial cores/CCDs can not be enabled/disabled when Curve Optimizer is ON. Turn off Curve Optimizer to enable/disable cores/CCDs</source>
-      <translation/>
+        <source>Partial cores/CCDs can not be enabled/disabled when Curve Optimizer is ON. Turn off Curve Optimizer to enable/disable cores/CCDs</source>
     </message>
     <message>
-      <source>CPU Stress test for Curve Optimizer has completed unsuccessfully</source>
-      <translation/>
+        <source>CPU Stress test for Curve Optimizer has completed unsuccessfully</source>
     </message>
     <message>
-      <source>Select number of active CCDs required</source>
-      <translation/>
+        <source>Select number of active CCDs required</source>
     </message>
     <message>
-      <source> description has been successfully changed.</source>
-      <translation/>
+        <source> description has been successfully changed.</source>
     </message>
     <message>
-      <source>Activate to Activate Delay Time, same bank group(tRRD_L)</source>
-      <translation/>
+        <source>Activate to Activate Delay Time, same bank group(tRRD_L)</source>
     </message>
     <message>
-      <source>Active CCD Mode can not be changed when all CCD's are not enabled</source>
-      <translation/>
+        <source>Active CCD Mode can not be changed when all CCD&apos;s are not enabled</source>
     </message>
     <message>
-      <source>Driver Does Not Exist!</source>
-      <translation/>
+        <source>Driver Does Not Exist!</source>
     </message>
     <message>
-      <source>Latest Version</source>
-      <translation/>
+        <source>Latest Version</source>
     </message>
     <message>
-      <source>Clock Control</source>
-      <translation/>
+        <source>Clock Control</source>
     </message>
     <message>
-      <source>Active</source>
-      <translation/>
+        <source>Active</source>
     </message>
     <message>
-      <source>Inactive</source>
-      <translation/>
+        <source>Inactive</source>
     </message>
     <message>
-      <source>Default Settings</source>
-      <translation/>
+        <source>Default Settings</source>
     </message>
     <message>
-      <source>CPU - </source>
-      <translation/>
+        <source>CPU - </source>
     </message>
     <message>
-      <source>Ad Banner</source>
-      <translation/>
+        <source>Ad Banner</source>
     </message>
     <message>
-      <source>Voltage setting is available only when the CPU Control Mode is set to Manual</source>
-      <translation/>
+        <source>Voltage setting is available only when the CPU Control Mode is set to Manual</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>EEPROM</source>
-      <translation/>
+        <source>EEPROM</source>
     </message>
     <message>
-      <source>Bus Clocks</source>
-      <translation/>
+        <source>Bus Clocks</source>
     </message>
     <message>
-      <source>FEPROM</source>
-      <translation/>
+        <source>FEPROM</source>
     </message>
     <message>
-      <source>Custom</source>
-      <translation/>
+        <source>Custom</source>
     </message>
     <message>
-      <source>EXPO 1</source>
-      <translation/>
+        <source>EXPO 1</source>
     </message>
     <message>
-      <source>EXPO 2</source>
-      <translation/>
+        <source>EXPO 2</source>
     </message>
     <message>
-      <source>Active CCD Mode Combination can not be changed when all CCD's are not enabled</source>
-      <translation/>
+        <source>Active CCD Mode Combination can not be changed when all CCD&apos;s are not enabled</source>
     </message>
     <message>
-      <source>Read to Read timing different DIMM</source>
-      <translation/>
+        <source>Read to Read timing different DIMM</source>
     </message>
     <message>
-      <source>The 2T Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals(not including CS, CKE, and ODT). Important: The memory controller doesn't support 2T mode and Gear Down enabled together</source>
-      <translation/>
+        <source>The 2T Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals(not including CS, CKE, and ODT). Important: The memory controller doesn&apos;t support 2T mode and Gear Down enabled together</source>
     </message>
     <message>
-      <source>GPU - </source>
-      <translation/>
+        <source>GPU - </source>
     </message>
     <message>
-      <source>Tuning Mode</source>
-      <translation/>
+        <source>Tuning Mode</source>
     </message>
     <message>
-      <source>Last applied Tuning: </source>
-      <translation/>
+        <source>Last applied Tuning: </source>
     </message>
     <message>
-      <source>Gauges</source>
-      <translation/>
+        <source>Gauges</source>
     </message>
     <message>
-      <source>Incompatible Configuration Files</source>
-      <translation/>
+        <source>Incompatible Configuration Files</source>
     </message>
     <message>
-      <source>Row Cycle Time</source>
-      <translation/>
+        <source>Row Cycle Time</source>
     </message>
     <message>
-      <source>Partial CCDs can not be enabled/disabled when cores are already parked.</source>
-      <translation/>
+        <source>Partial CCDs can not be enabled/disabled when cores are already parked.</source>
     </message>
     <message>
-      <source>Selected Offset value is same as of Curve Optimizer Mode - OFF.
+        <source>Selected Offset value is same as of Curve Optimizer Mode - OFF.
 Please select valid offset values and then apply again.</source>
-      <translation/>
     </message>
     <message>
-      <source>Overclocking is not yet enabled.</source>
-      <translation/>
+        <source>Overclocking is not yet enabled.</source>
     </message>
     <message>
-      <source>EXPO Mode</source>
-      <translation/>
+        <source>EXPO Mode</source>
     </message>
     <message>
-      <source>Peak Current Limit SOC</source>
-      <translation/>
+        <source>Peak Current Limit SOC</source>
     </message>
     <message>
-      <source>Peak Current Limit CPU</source>
-      <translation/>
+        <source>Peak Current Limit CPU</source>
     </message>
     <message>
-      <source>Peak Current Limit GPU</source>
-      <translation/>
+        <source>Peak Current Limit GPU</source>
     </message>
     <message>
-      <source>Data &amp; Analytics</source>
-      <translation/>
+        <source>Data &amp; Analytics</source>
     </message>
     <message>
-      <source>EDC (CPU)</source>
-      <translation/>
+        <source>EDC (CPU)</source>
     </message>
     <message>
-      <source>TDC (CPU)</source>
-      <translation/>
+        <source>TDC (CPU)</source>
     </message>
     <message>
-      <source>TDC (SOC)</source>
-      <translation/>
+        <source>TDC (SOC)</source>
     </message>
     <message>
-      <source>EDC (SOC)</source>
-      <translation/>
+        <source>EDC (SOC)</source>
     </message>
     <message>
-      <source>This mode enables the user to adjust PBO parameters (PPT, TDC, EDC) up to the AMD Spec limits, but not exceeding them</source>
-      <translation/>
+        <source>This mode enables the user to adjust PBO parameters (PPT, TDC, EDC) up to the AMD Spec limits, but not exceeding them</source>
     </message>
     <message>
-      <source>Update interval for controls under Dashboard section</source>
-      <translation/>
+        <source>Update interval for controls under Dashboard section</source>
     </message>
     <message>
-      <source>Manual</source>
-      <translation/>
+        <source>Manual</source>
     </message>
     <message>
-      <source>Method</source>
-      <translation/>
+        <source>Method</source>
     </message>
     <message>
-      <source>Current Version</source>
-      <translation/>
+        <source>Current Version</source>
     </message>
     <message>
-      <source>Min I/O Clock</source>
-      <translation/>
+        <source>Min I/O Clock</source>
     </message>
     <message>
-      <source>Average Core Voltage</source>
-      <translation/>
+        <source>Average Core Voltage</source>
     </message>
     <message>
-      <source>Ryzen Master requires Administrator rights.</source>
-      <translation/>
+        <source>Ryzen Master requires Administrator rights.</source>
     </message>
     <message>
-      <source>DF PState</source>
-      <translation/>
+        <source>DF PState</source>
     </message>
     <message>
-      <source> Offset</source>
-      <translation/>
+        <source> Offset</source>
     </message>
     <message>
-      <source>Turn off EXPO Mode</source>
-      <translation/>
+        <source>Turn off EXPO Mode</source>
     </message>
     <message>
-      <source>RAM - </source>
-      <translation/>
+        <source>RAM - </source>
     </message>
     <message>
-      <source>Lower value in ohms will configure processor to drive stronger signal on CS and ODT pins</source>
-      <translation/>
+        <source>Lower value in ohms will configure processor to drive stronger signal on CS and ODT pins</source>
     </message>
     <message>
-      <source>Error while deleting </source>
-      <translation/>
+        <source>Error while deleting </source>
     </message>
     <message>
-      <source>Reset </source>
-      <translation/>
+        <source>Reset </source>
     </message>
     <message>
-      <source>Stress Test Passed</source>
-      <translation/>
+        <source>Stress Test Passed</source>
     </message>
     <message>
-      <source>RttNom</source>
-      <translation/>
+        <source>RttNom</source>
     </message>
     <message>
-      <source>PBO Scalar</source>
-      <translation/>
+        <source>PBO Scalar</source>
     </message>
     <message>
-      <source>Continue with Current 'Max Offset' Value</source>
-      <translation/>
+        <source>Continue with Current &apos;Max Offset&apos; Value</source>
     </message>
     <message>
-      <source>Synchronous DRAM</source>
-      <translation/>
+        <source>Synchronous DRAM</source>
     </message>
     <message>
-      <source>: Modified</source>
-      <translation/>
+        <source>: Modified</source>
     </message>
     <message>
-      <source>System</source>
-      <translation/>
+        <source>System</source>
     </message>
     <message>
-      <source>TrfcSb</source>
-      <translation/>
+        <source>TrfcSb</source>
     </message>
     <message>
-      <source>Tuning</source>
-      <translation/>
+        <source>Tuning</source>
     </message>
     <message>
-      <source>Row Precharge Delay</source>
-      <translation/>
+        <source>Row Precharge Delay</source>
     </message>
     <message>
-      <source>Update</source>
-      <translation/>
+        <source>Update</source>
     </message>
     <message>
-      <source>Cores Speed is not available when OC Mode is not in Manual</source>
-      <translation/>
+        <source>Cores Speed is not available when OC Mode is not in Manual</source>
     </message>
     <message>
-      <source> imported successfully.</source>
-      <translation/>
+        <source> imported successfully.</source>
     </message>
     <message>
-      <source>Adjust the VDDIO voltage</source>
-      <translation/>
+        <source>Adjust the VDDIO voltage</source>
     </message>
     <message>
-      <source>Clock Unit Type</source>
-      <translation/>
+        <source>Clock Unit Type</source>
     </message>
     <message>
-      <source>Settings &amp; Preference</source>
-      <translation/>
+        <source>Settings &amp; Preference</source>
     </message>
     <message>
-      <source>Invalid Value</source>
-      <translation/>
+        <source>Invalid Value</source>
     </message>
     <message>
-      <source>This profile cannot be loaded due to an error while reading
+        <source>This profile cannot be loaded due to an error while reading
 Please take an appropriate action to proceed further.</source>
-      <translation/>
     </message>
     <message>
-      <source>CAD Bus Drive Strength</source>
-      <translation/>
+        <source>CAD Bus Drive Strength</source>
     </message>
     <message>
-      <source>DRAMDataDriveStrength</source>
-      <translation/>
+        <source>DRAMDataDriveStrength</source>
     </message>
     <message>
-      <source>VDD 11 S3</source>
-      <translation/>
+        <source>VDD 11 S3</source>
     </message>
     <message>
-      <source>SDRAM Optional Features(tMAW,MAC)</source>
-      <translation/>
+        <source>SDRAM Optional Features(tMAW,MAC)</source>
     </message>
     <message>
-      <source>Complete</source>
-      <translation/>
+        <source>Complete</source>
     </message>
     <message>
-      <source>Four Activate Windows Time</source>
-      <translation/>
+        <source>Four Activate Windows Time</source>
     </message>
     <message>
-      <source>CPU Voltage (VDDCR)</source>
-      <translation/>
+        <source>CPU Voltage (VDDCR)</source>
     </message>
     <message>
-      <source>Continue</source>
-      <translation/>
+        <source>Continue</source>
     </message>
     <message>
-      <source>Partial cores can not be enabled, all CCD's needs to be enabled</source>
-      <translation/>
+        <source>Partial cores can not be enabled, all CCD&apos;s needs to be enabled</source>
     </message>
     <message>
-      <source>DRAMDataDriveStrength_PullUp</source>
-      <translation/>
+        <source>DRAMDataDriveStrength_PullUp</source>
     </message>
     <message>
-      <source>Load EXPO Profile Warning</source>
-      <translation/>
+        <source>Load EXPO Profile Warning</source>
     </message>
     <message>
-      <source>Total Socket Power</source>
-      <translation/>
+        <source>Total Socket Power</source>
     </message>
     <message>
-      <source> was successfully read.</source>
-      <translation/>
+        <source> was successfully read.</source>
     </message>
     <message>
-      <source>Duplicate profile </source>
-      <translation/>
+        <source>Duplicate profile </source>
     </message>
     <message>
-      <source>CAD Bus Timing User Controls</source>
-      <translation/>
+        <source>CAD Bus Timing User Controls</source>
     </message>
     <message>
-      <source>Drive strength for all DQ and DMI Ios</source>
-      <translation/>
+        <source>Drive strength for all DQ and DMI Ios</source>
     </message>
     <message>
-      <source>Optimized Performance Profile</source>
-      <translation/>
+        <source>Optimized Performance Profile</source>
     </message>
     <message>
-      <source>Core Performance Indicators Unavailable!</source>
-      <translation/>
+        <source>Core Performance Indicators Unavailable!</source>
     </message>
     <message>
-      <source>RttParkDqs</source>
-      <translation/>
+        <source>RttParkDqs</source>
     </message>
     <message>
-      <source>DRAM Termination RTT_Park</source>
-      <translation/>
+        <source>DRAM Termination RTT_Park</source>
     </message>
     <message>
-      <source>Show CCDs</source>
-      <translation/>
+        <source>Show CCDs</source>
     </message>
     <message>
-      <source>Profiles can be managed using discard unsupported values button under Profile page</source>
-      <translation/>
+        <source>Profiles can be managed using discard unsupported values button under Profile page</source>
     </message>
     <message>
-      <source>Up To Date - </source>
-      <translation/>
+        <source>Up To Date - </source>
     </message>
     <message>
-      <source>Curve Optimizer is not enabled when Cores are parked</source>
-      <translation/>
+        <source>Curve Optimizer is not enabled when Cores are parked</source>
     </message>
     <message>
-      <source>GearDownEn</source>
-      <translation/>
+        <source>GearDownEn</source>
     </message>
     <message>
-      <source> successfully reset to current values.</source>
-      <translation/>
+        <source> successfully reset to current values.</source>
     </message>
     <message>
-      <source>Per Die</source>
-      <translation/>
+        <source>Per Die</source>
     </message>
     <message>
-      <source>Max Temperature</source>
-      <translation/>
+        <source>Max Temperature</source>
     </message>
     <message>
-      <source>Invalid Symmetry for core disabled. Number of cores should be same across active CCD</source>
-      <translation/>
+        <source>Invalid Symmetry for core disabled. Number of cores should be same across active CCD</source>
     </message>
     <message>
-      <source>Invalid Symmetry for core disabled. Number of cores should be same across active CCX</source>
-      <translation/>
+        <source>Invalid Symmetry for core disabled. Number of cores should be same across active CCX</source>
     </message>
     <message>
-      <source> to stock values.</source>
-      <translation/>
+        <source> to stock values.</source>
     </message>
     <message>
-      <source>No changes are there to reset</source>
-      <translation/>
+        <source>No changes are there to reset</source>
     </message>
     <message>
-      <source>CS/ODT Setup Timing Settings</source>
-      <translation/>
+        <source>CS/ODT Setup Timing Settings</source>
     </message>
     <message>
-      <source>No changes are there to apply</source>
-      <translation/>
+        <source>No changes are there to apply</source>
     </message>
     <message>
-      <source>Factory Reset</source>
-      <translation/>
+        <source>Factory Reset</source>
     </message>
     <message>
-      <source>Specifies the Processor DQ drive strengths Pull Up P0</source>
-      <translation/>
+        <source>Specifies the Processor DQ drive strengths Pull Up P0</source>
     </message>
     <message>
-      <source>When turned ON, the Curve Optimizer parameters will be persistent even after system restart</source>
-      <translation/>
+        <source>When turned ON, the Curve Optimizer parameters will be persistent even after system restart</source>
     </message>
     <message>
-      <source>Click OK to enable overclocking. The configuration requested requires Ryzen Master to Restart Windows, post restart please re-open Ryzen Master</source>
-      <translation/>
+        <source>Click OK to enable overclocking. The configuration requested requires Ryzen Master to Restart Windows, post restart please re-open Ryzen Master</source>
     </message>
     <message>
-      <source>VDDCR SOC Telemetry Power</source>
-      <translation/>
+        <source>VDDCR SOC Telemetry Power</source>
     </message>
     <message>
-      <source>U Clock</source>
-      <translation/>
+        <source>U Clock</source>
     </message>
     <message>
-      <source>Read Row-Column Delay</source>
-      <translation/>
+        <source>Read Row-Column Delay</source>
     </message>
     <message>
-      <source>CPU Power</source>
-      <translation/>
+        <source>CPU Power</source>
     </message>
     <message>
-      <source>APU VDDIO</source>
-      <translation/>
+        <source>APU VDDIO</source>
     </message>
     <message>
-      <source>Legacy Compatibility Mode</source>
-      <translation/>
+        <source>Legacy Compatibility Mode</source>
     </message>
     <message>
-      <source>Profile</source>
-      <translation/>
+        <source>Profile</source>
     </message>
     <message>
-      <source>RTT_OFF</source>
-      <translation/>
+        <source>RTT_OFF</source>
     </message>
     <message>
-      <source>Failed to apply Tuning: Workspace</source>
-      <translation/>
+        <source>Failed to apply Tuning: Workspace</source>
     </message>
     <message>
-      <source>Optimize</source>
-      <translation/>
+        <source>Optimize</source>
     </message>
     <message>
-      <source>Additional Controls</source>
-      <translation/>
+        <source>Additional Controls</source>
     </message>
     <message>
-      <source>Ryzen Master unable to initialize. Kindly reinstall the program.</source>
-      <translation/>
+        <source>Ryzen Master unable to initialize. Kindly reinstall the program.</source>
     </message>
     <message>
-      <source>Dram Pull-up and Pull-Down Output Driver Impedance for all DQ and DMI Ios</source>
-      <translation/>
+        <source>Dram Pull-up and Pull-Down Output Driver Impedance for all DQ and DMI Ios</source>
     </message>
     <message>
-      <source>Read CAS# to precharge time</source>
-      <translation/>
+        <source>Read CAS# to precharge time</source>
     </message>
     <message>
-      <source>Curve Values Already Exist</source>
-      <translation/>
+        <source>Curve Values Already Exist</source>
     </message>
     <message>
-      <source> successfully reset to stock values.</source>
-      <translation/>
+        <source> successfully reset to stock values.</source>
     </message>
     <message>
-      <source>Restore all Settings parameters to their default values</source>
-      <translation/>
+        <source>Restore all Settings parameters to their default values</source>
     </message>
     <message>
-      <source>AddrCmdSetup</source>
-      <translation/>
+        <source>AddrCmdSetup</source>
     </message>
     <message>
-      <source>EXPO Profile Active</source>
-      <translation/>
+        <source>EXPO Profile Active</source>
     </message>
     <message>
-      <source>Allows the processor to run beyond the default infrastructure limits up to the limits of the board to potentially achieve higher sustained frequencies</source>
-      <translation/>
+        <source>Allows the processor to run beyond the default infrastructure limits up to the limits of the board to potentially achieve higher sustained frequencies</source>
     </message>
     <message>
-      <source>Stop Stress Test</source>
-      <translation/>
+        <source>Stop Stress Test</source>
     </message>
     <message>
-      <source>Running the curve optimizer is a long and invasive process. You will not be able to use any other tuning features until the process is complete. Your system may restart during this process, so it is recommended that you save any work and close all applications before proceeding.
+        <source>Running the curve optimizer is a long and invasive process. You will not be able to use any other tuning features until the process is complete. Your system may restart during this process, so it is recommended that you save any work and close all applications before proceeding.
 Curve Optimizer is not supported with current system values, proceeding with this will lead to reset of few parameters. Do you want to proceed?</source>
-      <translation/>
     </message>
     <message>
-      <source>. Any current tuning settings will be lost.</source>
-      <translation/>
+        <source>. Any current tuning settings will be lost.</source>
     </message>
     <message>
-      <source>Validate</source>
-      <translation/>
+        <source>Validate</source>
     </message>
     <message>
-      <source>PROCODTDQS</source>
-      <translation/>
+        <source>PROCODTDQS</source>
     </message>
     <message>
-      <source>Downloading Latest Version</source>
-      <translation/>
+        <source>Downloading Latest Version</source>
     </message>
     <message>
-      <source> and RAM</source>
-      <translation/>
+        <source> and RAM</source>
     </message>
     <message>
-      <source>Reset all application data and settings to factory settings</source>
-      <translation/>
+        <source>Reset all application data and settings to factory settings</source>
     </message>
     <message>
-      <source>VDD MISC</source>
-      <translation/>
+        <source>VDD MISC</source>
     </message>
     <message>
-      <source>Few cores are already disabled, can not disable further cores</source>
-      <translation/>
+        <source>Few cores are already disabled, can not disable further cores</source>
     </message>
     <message>
-      <source>Core Sync</source>
-      <translation/>
+        <source>Core Sync</source>
     </message>
     <message>
-      <source>INVALID INDEX</source>
-      <translation/>
+        <source>INVALID INDEX</source>
     </message>
     <message>
-      <source>Previous curve optimization was ended prematurely. Some values have already been optimized. You can either restart the process from the beginning, or continue where it left off.</source>
-      <translation/>
+        <source>Previous curve optimization was ended prematurely. Some values have already been optimized. You can either restart the process from the beginning, or continue where it left off.</source>
     </message>
     <message>
-      <source>Last applied Tuning: Workspace</source>
-      <translation/>
+        <source>Last applied Tuning: Workspace</source>
     </message>
     <message>
-      <source>VDDCR SOC</source>
-      <translation/>
+        <source>VDDCR SOC</source>
     </message>
     <message>
-      <source>Error while resetting </source>
-      <translation/>
+        <source>Error while resetting </source>
     </message>
     <message>
-      <source>Specifies the Processor ODT Impedance Pull Up P0</source>
-      <translation/>
+        <source>Specifies the Processor ODT Impedance Pull Up P0</source>
     </message>
     <message>
-      <source>EXPO Profile 1</source>
-      <translation/>
+        <source>EXPO Profile 1</source>
     </message>
     <message>
-      <source>EXPO Profile 2</source>
-      <translation/>
+        <source>EXPO Profile 2</source>
     </message>
     <message>
-      <source>TrdrdScL</source>
-      <translation/>
+        <source>TrdrdScL</source>
     </message>
     <message>
-      <source>hardware </source>
-      <translation/>
+        <source>hardware </source>
     </message>
     <message>
-      <source>Restart</source>
-      <translation/>
+        <source>Restart</source>
     </message>
     <message>
-      <source>Restore</source>
-      <translation/>
+        <source>Restore</source>
     </message>
     <message>
-      <source>Unsupported hardware!</source>
-      <translation/>
+        <source>Unsupported hardware!</source>
     </message>
     <message>
-      <source> was successfully created.</source>
-      <translation/>
+        <source> was successfully created.</source>
     </message>
     <message>
-      <source>Error while saving </source>
-      <translation/>
+        <source>Error while saving </source>
     </message>
     <message>
-      <source>CLDO VDDP</source>
-      <translation/>
+        <source>CLDO VDDP</source>
     </message>
     <message>
-      <source>Workspace</source>
-      <translation/>
+        <source>Workspace</source>
     </message>
     <message>
-      <source>Read to Write timing</source>
-      <translation/>
+        <source>Read to Write timing</source>
     </message>
     <message>
-      <source>RAS Active Time</source>
-      <translation/>
+        <source>RAS Active Time</source>
     </message>
     <message>
-      <source>. It will also &lt;u&gt;make changes to your BIOS settings&lt;/u&gt;.</source>
-      <translation/>
+        <source>. It will also &lt;u&gt;make changes to your BIOS settings&lt;/u&gt;.</source>
     </message>
     <message>
-      <source>Selected Curve Optimizer mode has not been optimized.
- Please optimize the values by clicking on 'Optimize' button and then apply again.</source>
-      <translation/>
+        <source>Selected Curve Optimizer mode has not been optimized.
+ Please optimize the values by clicking on &apos;Optimize&apos; button and then apply again.</source>
     </message>
     <message>
-      <source> EXPO Mode will load </source>
-      <translation/>
+        <source> EXPO Mode will load </source>
     </message>
     <message>
-      <source>Profile </source>
-      <translation/>
+        <source>Profile </source>
     </message>
     <message>
-      <source>Select a combination of active CCDs for the selected Active CCD Mode</source>
-      <translation/>
+        <source>Select a combination of active CCDs for the selected Active CCD Mode</source>
     </message>
     <message>
-      <source>Peak Core Voltage</source>
-      <translation/>
+        <source>Peak Core Voltage</source>
     </message>
     <message>
-      <source>Error while creating duplicate profile from </source>
-      <translation/>
+        <source>Error while creating duplicate profile from </source>
     </message>
     <message>
-      <source>All cores should be enabled before Legacy Compatibility Mode can be turned ON</source>
-      <translation/>
+        <source>All cores should be enabled before Legacy Compatibility Mode can be turned ON</source>
     </message>
     <message>
-      <source>RttPark</source>
-      <translation/>
+        <source>RttPark</source>
     </message>
     <message>
-      <source>Specifies the Processor ODT Impedance Pull Down P0</source>
-      <translation/>
+        <source>Specifies the Processor ODT Impedance Pull Down P0</source>
     </message>
     <message>
-      <source>Data Bus Configuration User Controls</source>
-      <translation/>
+        <source>Data Bus Configuration User Controls</source>
     </message>
     <message>
-      <source>CPU Telemetry Voltage</source>
-      <translation/>
+        <source>CPU Telemetry Voltage</source>
     </message>
     <message>
-      <source>Dashboard</source>
-      <translation/>
+        <source>Dashboard</source>
     </message>
     <message>
-      <source>Peak Current Limit</source>
-      <translation/>
+        <source>Peak Current Limit</source>
     </message>
     <message>
-      <source>ClkDrvStren</source>
-      <translation/>
+        <source>ClkDrvStren</source>
     </message>
     <message>
-      <source>CkeDrvStren</source>
-      <translation/>
+        <source>CkeDrvStren</source>
     </message>
     <message>
-      <source>Consider setting Core Frequency before engaging Manual mode</source>
-      <translation/>
+        <source>Consider setting Core Frequency before engaging Manual mode</source>
     </message>
     <message>
-      <source>Stress Test</source>
-      <translation/>
+        <source>Stress Test</source>
     </message>
     <message>
-      <source>Persistent</source>
-      <translation/>
+        <source>Persistent</source>
     </message>
     <message>
-      <source>Workspace was successfully discarded.</source>
-      <translation/>
+        <source>Workspace was successfully discarded.</source>
     </message>
     <message>
-      <source>Eco Mode</source>
-      <translation/>
+        <source>Eco Mode</source>
     </message>
     <message>
-      <source>Provides full set of hardware controls to support an advanced user</source>
-      <translation/>
+        <source>Provides full set of hardware controls to support an advanced user</source>
     </message>
     <message>
-      <source>VDD Misc Voltage</source>
-      <translation/>
+        <source>VDD Misc Voltage</source>
     </message>
     <message>
-      <source>Minimum Write to Read Time, same bank group</source>
-      <translation/>
+        <source>Minimum Write to Read Time, same bank group</source>
     </message>
     <message>
-      <source>Row Address to Column Address Delay</source>
-      <translation/>
+        <source>Row Address to Column Address Delay</source>
     </message>
     <message>
-      <source>Default system settings</source>
-      <translation/>
+        <source>Default system settings</source>
     </message>
     <message>
-      <source> You should consider saving your current settings as a profile before proceeding. &lt;br&gt;&lt;br&gt;Are you sure you want to reset your </source>
-      <translation/>
+        <source> You should consider saving your current settings as a profile before proceeding. &lt;br&gt;&lt;br&gt;Are you sure you want to reset your </source>
     </message>
     <message>
-      <source> will adjusted to Maximum Allowed limit : </source>
-      <translation/>
+        <source> will adjusted to Maximum Allowed limit : </source>
     </message>
     <message>
-      <source>Minimum Write Recovery Time</source>
-      <translation/>
+        <source>Minimum Write Recovery Time</source>
     </message>
     <message>
-      <source>Reset Successful.</source>
-      <translation/>
+        <source>Reset Successful.</source>
     </message>
     <message>
-      <source>Default</source>
-      <translation/>
+        <source>Default</source>
     </message>
     <message>
-      <source>AMD User Experience Program</source>
-      <translation/>
+        <source>AMD User Experience Program</source>
     </message>
     <message>
-      <source>Cores Disabling is available only when the Curve Optimizer is set to OFF</source>
-      <translation/>
+        <source>Cores Disabling is available only when the Curve Optimizer is set to OFF</source>
     </message>
     <message>
-      <source> saved successfully.</source>
-      <translation/>
+        <source> saved successfully.</source>
     </message>
     <message>
-      <source>This profile cannot be loaded as it is created with Basic App Mode
+        <source>This profile cannot be loaded as it is created with Basic App Mode
 Please take an appropriate action to proceed further.
 
 Note: Upgrading profile to Advanced Mode will be irreversible process
 and will no longer valid for Basic App Mode.</source>
-      <translation/>
     </message>
     <message>
-      <source>Latest version available</source>
-      <translation/>
+        <source>Latest version available</source>
     </message>
     <message>
-      <source>Option-%1</source>
-      <translation/>
+        <source>Option-%1</source>
     </message>
     <message>
-      <source>Disable</source>
-      <translation/>
+        <source>Disable</source>
     </message>
     <message>
-      <source>Enable or disable DDR power down mode</source>
-      <translation/>
+        <source>Enable or disable DDR power down mode</source>
     </message>
     <message>
-      <source>Following settings will be impacted while resetting </source>
-      <translation/>
+        <source>Following settings will be impacted while resetting </source>
     </message>
     <message>
-      <source> is not compatible for the overclocking.</source>
-      <translation/>
+        <source> is not compatible for the overclocking.</source>
     </message>
     <message>
-      <source>Enables users to apply EXPO Profile values that will persist across system restarts</source>
-      <translation/>
+        <source>Enables users to apply EXPO Profile values that will persist across system restarts</source>
     </message>
     <message>
-      <source>Loading this will discard all your current changes for EXPO parameters.</source>
-      <translation/>
+        <source>Loading this will discard all your current changes for EXPO parameters.</source>
     </message>
     <message>
-      <source>Partial cores can not be enabled, all cores needs to be enabled</source>
-      <translation/>
+        <source>Partial cores can not be enabled, all cores needs to be enabled</source>
     </message>
     <message>
-      <source>Sustained Current Limit</source>
-      <translation/>
+        <source>Sustained Current Limit</source>
     </message>
     <message>
-      <source>Error while exporting file.</source>
-      <translation/>
+        <source>Error while exporting file.</source>
     </message>
     <message>
-      <source>Error while importing file.</source>
-      <translation/>
+        <source>Error while importing file.</source>
     </message>
     <message>
-      <source>Write to Write timing same chip select</source>
-      <translation/>
+        <source>Write to Write timing same chip select</source>
     </message>
     <message>
-      <source>This profile cannot be loaded as it is created with Advanced App Mode
+        <source>This profile cannot be loaded as it is created with Advanced App Mode
 Please take an appropriate action to proceed further.</source>
-      <translation/>
     </message>
     <message>
-      <source>CPU Stress test for '</source>
-      <translation/>
+        <source>CPU Stress test for &apos;</source>
     </message>
     <message>
-      <source>Note : Use of AMD products outside of the Specifications or outside of factory settings will void any AMD warranty.</source>
-      <translation/>
+        <source>Note : Use of AMD products outside of the Specifications or outside of factory settings will void any AMD warranty.</source>
     </message>
     <message>
-      <source>Automatic</source>
-      <translation/>
+        <source>Automatic</source>
     </message>
     <message>
-      <source>Ryzen Master is not supported in current hardware configuration.</source>
-      <translation/>
+        <source>Ryzen Master is not supported in current hardware configuration.</source>
     </message>
     <message>
-      <source>Curve Optimizer cannot be set when Cores are currently disabled</source>
-      <translation/>
+        <source>Curve Optimizer cannot be set when Cores are currently disabled</source>
     </message>
     <message>
-      <source>The Gear Down mode Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals.  Important: The memory controller doesn't support 2T mode and Gear Down enabled together.</source>
-      <translation/>
+        <source>The Gear Down mode Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals.  Important: The memory controller doesn&apos;t support 2T mode and Gear Down enabled together.</source>
     </message>
     <message>
-      <source>Discarded unsupported values for: </source>
-      <translation/>
+        <source>Discarded unsupported values for: </source>
     </message>
     <message>
-      <source>Trcpage</source>
-      <translation/>
+        <source>Trcpage</source>
     </message>
     <message>
-      <source>TrdrdDd</source>
-      <translation/>
+        <source>TrdrdDd</source>
     </message>
     <message>
-      <source>TrdrdSc</source>
-      <translation/>
+        <source>TrdrdSc</source>
     </message>
     <message>
-      <source>TrdrdSd</source>
-      <translation/>
+        <source>TrdrdSd</source>
     </message>
     <message>
-      <source>RttNomRd</source>
-      <translation/>
+        <source>RttNomRd</source>
     </message>
     <message>
-      <source>RttNomWr</source>
-      <translation/>
+        <source>RttNomWr</source>
     </message>
     <message>
-      <source>Delete Profiles</source>
-      <translation/>
+        <source>Delete Profiles</source>
     </message>
     <message>
-      <source>CsOdtSetup</source>
-      <translation/>
+        <source>CsOdtSetup</source>
     </message>
     <message>
-      <source>Ryzen Master can only run with Virtualization Based Security (VBS) disabled in the Windows operating system. Please disable VBS and re-start Ryzen Master.</source>
-      <translation/>
+        <source>Ryzen Master can only run with Virtualization Based Security (VBS) disabled in the Windows operating system. Please disable VBS and re-start Ryzen Master.</source>
     </message>
     <message>
-      <source>Selecting </source>
-      <translation/>
+        <source>Selecting </source>
     </message>
     <message>
-      <source>Write to Write timing different DIMM</source>
-      <translation/>
+        <source>Write to Write timing different DIMM</source>
     </message>
     <message>
-      <source>Write Row-Column Delay</source>
-      <translation/>
+        <source>Write Row-Column Delay</source>
     </message>
     <message>
-      <source>Advanced</source>
-      <translation/>
+        <source>Advanced</source>
     </message>
     <message>
-      <source>Curve Optimizer is not enabled when LCM is ON</source>
-      <translation/>
+        <source>Curve Optimizer is not enabled when LCM is ON</source>
     </message>
     <message>
-      <source>Lower value in ohms will configure processor to drive stronger signal on CKE pins</source>
-      <translation/>
+        <source>Lower value in ohms will configure processor to drive stronger signal on CKE pins</source>
     </message>
     <message>
-      <source>Are you sure you want to stop curve optimization?</source>
-      <translation/>
+        <source>Are you sure you want to stop curve optimization?</source>
     </message>
     <message>
-      <source>SOC Telemetry Voltage</source>
-      <translation/>
+        <source>SOC Telemetry Voltage</source>
     </message>
     <message>
-      <source>CPU Temperature</source>
-      <translation/>
+        <source>CPU Temperature</source>
     </message>
     <message>
-      <source>Consider setting Peak Core(s) Voltage before engaging Manual mode</source>
-      <translation/>
+        <source>Consider setting Peak Core(s) Voltage before engaging Manual mode</source>
     </message>
     <message>
-      <source> EXPO Mode : Load </source>
-      <translation/>
+        <source> EXPO Mode : Load </source>
     </message>
     <message>
-      <source>Total Socket Power CPU</source>
-      <translation/>
+        <source>Total Socket Power CPU</source>
     </message>
     <message>
-      <source>Specifies the Dram DQ drive strengths Pull Up P0</source>
-      <translation/>
+        <source>Specifies the Dram DQ drive strengths Pull Up P0</source>
     </message>
     <message>
-      <source>TwrwrDd</source>
-      <translation/>
+        <source>TwrwrDd</source>
     </message>
     <message>
-      <source>TwrwrSc</source>
-      <translation/>
+        <source>TwrwrSc</source>
     </message>
     <message>
-      <source>TwrwrSd</source>
-      <translation/>
+        <source>TwrwrSd</source>
     </message>
     <message>
-      <source>Show Ad Banner</source>
-      <translation/>
+        <source>Show Ad Banner</source>
     </message>
     <message>
-      <source>Ryzen Master Driver service is not Running.</source>
-      <translation/>
+        <source>Ryzen Master Driver service is not Running.</source>
     </message>
     <message>
-      <source>Error while reading </source>
-      <translation/>
+        <source>Error while reading </source>
     </message>
     <message>
-      <source>I/O Clock Speed</source>
-      <translation/>
+        <source>I/O Clock Speed</source>
     </message>
     <message>
-      <source>Customize overclocking parameters within allowed limits for personalized tuning</source>
-      <translation/>
+        <source>Customize overclocking parameters within allowed limits for personalized tuning</source>
     </message>
     <message>
-      <source>Disable PROCHOT</source>
-      <translation/>
+        <source>Disable PROCHOT</source>
     </message>
     <message>
-      <source>Click Cancel to continue with Ryzen Master</source>
-      <translation/>
+        <source>Click Cancel to continue with Ryzen Master</source>
     </message>
     <message>
-      <source>Ryzen Master detects another instance running.</source>
-      <translation/>
+        <source>Ryzen Master detects another instance running.</source>
     </message>
     <message>
-      <source>Are you sure you want to stop stress testing?</source>
-      <translation/>
+        <source>Are you sure you want to stop stress testing?</source>
     </message>
     <message>
-      <source>Per Core</source>
-      <translation/>
+        <source>Per Core</source>
     </message>
     <message>
-      <source>User Mode</source>
-      <translation/>
+        <source>User Mode</source>
     </message>
     <message>
-      <source>Enabled</source>
-      <translation/>
+        <source>Enabled</source>
     </message>
     <message>
-      <source>Unknown</source>
-      <translation/>
+        <source>Unknown</source>
     </message>
     <message>
-      <source>Smart Stress Test</source>
-      <translation/>
+        <source>Smart Stress Test</source>
     </message>
     <message>
-      <source>CAS Write Latency</source>
-      <translation/>
+        <source>CAS Write Latency</source>
     </message>
     <message>
-      <source>PROCDataDriveStrength_PullUp</source>
-      <translation/>
+        <source>PROCDataDriveStrength_PullUp</source>
     </message>
     <message>
-      <source>Residency (%)</source>
-      <translation/>
+        <source>Residency (%)</source>
     </message>
     <message>
-      <source>Active CCD Mode</source>
-      <translation/>
+        <source>Active CCD Mode</source>
     </message>
     <message>
-      <source>Restart with New 'Max Offset' Value</source>
-      <translation/>
+        <source>Restart with New &apos;Max Offset&apos; Value</source>
     </message>
     <message>
-      <source>Configures the TX timing between memory controller and PHY</source>
-      <translation/>
+        <source>Configures the TX timing between memory controller and PHY</source>
     </message>
     <message>
-      <source>When turned ON, the PBO parameters will be persistent even after system restart</source>
-      <translation/>
+        <source>When turned ON, the PBO parameters will be persistent even after system restart</source>
     </message>
     <message>
-      <source>U Clock Mode</source>
-      <translation/>
+        <source>U Clock Mode</source>
     </message>
     <message>
-      <source>If set to 0, offsets are used as is; for higher values, offsets are adjusted by this amount before being applied</source>
-      <translation/>
+        <source>If set to 0, offsets are used as is; for higher values, offsets are adjusted by this amount before being applied</source>
     </message>
     <message>
-      <source>DRAMs On-die Termination impedance for RTT_NOM_RD</source>
-      <translation/>
+        <source>DRAMs On-die Termination impedance for RTT_NOM_RD</source>
     </message>
     <message>
-      <source>DRAMs On-die Termination impedance for RTT_NOM_WR</source>
-      <translation/>
+        <source>DRAMs On-die Termination impedance for RTT_NOM_WR</source>
     </message>
     <message>
-      <source>Nitro TX Data</source>
-      <translation/>
+        <source>Nitro TX Data</source>
     </message>
     <message>
-      <source>Driver Not Running!</source>
-      <translation/>
+        <source>Driver Not Running!</source>
     </message>
     <message>
-      <source>Sustained Current Limit GPU</source>
-      <translation/>
+        <source>Sustained Current Limit GPU</source>
     </message>
     <message>
-      <source>Sustained Current Limit CPU</source>
-      <translation/>
+        <source>Sustained Current Limit CPU</source>
     </message>
     <message>
-      <source>Sustained Current Limit SOC</source>
-      <translation/>
+        <source>Sustained Current Limit SOC</source>
     </message>
     <message>
-      <source>Error while creating </source>
-      <translation/>
+        <source>Error while creating </source>
     </message>
     <message>
-      <source>Advanced Mode</source>
-      <translation/>
+        <source>Advanced Mode</source>
     </message>
     <message>
-      <source>Activate OTF</source>
-      <translation/>
+        <source>Activate OTF</source>
     </message>
     <message>
-      <source>Driver Not installed!</source>
-      <translation/>
+        <source>Driver Not installed!</source>
     </message>
     <message>
-      <source>Refresh Recovery Delay Time(tRFC1)</source>
-      <translation/>
+        <source>Refresh Recovery Delay Time(tRFC1)</source>
     </message>
     <message>
-      <source>Refresh Recovery Delay Time(tRFC4)</source>
-      <translation/>
+        <source>Refresh Recovery Delay Time(tRFC4)</source>
     </message>
     <message>
-      <source>Refresh Recovery Delay Time(tRFC2)</source>
-      <translation/>
+        <source>Refresh Recovery Delay Time(tRFC2)</source>
     </message>
     <message>
-      <source>' was unsuccessful</source>
-      <translation/>
+        <source>&apos; was unsuccessful</source>
     </message>
     <message>
-      <source>Sustained Current Limit CPU 0</source>
-      <translation/>
+        <source>Sustained Current Limit CPU 0</source>
     </message>
     <message>
-      <source>Sustained Current Limit CPU 1</source>
-      <translation/>
+        <source>Sustained Current Limit CPU 1</source>
     </message>
     <message>
-      <source>Max Voltage</source>
-      <translation/>
+        <source>Max Voltage</source>
     </message>
     <message>
-      <source>SOC Voltage</source>
-      <translation/>
+        <source>SOC Voltage</source>
     </message>
     <message>
-      <source>Ryzen Master detects some cores are disabled. Core performance indicators will not be available until it is launched in stock core configuration.</source>
-      <translation/>
+        <source>Ryzen Master detects some cores are disabled. Core performance indicators will not be available until it is launched in stock core configuration.</source>
     </message>
     <message>
-      <source>System stress test in progress..</source>
-      <translation/>
+        <source>System stress test in progress..</source>
     </message>
     <message>
-      <source>Partial cores/CCDs can not be enabled/disabled when LCM is ON. Turn off LCM to enable/disable cores/CCDs</source>
-      <translation/>
+        <source>Partial cores/CCDs can not be enabled/disabled when LCM is ON. Turn off LCM to enable/disable cores/CCDs</source>
     </message>
     <message>
-      <source>Switch to combination %1 of Active Mode CCD %2</source>
-      <translation/>
+        <source>Switch to combination %1 of Active Mode CCD %2</source>
     </message>
     <message>
-      <source>Previous curve optimization was ended prematurely. Some values have already been optimized. You can either restart the process from the beginning, or continue where it left off.
+        <source>Previous curve optimization was ended prematurely. Some values have already been optimized. You can either restart the process from the beginning, or continue where it left off.
 Curve Optimizer is not supported with current system values, proceeding with this will lead to reset of few parameters. Do you want to proceed?</source>
-      <translation/>
     </message>
     <message>
-      <source>System Stress test for 'CPU - </source>
-      <translation/>
+        <source>System Stress test for &apos;CPU - </source>
     </message>
     <message>
-      <source>Average Core Voltage 0</source>
-      <translation/>
+        <source>Average Core Voltage 0</source>
     </message>
     <message>
-      <source>Average Core Voltage 1</source>
-      <translation/>
+        <source>Average Core Voltage 1</source>
     </message>
     <message>
-      <source>Curve Optimizer is not enabled for Manual Tuning</source>
-      <translation/>
+        <source>Curve Optimizer is not enabled for Manual Tuning</source>
     </message>
     <message>
-      <source>Voltage</source>
-      <translation/>
+        <source>Voltage</source>
     </message>
     <message>
-      <source>Curve optimizer values already exist. If you proceed with optimization, these values will be overwritten. Curve Optimizer is not supported with current system values, proceeding with this will lead to reset of few parameters. Are you sure you want to continue?</source>
-      <translation/>
+        <source>Curve optimizer values already exist. If you proceed with optimization, these values will be overwritten. Curve Optimizer is not supported with current system values, proceeding with this will lead to reset of few parameters. Are you sure you want to continue?</source>
     </message>
     <message>
-      <source>Automatic optimization is disabled due to unexpected error during initialization</source>
-      <translation/>
+        <source>Automatic optimization is disabled due to unexpected error during initialization</source>
     </message>
     <message>
-      <source>Adjust DIMM DQ Power Supply</source>
-      <translation/>
+        <source>Adjust DIMM DQ Power Supply</source>
     </message>
     <message>
-      <source>Discard Confirmation Popup</source>
-      <translation/>
+        <source>Discard Confirmation Popup</source>
     </message>
     <message>
-      <source>Cancelled further apply process</source>
-      <translation/>
+        <source>Cancelled further apply process</source>
     </message>
     <message>
-      <source>Select the ODT impedance for ACHAN DQS IOs</source>
-      <translation/>
+        <source>Select the ODT impedance for ACHAN DQS IOs</source>
     </message>
     <message>
-      <source>Virtualization-Based Security (VBS)!</source>
-      <translation/>
+        <source>Virtualization-Based Security (VBS)!</source>
     </message>
     <message>
-      <source>RAM stress test in progress..</source>
-      <translation/>
+        <source>RAM stress test in progress..</source>
     </message>
     <message>
-      <source>Stress Test Duration</source>
-      <translation/>
+        <source>Stress Test Duration</source>
     </message>
     <message>
-      <source>CPU stress test in progress..</source>
-      <translation/>
+        <source>CPU stress test in progress..</source>
     </message>
     <message>
-      <source>Peak Core Voltage 1 (in volts)</source>
-      <translation/>
+        <source>Peak Core Voltage 1 (in volts)</source>
     </message>
     <message>
-      <source>Peak Core Voltage 0 (in volts)</source>
-      <translation/>
+        <source>Peak Core Voltage 0 (in volts)</source>
     </message>
     <message>
-      <source>Ryzen Master is only supported from AMD Zen2 processor.</source>
-      <translation/>
+        <source>Ryzen Master is only supported from AMD Zen2 processor.</source>
     </message>
     <message>
-      <source>Write PBO to BIOS</source>
-      <translation/>
+        <source>Write PBO to BIOS</source>
     </message>
     <message>
-      <source>Multiple Instance Access Denied!</source>
-      <translation/>
+        <source>Multiple Instance Access Denied!</source>
     </message>
     <message>
-      <source>Manual Expo Mode : Load EXPO</source>
-      <translation/>
+        <source>Manual Expo Mode : Load EXPO</source>
     </message>
     <message>
-      <source>Cores Disabling is not available when LCM is ON</source>
-      <translation/>
+        <source>Cores Disabling is not available when LCM is ON</source>
     </message>
     <message>
-      <source>Telemetry values might not be accurate if motherboard manufacturers/endusers override/offset the power rail via PM bus</source>
-      <translation/>
+        <source>Telemetry values might not be accurate if motherboard manufacturers/endusers override/offset the power rail via PM bus</source>
     </message>
     <message>
-      <source>All Cores</source>
-      <translation/>
+        <source>All Cores</source>
     </message>
     <message>
-      <source>Current version installed</source>
-      <translation/>
+        <source>Current version installed</source>
     </message>
     <message>
-      <source>Boost Override CPU</source>
-      <translation/>
+        <source>Boost Override CPU</source>
     </message>
     <message>
-      <source>Boost Override GPU</source>
-      <translation/>
+        <source>Boost Override GPU</source>
     </message>
     <message>
-      <source>Memory Units</source>
-      <translation/>
+        <source>Memory Units</source>
     </message>
     <message>
-      <source>Cache DRAM</source>
-      <translation/>
+        <source>Cache DRAM</source>
     </message>
     <message>
-      <source>Memory Clock</source>
-      <translation/>
+        <source>Memory Clock</source>
     </message>
     <message>
-      <source>CPU On-Die Termination</source>
-      <translation/>
+        <source>CPU On-Die Termination</source>
     </message>
     <message>
-      <source>all your </source>
-      <translation/>
+        <source>all your </source>
     </message>
     <message>
-      <source>Configures the RX timing between memory controller and PHY</source>
-      <translation/>
+        <source>Configures the RX timing between memory controller and PHY</source>
     </message>
     <message>
-      <source>PBO Advanced</source>
-      <translation/>
+        <source>PBO Advanced</source>
     </message>
     <message>
-      <source>We identified that the processor has been swapped. Hence, the configuration files will no longer be compatible fully or partially.</source>
-      <translation/>
+        <source>We identified that the processor has been swapped. Hence, the configuration files will no longer be compatible fully or partially.</source>
     </message>
     <message>
-      <source>TwrwrScL</source>
-      <translation/>
+        <source>TwrwrScL</source>
     </message>
     <message>
-      <source>Incompatible Profiles</source>
-      <translation/>
+        <source>Incompatible Profiles</source>
     </message>
     <message>
-      <source>Maximum CPU Voltage 0 (in volts)</source>
-      <translation/>
+        <source>Maximum CPU Voltage 0 (in volts)</source>
     </message>
     <message>
-      <source>Ryzen Master requires AMD processor.</source>
-      <translation/>
+        <source>Ryzen Master requires AMD processor.</source>
     </message>
     <message>
-      <source>Maximum CPU Voltage 1 (in volts)</source>
-      <translation/>
+        <source>Maximum CPU Voltage 1 (in volts)</source>
     </message>
     <message>
-      <source>DDR2 FB-DIMM</source>
-      <translation/>
+        <source>DDR2 FB-DIMM</source>
     </message>
     <message>
-      <source>Unsupported Processor!</source>
-      <translation/>
+        <source>Unsupported Processor!</source>
     </message>
     <message>
-      <source>Add/Cmd Setup Timing Settings</source>
-      <translation/>
+        <source>Add/Cmd Setup Timing Settings</source>
     </message>
     <message>
-      <source>EXPO Value : </source>
-      <translation/>
+        <source>EXPO Value : </source>
     </message>
     <message>
-      <source>Failed to discard Workspace.</source>
-      <translation/>
+        <source>Failed to discard Workspace.</source>
     </message>
     <message>
-      <source>Error while renaming/editing description of </source>
-      <translation/>
+        <source>Error while renaming/editing description of </source>
     </message>
     <message>
-      <source>Failed to load Workspace.</source>
-      <translation/>
+        <source>Failed to load Workspace.</source>
     </message>
     <message>
-      <source>With Curve Optimizer turned ON, setting Curve Offset to '0' is not allowed, as it functions the same as if Curve Optimizer was turned OFF. Please set a non-zero value for Curve Offset.</source>
-      <translation/>
+        <source>With Curve Optimizer turned ON, setting Curve Offset to &apos;0&apos; is not allowed, as it functions the same as if Curve Optimizer was turned OFF. Please set a non-zero value for Curve Offset.</source>
     </message>
     <message>
-      <source>Show Advertisement Banner</source>
-      <translation/>
+        <source>Show Advertisement Banner</source>
     </message>
     <message>
-      <source>Update Interval</source>
-      <translation/>
+        <source>Update Interval</source>
     </message>
     <message>
-      <source>Specifies the Processor DQ drive strengths Pull Down P0</source>
-      <translation/>
+        <source>Specifies the Processor DQ drive strengths Pull Down P0</source>
     </message>
     <message>
-      <source>Specifies the Dram DQ drive strengths Pull Down P0</source>
-      <translation/>
+        <source>Specifies the Dram DQ drive strengths Pull Down P0</source>
     </message>
     <message>
-      <source>Basic Mode</source>
-      <translation/>
+        <source>Basic Mode</source>
     </message>
     <message>
-      <source>Consider setting Core Frequency and Peak Core(s) Voltage before engaging Manual mode</source>
-      <translation/>
+        <source>Consider setting Core Frequency and Peak Core(s) Voltage before engaging Manual mode</source>
     </message>
     <message>
-      <source>Die Mode</source>
-      <translation/>
+        <source>Die Mode</source>
     </message>
     <message>
-      <source>Channel Mode</source>
-      <translation/>
+        <source>Channel Mode</source>
     </message>
     <message>
-      <source>Curve optimizer values already exist. If you proceed with optimization, these values will be overwritten. Are you sure you want to continue?</source>
-      <translation/>
+        <source>Curve optimizer values already exist. If you proceed with optimization, these values will be overwritten. Are you sure you want to continue?</source>
     </message>
     <message>
-      <source>Missing required OS!</source>
-      <translation/>
+        <source>Missing required OS!</source>
     </message>
     <message>
-      <source>Use the following control to tune all your hardware at once.</source>
-      <translation/>
+        <source>Use the following control to tune all your hardware at once.</source>
     </message>
     <message>
-      <source>PROCDataDriveStrength_PullDown</source>
-      <translation/>
+        <source>PROCDataDriveStrength_PullDown</source>
     </message>
     <message>
-      <source>NOTE: Setting not same values for PMIC VDD and VDDQ (non-coupled mode) may cause memory stability issues. Recommended for advanced users only.</source>
-      <translation/>
+        <source>NOTE: Setting not same values for PMIC VDD and VDDQ (non-coupled mode) may cause memory stability issues. Recommended for advanced users only.</source>
     </message>
     <message>
-      <source>Failed to apply Tuning: </source>
-      <translation/>
+        <source>Failed to apply Tuning: </source>
     </message>
     <message>
-      <source>Default Application Preferences</source>
-      <translation/>
+        <source>Default Application Preferences</source>
     </message>
     <message>
-      <source>Peak Current Limit CPU 0</source>
-      <translation/>
+        <source>Peak Current Limit CPU 0</source>
     </message>
     <message>
-      <source>Peak Current Limit CPU 1</source>
-      <translation/>
+        <source>Peak Current Limit CPU 1</source>
     </message>
     <message>
-      <source>Read to Read timing same chip select same bank group</source>
-      <translation/>
+        <source>Read to Read timing same chip select same bank group</source>
     </message>
     <message>
-      <source>Difference Offset Value</source>
-      <translation/>
+        <source>Difference Offset Value</source>
     </message>
     <message>
-      <source>Coupled Mode</source>
-      <translation/>
+        <source>Coupled Mode</source>
     </message>
     <message>
-      <source>VDDCR CPU Power</source>
-      <translation/>
+        <source>VDDCR CPU Power</source>
     </message>
     <message>
-      <source>Write to read timing</source>
-      <translation/>
+        <source>Write to read timing</source>
     </message>
     <message>
-      <source>All Cores Offset </source>
-      <translation/>
+        <source>All Cores Offset </source>
     </message>
     <message>
-      <source>Insufficient Memory!</source>
-      <translation/>
+        <source>Insufficient Memory!</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CCXCoresModel</name>
     <message>
-      <source>C</source>
-      <translation/>
+        <source>C</source>
     </message>
     <message>
-      <source>D</source>
-      <translation/>
+        <source>D</source>
     </message>
     <message>
-      <source>MHz</source>
-      <translation/>
+        <source>MHz</source>
     </message>
     <message>
-      <source>Core performance is unavailable because some cores are disabled.</source>
-      <translation/>
+        <source>Core performance is unavailable because some cores are disabled.</source>
     </message>
     <message>
-      <source>Second fastest core of </source>
-      <translation/>
+        <source>Second fastest core of </source>
     </message>
     <message>
-      <source>Windows Preferred Core (as per current core configuration)</source>
-      <translation/>
+        <source>Windows Preferred Core (as per current core configuration)</source>
     </message>
     <message>
-      <source>Dense Core</source>
-      <translation/>
+        <source>Dense Core</source>
     </message>
     <message>
-      <source>Classic Core</source>
-      <translation/>
+        <source>Classic Core</source>
     </message>
     <message>
-      <source>Fastest core of </source>
-      <translation/>
+        <source>Fastest core of </source>
     </message>
     <message>
-      <source>It will not be available until launched in stock core configuration</source>
-      <translation/>
+        <source>It will not be available until launched in stock core configuration</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CPUTuningPage</name>
     <message>
-      <source>C</source>
-      <translation/>
+        <source>C</source>
     </message>
     <message>
-      <source>OC</source>
-      <translation/>
+        <source>OC</source>
     </message>
     <message>
-      <source>ON</source>
-      <translation/>
+        <source>ON</source>
     </message>
     <message>
-      <source>OS</source>
-      <translation/>
+        <source>OS</source>
     </message>
     <message>
-      <source>CCD</source>
-      <translation/>
+        <source>CCD</source>
     </message>
     <message>
-      <source>CCX</source>
-      <translation/>
+        <source>CCX</source>
     </message>
     <message>
-      <source>CPU</source>
-      <translation/>
+        <source>CPU</source>
     </message>
     <message>
-      <source>LN2</source>
-      <translation/>
+        <source>LN2</source>
     </message>
     <message>
-      <source>MHz</source>
-      <translation/>
+        <source>MHz</source>
     </message>
     <message>
-      <source>Max</source>
-      <translation/>
+        <source>Max</source>
     </message>
     <message>
-      <source>OFF</source>
-      <translation/>
+        <source>OFF</source>
     </message>
     <message>
-      <source>BIOS</source>
-      <translation/>
+        <source>BIOS</source>
     </message>
     <message>
-      <source>CCD </source>
-      <translation/>
+        <source>CCD </source>
     </message>
     <message>
-      <source>Core</source>
-      <translation/>
+        <source>Core</source>
     </message>
     <message>
-      <source>Mode</source>
-      <translation/>
+        <source>Mode</source>
     </message>
     <message>
-      <source>Hide </source>
-      <translation/>
+        <source>Hide </source>
     </message>
     <message>
-      <source>Show </source>
-      <translation/>
+        <source>Show </source>
     </message>
     <message>
-      <source>Active cores only</source>
-      <translation/>
+        <source>Active cores only</source>
     </message>
     <message>
-      <source>Integrated Graphics</source>
-      <translation/>
+        <source>Integrated Graphics</source>
     </message>
     <message>
-      <source>Control Mode</source>
-      <translation/>
+        <source>Control Mode</source>
     </message>
     <message>
-      <source>Reset CPU Profile</source>
-      <translation/>
+        <source>Reset CPU Profile</source>
     </message>
     <message>
-      <source>LN2 Limit: </source>
-      <translation/>
+        <source>LN2 Limit: </source>
     </message>
     <message>
-      <source>Fastest cores only</source>
-      <translation/>
+        <source>Fastest cores only</source>
     </message>
     <message>
-      <source>More Options</source>
-      <translation/>
+        <source>Offset Value</source>
     </message>
     <message>
-      <source>Curve Optimizer</source>
-      <translation/>
+        <source>Curve Optimizer is not available under Manual tuning. If you switch to this tuning mode, your changes to Curve Optimizer will be discarded. Are you sure you want to continue?</source>
     </message>
     <message>
-      <source>OS Ranking is not applicable when Fastest Cores is selected in Cores View</source>
-      <translation/>
+        <source>More Options</source>
     </message>
     <message>
-      <source>Method</source>
-      <translation/>
+        <source>Curve Optimizer</source>
     </message>
     <message>
-      <source>Tuning</source>
-      <translation/>
+        <source>OS Ranking is not applicable when Fastest Cores is selected in Cores View</source>
     </message>
     <message>
-      <source>Fastest cores as preferred by the Operating System</source>
-      <translation/>
+        <source>Method</source>
     </message>
     <message>
-      <source>OC Ranking is unavailable because some cores are disabled.</source>
-      <translation/>
+        <source>Tuning</source>
     </message>
     <message>
-      <source>Show CCDs</source>
-      <translation/>
+        <source>Fastest cores as preferred by the Operating System</source>
     </message>
     <message>
-      <source>BIOS Limit: </source>
-      <translation/>
+        <source>OC Ranking is unavailable because some cores are disabled.</source>
     </message>
     <message>
-      <source>Additional Controls</source>
-      <translation/>
+        <source>Show CCDs</source>
     </message>
     <message>
-      <source>Core Sync</source>
-      <translation/>
+        <source>BIOS Limit: </source>
     </message>
     <message>
-      <source>Fastest cores with best overclocking potential</source>
-      <translation/>
+        <source>Additional Controls</source>
     </message>
     <message>
-      <source>Reset CPU Hardware</source>
-      <translation/>
+        <source>Core Sync</source>
     </message>
     <message>
-      <source>Stress Test</source>
-      <translation/>
+        <source>Fastest cores with best overclocking potential</source>
     </message>
     <message>
-      <source>Scrollable View</source>
-      <translation/>
+        <source>Reset CPU Hardware</source>
     </message>
     <message>
-      <source>Turn OFF all core speed sync</source>
-      <translation/>
+        <source>Stress Test</source>
     </message>
     <message>
-      <source>Turn ON all core speed sync</source>
-      <translation/>
+        <source>Scrollable View</source>
     </message>
     <message>
-      <source>Cores View</source>
-      <translation/>
+        <source>Turn OFF all core speed sync</source>
     </message>
     <message>
-      <source>It will not be available until launched in stock core configuration</source>
-      <translation/>
+        <source>Turn ON all core speed sync</source>
     </message>
     <message>
-      <source>Current State</source>
-      <translation/>
+        <source>Cores View</source>
     </message>
     <message>
-      <source>All Cores</source>
-      <translation/>
+        <source>It will not be available until launched in stock core configuration</source>
     </message>
-  </context>
-  <context>
+    <message>
+        <source>Current State</source>
+    </message>
+    <message>
+        <source>All Cores</source>
+    </message>
+</context>
+<context>
     <name>CoresMetricsControl</name>
     <message>
-      <source>C</source>
-      <translation/>
+        <source>C</source>
     </message>
     <message>
-      <source>MHz</source>
-      <translation/>
+        <source>MHz</source>
     </message>
     <message>
-      <source>Core</source>
-      <translation/>
+        <source>Core</source>
     </message>
     <message>
-      <source>Sleep</source>
-      <translation/>
+        <source>Sleep</source>
     </message>
     <message>
-      <source>Disabled</source>
-      <translation/>
+        <source>Disabled</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CustomEXPOProfileSwitch</name>
     <message>
-      <source>M</source>
-      <translation/>
+        <source>M</source>
     </message>
     <message>
-      <source>NA</source>
-      <translation/>
+        <source>NA</source>
     </message>
     <message>
-      <source>Mode</source>
-      <translation/>
+        <source>Mode</source>
     </message>
     <message>
-      <source>:Modified</source>
-      <translation/>
+        <source>:Modified</source>
     </message>
     <message>
-      <source>Revert To Previous loaded values</source>
-      <translation/>
+        <source>Revert To Previous loaded values</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CustomSpinBox</name>
     <message>
-      <source>M</source>
-      <translation/>
+        <source>M</source>
     </message>
     <message>
-      <source>BIOS</source>
-      <translation/>
+        <source>BIOS</source>
     </message>
     <message>
-      <source>Cannot set value beyond </source>
-      <translation/>
+        <source>Cannot set value beyond </source>
     </message>
     <message>
-      <source> limit:</source>
-      <translation/>
+        <source> limit:</source>
     </message>
     <message>
-      <source>Cannot set value less than BIOS limit:</source>
-      <translation/>
+        <source>Cannot set value less than BIOS limit:</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SettingSlider</name>
     <message>
-      <source>M</source>
-      <translation/>
+        <source>M</source>
     </message>
     <message>
-      <source>Cannot set value beyond BIOS limit:</source>
-      <translation/>
+        <source>Cannot set value beyond BIOS limit:</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>BaseItem</name>
     <message>
-      <source>X</source>
-      <translation/>
+        <source>X</source>
     </message>
     <message>
-      <source>OK</source>
-      <translation/>
+        <source>OK</source>
     </message>
     <message>
-      <source>Ok</source>
-      <translation/>
+        <source>Ok</source>
     </message>
     <message>
-      <source>or</source>
-      <translation/>
+        <source>or</source>
     </message>
     <message>
-      <source>CPU</source>
-      <translation/>
+        <source>CPU</source>
     </message>
     <message>
-      <source>New</source>
-      <translation/>
+        <source>New</source>
     </message>
     <message>
-      <source>RAM</source>
-      <translation/>
+        <source>RAM</source>
     </message>
     <message>
-      <source>BIOS</source>
-      <translation/>
+        <source>BIOS</source>
     </message>
     <message>
-      <source>Edit</source>
-      <translation/>
+        <source>Edit</source>
     </message>
     <message>
-      <source>Info</source>
-      <translation/>
+        <source>Info</source>
     </message>
     <message>
-      <source>Save</source>
-      <translation/>
+        <source>Save</source>
     </message>
     <message>
-      <source>Type</source>
-      <translation/>
+        <source>Type</source>
     </message>
     <message>
-      <source>About</source>
-      <translation/>
+        <source>About</source>
     </message>
     <message>
-      <source>Apply</source>
-      <translation/>
+        <source>Apply</source>
     </message>
     <message>
-      <source>Cache</source>
-      <translation/>
+        <source>Cache</source>
     </message>
     <message>
-      <source>Cores</source>
-      <translation/>
+        <source>Cores</source>
     </message>
     <message>
-      <source>YouTube</source>
-      <translation/>
+        <source>YouTube</source>
     </message>
     <message>
-      <source>Physical Size</source>
-      <translation/>
+        <source>Physical Size</source>
     </message>
     <message>
-      <source>Apply Changes</source>
-      <translation/>
+        <source>Apply Changes</source>
     </message>
     <message>
-      <source>Add New Profile</source>
-      <translation/>
+        <source>Add New Profile</source>
     </message>
     <message>
-      <source>Performing CPU Curve Optimization..</source>
-      <translation/>
+        <source>Performing CPU Curve Optimization..</source>
     </message>
     <message>
-      <source>More Options</source>
-      <translation/>
+        <source>More Options</source>
     </message>
     <message>
-      <source>Save As A Profile</source>
-      <translation/>
+        <source>Save As A Profile</source>
     </message>
     <message>
-      <source>Import Profile</source>
-      <translation/>
+        <source>Import Profile</source>
     </message>
     <message>
-      <source>PROFILE OPERATION</source>
-      <translation/>
+        <source>PROFILE OPERATION</source>
     </message>
     <message>
-      <source>L2 Cache</source>
-      <translation/>
+        <source>L2 Cache</source>
     </message>
     <message>
-      <source>BIOS Date</source>
-      <translation/>
+        <source>BIOS Date</source>
     </message>
     <message>
-      <source>OS Name</source>
-      <translation/>
+        <source>OS Name</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Delete</source>
-      <translation/>
+        <source>Delete</source>
     </message>
     <message>
-      <source>Export</source>
-      <translation/>
+        <source>Export</source>
     </message>
     <message>
-      <source>Import</source>
-      <translation/>
+        <source>Import</source>
     </message>
     <message>
-      <source>ADD PROFILE</source>
-      <translation/>
+        <source>ADD PROFILE</source>
     </message>
     <message>
-      <source>L3 Cache</source>
-      <translation/>
+        <source>L3 Cache</source>
     </message>
     <message>
-      <source>CPU Type</source>
-      <translation/>
+        <source>CPU Type</source>
     </message>
     <message>
-      <source>BIOS Vendor</source>
-      <translation/>
+        <source>BIOS Vendor</source>
     </message>
     <message>
-      <source>PBO Scalar</source>
-      <translation/>
+        <source>PBO Scalar</source>
     </message>
     <message>
-      <source>System</source>
-      <translation/>
+        <source>System</source>
     </message>
     <message>
-      <source>Software</source>
-      <translation/>
+        <source>Software</source>
     </message>
     <message>
-      <source>Apply &amp; Test</source>
-      <translation/>
+        <source>Apply &amp; Test</source>
     </message>
     <message>
-      <source>Apply &amp; Save</source>
-      <translation/>
+        <source>Apply &amp; Save</source>
     </message>
     <message>
-      <source>Show Info</source>
-      <translation/>
+        <source>Show Info</source>
     </message>
     <message>
-      <source>Duplicate</source>
-      <translation/>
+        <source>Duplicate</source>
     </message>
     <message>
-      <source>Product</source>
-      <translation/>
+        <source>Product</source>
     </message>
     <message>
-      <source>Facebook</source>
-      <translation/>
+        <source>Facebook</source>
     </message>
     <message>
-      <source>Copyright</source>
-      <translation/>
+        <source>Copyright</source>
     </message>
     <message>
-      <source>Package Type</source>
-      <translation/>
+        <source>Package Type</source>
     </message>
     <message>
-      <source>BIOS Version</source>
-      <translation/>
+        <source>BIOS Version</source>
     </message>
     <message>
-      <source>Chipset Name</source>
-      <translation/>
+        <source>Chipset Name</source>
     </message>
     <message>
-      <source>Exception</source>
-      <translation/>
+        <source>Exception</source>
     </message>
     <message>
-      <source>L1 Instruction Cache</source>
-      <translation/>
+        <source>L1 Instruction Cache</source>
     </message>
     <message>
-      <source>Instagram</source>
-      <translation/>
+        <source>Instagram</source>
     </message>
     <message>
-      <source>Details</source>
-      <translation/>
+        <source>Details</source>
     </message>
     <message>
-      <source>Discard</source>
-      <translation/>
+        <source>Discard</source>
     </message>
     <message>
-      <source>No Profiles found</source>
-      <translation/>
+        <source>No Profiles found</source>
     </message>
     <message>
-      <source>L1 Data Cache</source>
-      <translation/>
+        <source>L1 Data Cache</source>
     </message>
     <message>
-      <source>Error: </source>
-      <translation/>
+        <source>Error: </source>
     </message>
     <message>
-      <source>Settings</source>
-      <translation/>
+        <source>Settings</source>
     </message>
     <message>
-      <source>Version</source>
-      <translation/>
+        <source>Version</source>
     </message>
     <message>
-      <source>OS Version</source>
-      <translation/>
+        <source>OS Version</source>
     </message>
     <message>
-      <source>Operating System</source>
-      <translation/>
+        <source>Operating System</source>
     </message>
     <message>
-      <source>Warning</source>
-      <translation/>
+        <source>Warning</source>
     </message>
     <message>
-      <source>CPU Stress test in progress..</source>
-      <translation/>
+        <source>CPU Stress test in progress..</source>
     </message>
     <message>
-      <source>Apply Changes &amp; Restart</source>
-      <translation/>
+        <source>Apply Changes &amp; Restart</source>
     </message>
     <message>
-      <source>Architecture</source>
-      <translation/>
+        <source>Architecture</source>
     </message>
     <message>
-      <source>Product Name</source>
-      <translation/>
+        <source>Product Name</source>
     </message>
     <message>
-      <source>More Details</source>
-      <translation/>
+        <source>More Details</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CustomCOSwitchControl</name>
     <message>
-      <source>NA</source>
-      <translation/>
+        <source>NA</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CustomSwitchControl</name>
     <message>
-      <source>NA</source>
-      <translation/>
+        <source>NA</source>
     </message>
     <message>
-      <source>Mode</source>
-      <translation/>
+        <source>Mode</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CustomSwitchControlRight</name>
     <message>
-      <source>NA</source>
-      <translation/>
+        <source>NA</source>
     </message>
     <message>
-      <source>Mode</source>
-      <translation/>
+        <source>Mode</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>FailureDialog</name>
     <message>
-      <source>Ok</source>
-      <translation/>
+        <source>Ok</source>
     </message>
     <message>
-      <source>Error</source>
-      <translation/>
+        <source>Error</source>
     </message>
     <message>
-      <source>Note: Cancelling this will cancel further apply process.</source>
-      <translation/>
+        <source>Note: Cancelling this will cancel further apply process.</source>
     </message>
     <message>
-      <source>The following tuning settings could not be applied:</source>
-      <translation/>
+        <source>The following tuning settings could not be applied:</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Restart Anyway</source>
-      <translation/>
+        <source>Restart Anyway</source>
     </message>
     <message>
-      <source>The restart was interrupted.
+        <source>The restart was interrupted.
 The following tuning settings could not be applied:</source>
-      <translation/>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SettingsPopup</name>
     <message>
-      <source>Ok</source>
-      <translation/>
+        <source>Ok</source>
     </message>
     <message>
-      <source>Reset</source>
-      <translation/>
+        <source>Reset</source>
     </message>
     <message>
-      <source>Some settings will be lost</source>
-      <translation/>
+        <source>Some settings will be lost</source>
     </message>
     <message>
-      <source>System restart is required</source>
-      <translation/>
+        <source>System restart is required</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Update</source>
-      <translation/>
+        <source>Update</source>
     </message>
     <message>
-      <source>Are you sure you want to unsubscribe the AMD User Experience Program?</source>
-      <translation/>
+        <source>Are you sure you want to unsubscribe the AMD User Experience Program?</source>
     </message>
     <message>
-      <source>Are you sure you want to reset all user preferences back to their default values? This will not affect your profiles or change any current hardware configuration.</source>
-      <translation/>
+        <source>Are you sure you want to reset all user preferences back to their default values? This will not affect your profiles or change any current hardware configuration.</source>
     </message>
     <message>
-      <source>Factory Reset</source>
-      <translation/>
+        <source>Factory Reset</source>
     </message>
     <message>
-      <source>Proceed</source>
-      <translation/>
+        <source>Proceed</source>
     </message>
     <message>
-      <source>The update will be downloaded and installed in the background. Please make sure you have saved your changes before proceeding.</source>
-      <translation/>
+        <source>The update will be downloaded and installed in the background. Please make sure you have saved your changes before proceeding.</source>
     </message>
     <message>
-      <source>AMD User Experience Program</source>
-      <translation/>
+        <source>AMD User Experience Program</source>
     </message>
     <message>
-      <source>Factory reset will restore AMD Ryzen Master and your system’s hardware back to its default state. All application settings, hardware settings and profiles will be lost. This action cannot be undone.
+        <source>Factory reset will restore AMD Ryzen Master and your system’s hardware back to its default state. All application settings, hardware settings and profiles will be lost. This action cannot be undone.
 
 Are you sure you want to perform a factory reset?</source>
-      <translation/>
     </message>
     <message>
-      <source>More action may be necessary</source>
-      <translation/>
+        <source>More action may be necessary</source>
     </message>
     <message>
-      <source>Are you sure you want to restore all settings back to their default values? This will not affect your profiles or change any current hardware configuration.</source>
-      <translation/>
+        <source>Are you sure you want to restore all settings back to their default values? This will not affect your profiles or change any current hardware configuration.</source>
     </message>
     <message>
-      <source>Warning</source>
-      <translation/>
+        <source>Warning</source>
     </message>
     <message>
-      <source>This application will be closed</source>
-      <translation/>
+        <source>This application will be closed</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CustomExpanderButton</name>
     <message>
-      <source>All</source>
-      <translation/>
+        <source>All</source>
     </message>
     <message>
-      <source>Show Parameters</source>
-      <translation/>
+        <source>Show Parameters</source>
     </message>
     <message>
-      <source>More Options</source>
-      <translation/>
+        <source>More Options</source>
     </message>
     <message>
-      <source>Only EXPO</source>
-      <translation/>
+        <source>Only EXPO</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CurveOptimizerOptimizationControl</name>
     <message>
-      <source>ETA</source>
-      <translation/>
+        <source>ETA</source>
     </message>
     <message>
-      <source>Stop</source>
-      <translation/>
+        <source>Stop</source>
     </message>
     <message>
-      <source>Progress</source>
-      <translation/>
+        <source>Progress</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>StressTestControlButton</name>
     <message>
-      <source>ETA</source>
-      <translation/>
+        <source>ETA</source>
     </message>
     <message>
-      <source>Stop</source>
-      <translation/>
+        <source>Stop</source>
     </message>
     <message>
-      <source>Progress</source>
-      <translation/>
+        <source>Progress</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CoresTuningControl</name>
     <message>
-      <source>MHz</source>
-      <translation/>
+        <source>MHz</source>
     </message>
     <message>
-      <source>Speed</source>
-      <translation/>
+        <source>Speed</source>
     </message>
     <message>
-      <source>Disabled</source>
-      <translation/>
+        <source>Disabled</source>
     </message>
     <message>
-      <source>Turn on Sync</source>
-      <translation/>
+        <source>Turn on Sync</source>
     </message>
     <message>
-      <source>Enable</source>
-      <translation/>
+        <source>Enable</source>
     </message>
     <message>
-      <source>Offset</source>
-      <translation/>
+        <source>Offset</source>
     </message>
     <message>
-      <source>Turn off Sync</source>
-      <translation/>
+        <source>Turn off Sync</source>
     </message>
     <message>
-      <source>Disable</source>
-      <translation/>
+        <source>Disable</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>MemoryMetricsPage</name>
     <message>
-      <source>RAM</source>
-      <translation/>
+        <source>RAM</source>
     </message>
     <message>
-      <source>Close</source>
-      <translation/>
+        <source>Close</source>
     </message>
     <message>
-      <source>Stress Test</source>
-      <translation/>
+        <source>Stress Test</source>
     </message>
     <message>
-      <source>Hide Warning Message</source>
-      <translation/>
+        <source>Hide Warning Message</source>
     </message>
     <message>
-      <source>Show Warning Message</source>
-      <translation/>
+        <source>Show Warning Message</source>
     </message>
     <message>
-      <source>Current State</source>
-      <translation/>
+        <source>Current State</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>MemoryTuningPage</name>
     <message>
-      <source>RAM</source>
-      <translation/>
+        <source>RAM</source>
     </message>
     <message>
-      <source>Auto</source>
-      <translation/>
+        <source>Auto</source>
     </message>
     <message>
-      <source>Reset RAM Profile</source>
-      <translation/>
+        <source>Reset RAM Profile</source>
     </message>
     <message>
-      <source>LN2 Limit: </source>
-      <translation/>
+        <source>LN2 Limit: </source>
     </message>
     <message>
-      <source>More Options</source>
-      <translation/>
+        <source>More Options</source>
     </message>
     <message>
-      <source>Cannot set value beyond LN2 limit:</source>
-      <translation/>
+        <source>Cannot set value beyond LN2 limit:</source>
     </message>
     <message>
-      <source>Set All Auto</source>
-      <translation/>
+        <source>Set All Auto</source>
     </message>
     <message>
-      <source>Profile</source>
-      <translation/>
+        <source>Profile</source>
     </message>
     <message>
-      <source>Cannot set value beyond BIOS limit:</source>
-      <translation/>
+        <source>Cannot set value beyond BIOS limit:</source>
     </message>
     <message>
-      <source>Reset RAM Hardware</source>
-      <translation/>
+        <source>Reset RAM Hardware</source>
     </message>
     <message>
-      <source>Set All Custom</source>
-      <translation/>
+        <source>Set All Custom</source>
     </message>
     <message>
-      <source>Stress Test</source>
-      <translation/>
+        <source>Stress Test</source>
     </message>
     <message>
-      <source>Current State</source>
-      <translation/>
+        <source>Current State</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ConfirmationPopup</name>
     <message>
-      <source>SMT</source>
-      <translation/>
+        <source>SMT</source>
     </message>
     <message>
-      <source>is not available with Core Disable. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
-      <translation/>
+        <source>is not available with Core Disable. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
     </message>
     <message>
-      <source>Reset</source>
-      <translation/>
+        <source>Reset</source>
     </message>
     <message>
-      <source>Unsaved changes</source>
-      <translation/>
+        <source>Unsaved changes</source>
     </message>
     <message>
-      <source>Changing CPU Tuning Mode to Manual will require few additional settings to be done.
+        <source>Changing CPU Tuning Mode to Manual will require few additional settings to be done.
 
 You will be redirected to CPU Tuning</source>
-      <translation/>
     </message>
     <message>
-      <source>Curve Optimizer is not available under Manual tuning. If you switch to this tuning mode, your changes to Curve Optimizer will be discarded. Are you sure you want to continue?</source>
-      <translation/>
+        <source>Curve Optimizer</source>
     </message>
     <message>
-      <source>Curve Optimizer</source>
-      <translation/>
-    </message>
-    <message>
-      <source>Switching between tabs will discard the unsaved changes.
+        <source>Switching between tabs will discard the unsaved changes.
 
 Are you sure you want to continue?</source>
-      <translation/>
     </message>
     <message>
-      <source>Changing CPU Tuning Mode to Manual will require Curve Optimizer settings and few additional settings to be done.
+        <source>Changing CPU Tuning Mode to Manual will require Curve Optimizer settings and few additional settings to be done.
 
 You will be redirected to CPU Tuning</source>
-      <translation/>
     </message>
     <message>
-      <source>Switching from the current profile will discard the unsaved changes.
+        <source>Switching from the current profile will discard the unsaved changes.
 
 Are you sure you want to continue?</source>
-      <translation/>
     </message>
     <message>
-      <source>Tuning settings will be lost</source>
-      <translation/>
+        <source>Tuning settings will be lost</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Export</source>
-      <translation/>
+        <source>Export</source>
     </message>
     <message>
-      <source>is not available with CCD Disable. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
-      <translation/>
+        <source>is not available with CCD Disable. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
     </message>
     <message>
-      <source>Switch to Advanced Mode</source>
-      <translation/>
+        <source>Switch to Advanced Mode</source>
     </message>
     <message>
-      <source>Tuning Mode : Manual</source>
-      <translation/>
+        <source>Tuning Mode : Manual</source>
     </message>
     <message>
-      <source>Reset </source>
-      <translation/>
+        <source>Reset </source>
     </message>
     <message>
-      <source>is not available with Legacy Compatibility Mode. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
-      <translation/>
+        <source>is not available with Legacy Compatibility Mode. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
     </message>
     <message>
-      <source>Some changes will be discarded</source>
-      <translation/>
+        <source>Some changes will be discarded</source>
     </message>
     <message>
-      <source>Continue</source>
-      <translation/>
+        <source>Continue</source>
     </message>
     <message>
-      <source>Legacy Compatibility Mode</source>
-      <translation/>
+        <source>Legacy Compatibility Mode</source>
     </message>
     <message>
-      <source>Enable CPU Tuning</source>
-      <translation/>
+        <source>Enable CPU Tuning</source>
     </message>
     <message>
-      <source>Proceed</source>
-      <translation/>
+        <source>Proceed</source>
     </message>
     <message>
-      <source>Manual Mode</source>
-      <translation/>
+        <source>Manual Mode</source>
     </message>
     <message>
-      <source>is not available with Curve Optimizer. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
-      <translation/>
+        <source>is not available with Curve Optimizer. If you switch, your changes to these will be discarded. Are you sure you want to continue?</source>
     </message>
     <message>
-      <source>Switching views modifies the available tuning options and requires adjustments to some settings. However, changes won't be applied, so you can review them later.
+        <source>Switching views modifies the available tuning options and requires adjustments to some settings. However, changes won&apos;t be applied, so you can review them later.
 
 Are you sure you want to continue?</source>
-      <translation/>
     </message>
     <message>
-      <source>CPU Tuning can only be used in either AMD Overlocker or AMD Software. By enabling it here, you will also disable it within AMD Software. All CPU devices will be reset to their default state and current tuning settings will be lost. It is recommended that you save any work and close any applications before proceeding.</source>
-      <translation/>
+        <source>CPU Tuning can only be used in either AMD Overlocker or AMD Software. By enabling it here, you will also disable it within AMD Software. All CPU devices will be reset to their default state and current tuning settings will be lost. It is recommended that you save any work and close any applications before proceeding.</source>
     </message>
     <message>
-      <source>Switch to Basic Mode</source>
-      <translation/>
+        <source>Switch to Basic Mode</source>
     </message>
     <message>
-      <source>Discard &amp; Continue</source>
-      <translation/>
+        <source>Discard &amp; Continue</source>
     </message>
     <message>
-      <source>Exporting a profile with unsaved changes will not reflect unsaved values in exported profile. 
+        <source>Exporting a profile with unsaved changes will not reflect unsaved values in exported profile. 
 
 Are you sure you want to continue?</source>
-      <translation/>
     </message>
     <message>
-      <source>Warning</source>
-      <translation/>
+        <source>Warning</source>
     </message>
     <message>
-      <source>Switching Profiles will discard the unsaved changes.
+        <source>Switching Profiles will discard the unsaved changes.
 
 Are you sure you want to continue?</source>
-      <translation/>
     </message>
     <message>
-      <source>Core Disable</source>
-      <translation/>
+        <source>Core Disable</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CpuCurveOptimizerAutomaticPopUp</name>
     <message>
-      <source>sec</source>
-      <translation/>
+        <source>sec</source>
     </message>
     <message>
-      <source>Max Offset Value</source>
-      <translation/>
+        <source>Max Offset Value</source>
     </message>
     <message>
-      <source>Stress Test Duration</source>
-      <translation/>
+        <source>Stress Test Duration</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>StressTestPopup</name>
     <message>
-      <source>sec</source>
-      <translation/>
+        <source>sec</source>
     </message>
     <message>
-      <source>Start</source>
-      <translation/>
+        <source>Start</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Hardware</source>
-      <translation/>
+        <source>Hardware</source>
     </message>
     <message>
-      <source>Warning: This process may cause your system to crash or reboot, and your display to flicker.</source>
-      <translation/>
+        <source>Warning: This process may cause your system to crash or reboot, and your display to flicker.</source>
     </message>
     <message>
-      <source>Stress Test</source>
-      <translation/>
+        <source>Stress Test</source>
     </message>
     <message>
-      <source>Select the hardware and the length of time the stress test should run for.</source>
-      <translation/>
+        <source>Select the hardware and the length of time the stress test should run for.</source>
     </message>
     <message>
-      <source>Stress Test Duration</source>
-      <translation/>
+        <source>Stress Test Duration</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CustomValueSpinBox</name>
     <message>
-      <source>BIOS</source>
-      <translation/>
+        <source>BIOS</source>
     </message>
     <message>
-      <source>Cannot set value beyond </source>
-      <translation/>
+        <source>Cannot set value beyond </source>
     </message>
     <message>
-      <source> limit:</source>
-      <translation/>
+        <source> limit:</source>
     </message>
     <message>
-      <source>Cannot set value less than BIOS limit:</source>
-      <translation/>
+        <source>Cannot set value less than BIOS limit:</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>PageHandler</name>
     <message>
-      <source>Exit</source>
-      <translation/>
+        <source>Exit</source>
     </message>
     <message>
-      <source>Accept</source>
-      <translation/>
+        <source>Accept</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Continue</source>
-      <translation/>
+        <source>Continue</source>
     </message>
     <message>
-      <source>Proceed</source>
-      <translation/>
+        <source>Proceed</source>
     </message>
     <message>
-      <source>The last profile was applied only partially because your system was restarted. This might be because a system restart was required to apply some settings. If you choose to "Continue", the rest of the profile and its settings will be applied.</source>
-      <translation/>
+        <source>The last profile was applied only partially because your system was restarted. This might be because a system restart was required to apply some settings. If you choose to &quot;Continue&quot;, the rest of the profile and its settings will be applied.</source>
     </message>
     <message>
-      <source>Important: If you see this message multiple times, it’s likely that the profile caused your system to become unstable and as a result, it crashed. In that case, you can choose to "Cancel" applying the rest of the profile to avoid further instability.</source>
-      <translation/>
+        <source>Important: If you see this message multiple times, it’s likely that the profile caused your system to become unstable and as a result, it crashed. In that case, you can choose to &quot;Cancel&quot; applying the rest of the profile to avoid further instability.</source>
     </message>
     <message>
-      <source>Decline</source>
-      <translation/>
+        <source>Decline</source>
     </message>
     <message>
-      <source>AMD processors are intended to be operated only within their associated specifications and factory settings.  Operating your AMD processor outside of official AMD specifications or outside of factory settings, including but not limited to the conducting of overclocking (including use of this overclocking software, even if such software has been directly or indirectly provided by AMD or otherwise affiliated in any way with AMD), may damage your processor and/or lead to other problems, including but not limited to, damage to your system components (including your motherboard and components thereon (e.g. memory)), system instabilities (e.g. data loss and corrupted images), reduction in system performance, shortened processor, system component and/or system life and in extreme cases, total system failure. AMD does not provide support or service for issues or damages related to use of an AMD processor outside of official AMD specifications or outside of factory settings. You may also not receive support or service from your board or system manufacturer. Please make sure you have saved all important data before using this overclocking software.
+        <source>AMD processors are intended to be operated only within their associated specifications and factory settings.  Operating your AMD processor outside of official AMD specifications or outside of factory settings, including but not limited to the conducting of overclocking (including use of this overclocking software, even if such software has been directly or indirectly provided by AMD or otherwise affiliated in any way with AMD), may damage your processor and/or lead to other problems, including but not limited to, damage to your system components (including your motherboard and components thereon (e.g. memory)), system instabilities (e.g. data loss and corrupted images), reduction in system performance, shortened processor, system component and/or system life and in extreme cases, total system failure. AMD does not provide support or service for issues or damages related to use of an AMD processor outside of official AMD specifications or outside of factory settings. You may also not receive support or service from your board or system manufacturer. Please make sure you have saved all important data before using this overclocking software.
 
-DAMAGES CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF OFFICIAL AMD SPECIFICATIONS OR OUTSIDE OF FACTORY SETTINGS ARE NOT COVERED UNDER ANY AMD PRODUCT WARRANTY AND MAY NOT BE COVERED BY YOUR BOARD OR SYSTEM MANUFACTURER'S WARRANTY.</source>
-      <translation/>
+DAMAGES CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF OFFICIAL AMD SPECIFICATIONS OR OUTSIDE OF FACTORY SETTINGS ARE NOT COVERED UNDER ANY AMD PRODUCT WARRANTY AND MAY NOT BE COVERED BY YOUR BOARD OR SYSTEM MANUFACTURER&apos;S WARRANTY.</source>
     </message>
     <message>
-      <source>Error: </source>
-      <translation/>
+        <source>Error: </source>
     </message>
     <message>
-      <source>System restart was detected</source>
-      <translation/>
+        <source>System restart was detected</source>
     </message>
     <message>
-      <source>Warning</source>
-      <translation/>
+        <source>Warning</source>
     </message>
     <message>
-      <source>Partial Profile</source>
-      <translation/>
+        <source>Partial Profile</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>WindowChrome</name>
     <message>
-      <source>Help</source>
-      <translation/>
+        <source>Help</source>
     </message>
     <message>
-      <source>Close</source>
-      <translation/>
+        <source>Close</source>
     </message>
     <message>
-      <source>Minimize</source>
-      <translation/>
+        <source>Minimize</source>
     </message>
     <message>
-      <source>Latest installer is available</source>
-      <translation/>
+        <source>Latest installer is available</source>
     </message>
     <message>
-      <source>AMD Software</source>
-      <translation/>
+        <source>AMD Software</source>
     </message>
     <message>
-      <source>Tuning</source>
-      <translation/>
+        <source>Tuning</source>
     </message>
     <message>
-      <source>AMD Bug Report Tool</source>
-      <translation/>
+        <source>AMD Bug Report Tool</source>
     </message>
     <message>
-      <source>Maximize</source>
-      <translation/>
+        <source>Maximize</source>
     </message>
     <message>
-      <source>Dashboard</source>
-      <translation/>
+        <source>Dashboard</source>
     </message>
     <message>
-      <source>Launch...</source>
-      <translation/>
+        <source>Launch...</source>
     </message>
     <message>
-      <source>Settings</source>
-      <translation/>
+        <source>Settings</source>
     </message>
     <message>
-      <source>Restore Down</source>
-      <translation/>
+        <source>Restore Down</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>Style</name>
     <message>
-      <source>Home</source>
-      <translation/>
+        <source>Home</source>
     </message>
     <message>
-      <source>Gaming</source>
-      <translation/>
+        <source>Gaming</source>
     </message>
     <message>
-      <source>Performance</source>
-      <translation/>
+        <source>Performance</source>
     </message>
     <message>
-      <source>Create &amp; Game</source>
-      <translation/>
+        <source>Create &amp; Game</source>
     </message>
     <message>
-      <source>Browser</source>
-      <translation/>
+        <source>Browser</source>
     </message>
     <message>
-      <source>Settings</source>
-      <translation/>
+        <source>Settings</source>
     </message>
     <message>
-      <source>Notifications</source>
-      <translation/>
+        <source>Notifications</source>
     </message>
     <message>
-      <source>Applications</source>
-      <translation/>
+        <source>Applications</source>
     </message>
     <message>
-      <source>Record &amp; Stream</source>
-      <translation/>
+        <source>Record &amp; Stream</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>OcModelHandler</name>
     <message>
-      <source>Mode</source>
-      <translation/>
+        <source>Mode</source>
     </message>
     <message>
-      <source>AMD Spec Parameter values are same as 'Default' Control Mode</source>
-      <translation/>
+        <source>AMD Spec Parameter values are same as &apos;Default&apos; Control Mode</source>
     </message>
     <message>
-      <source>To use custom AMD Spec values, switch to Advanced Mode.</source>
-      <translation/>
+        <source>To use custom AMD Spec values, switch to Advanced Mode.</source>
     </message>
     <message>
-      <source>The default values of Precision Boost Overdrive (PBO) Parameter values are same as Eco-Mode.</source>
-      <translation/>
+        <source>The default values of Precision Boost Overdrive (PBO) Parameter values are same as Eco-Mode.</source>
     </message>
     <message>
-      <source>The default values of AMD Spec Parameter values are same as Eco-Mode.</source>
-      <translation/>
+        <source>The default values of AMD Spec Parameter values are same as Eco-Mode.</source>
     </message>
     <message>
-      <source>Precision Boost Overdrive (PBO) Parameter values are same as 'Default' Control Mode</source>
-      <translation/>
+        <source>Precision Boost Overdrive (PBO) Parameter values are same as &apos;Default&apos; Control Mode</source>
     </message>
     <message>
-      <source>PBO Advanced Control mode does not support Boost Override CPU set to zero and PBO scalar set to one at the same time</source>
-      <translation/>
+        <source>PBO Advanced Control mode does not support Boost Override CPU set to zero and PBO scalar set to one at the same time</source>
     </message>
     <message>
-      <source>To use custom Precision Boost Overdrive (PBO) values, switch to Advanced Mode.</source>
-      <translation/>
+        <source>To use custom Precision Boost Overdrive (PBO) values, switch to Advanced Mode.</source>
     </message>
     <message>
-      <source>PBO Advanced Control mode does not support Boost Override CPU &amp; GPU set to zero and PBO scalar set to one at the same time</source>
-      <translation/>
+        <source>PBO Advanced Control mode does not support Boost Override CPU &amp; GPU set to zero and PBO scalar set to one at the same time</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ProfileOperationsPopup</name>
     <message>
-      <source>Name</source>
-      <translation/>
+        <source>Name</source>
     </message>
     <message>
-      <source>Save</source>
-      <translation/>
+        <source>Save</source>
     </message>
     <message>
-      <source>Reset GPU to stock</source>
-      <translation/>
+        <source>Reset GPU to stock</source>
     </message>
     <message>
-      <source>Reset</source>
-      <translation/>
+        <source>Reset</source>
     </message>
     <message>
-      <source>Stock Values</source>
-      <translation/>
+        <source>Stock Values</source>
     </message>
     <message>
-      <source>Reset CPU to stock</source>
-      <translation/>
+        <source>Reset CPU to stock</source>
     </message>
     <message>
-      <source>Edit Profile</source>
-      <translation/>
+        <source>Edit Profile</source>
     </message>
     <message>
-      <source>Save As A Profile</source>
-      <translation/>
+        <source>Save As A Profile</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Create</source>
-      <translation/>
+        <source>Create</source>
     </message>
     <message>
-      <source>Delete</source>
-      <translation/>
+        <source>Delete</source>
     </message>
     <message>
-      <source>Add a new profile</source>
-      <translation/>
+        <source>Add a new profile</source>
     </message>
     <message>
-      <source>Reset CPU to current state</source>
-      <translation/>
+        <source>Reset CPU to current state</source>
     </message>
     <message>
-      <source>Reset GPU to current state</source>
-      <translation/>
+        <source>Reset GPU to current state</source>
     </message>
     <message>
-      <source>System(Current) Values</source>
-      <translation/>
+        <source>System(Current) Values</source>
     </message>
     <message>
-      <source>Duplicate</source>
-      <translation/>
+        <source>Duplicate</source>
     </message>
     <message>
-      <source>New Profile</source>
-      <translation/>
+        <source>New Profile</source>
     </message>
     <message>
-      <source>Overwrite an existing profile</source>
-      <translation/>
+        <source>Overwrite an existing profile</source>
     </message>
     <message>
-      <source>Duplicate Profile</source>
-      <translation/>
+        <source>Duplicate Profile</source>
     </message>
     <message>
-      <source>Are you sure you want to delete ‘</source>
-      <translation/>
+        <source>Are you sure you want to delete ‘</source>
     </message>
     <message>
-      <source>Description (Optional)</source>
-      <translation/>
+        <source>Description (Optional)</source>
     </message>
     <message>
-      <source>Reset all hardware to stock</source>
-      <translation/>
+        <source>Reset all hardware to stock</source>
     </message>
     <message>
-      <source>Delete Profile</source>
-      <translation/>
+        <source>Delete Profile</source>
     </message>
     <message>
-      <source>’? 
+        <source>’? 
 This action cannot be undone.</source>
-      <translation/>
     </message>
     <message>
-      <source>Reset all hardware to current state</source>
-      <translation/>
+        <source>Reset all hardware to current state</source>
     </message>
     <message>
-      <source>Reset Profile</source>
-      <translation/>
+        <source>Reset Profile</source>
     </message>
     <message>
-      <source>Reset Profile to current Memory state?</source>
-      <translation/>
+        <source>Reset Profile to current Memory state?</source>
     </message>
     <message>
-      <source>Description/Info (Optional)</source>
-      <translation/>
+        <source>Description/Info (Optional)</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ModalDialog</name>
     <message>
-      <source>Close</source>
-      <translation/>
+        <source>Close</source>
     </message>
     <message>
-      <source>minimize</source>
-      <translation/>
+        <source>minimize</source>
     </message>
     <message>
-      <source>Don't show this dialog again</source>
-      <translation/>
+        <source>Don&apos;t show this dialog again</source>
     </message>
     <message>
-      <source>maximize</source>
-      <translation/>
+        <source>maximize</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SystemMetricsPage</name>
     <message>
-      <source>Close</source>
-      <translation/>
+        <source>Close</source>
     </message>
     <message>
-      <source>You've disabled all gauges from being displayed.</source>
-      <translation/>
+        <source>You&apos;ve disabled all gauges from being displayed.</source>
     </message>
     <message>
-      <source>System</source>
-      <translation/>
+        <source>System</source>
     </message>
     <message>
-      <source>Not tracking any gauges.</source>
-      <translation/>
+        <source>Not tracking any gauges.</source>
     </message>
     <message>
-      <source>Stress Test</source>
-      <translation/>
+        <source>Stress Test</source>
     </message>
     <message>
-      <source>Hide Warning Message</source>
-      <translation/>
+        <source>Hide Warning Message</source>
     </message>
     <message>
-      <source>Select All</source>
-      <translation/>
+        <source>Select All</source>
     </message>
     <message>
-      <source>Show Warning Message</source>
-      <translation/>
+        <source>Show Warning Message</source>
     </message>
     <message>
-      <source>Current State</source>
-      <translation/>
+        <source>Current State</source>
     </message>
     <message>
-      <source>Deselect All</source>
-      <translation/>
+        <source>Deselect All</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ProfileDialog</name>
     <message>
-      <source>A profile with same name already exists. Please choose a different name for your new profile.</source>
-      <translation/>
+        <source>A profile with same name already exists. Please choose a different name for your new profile.</source>
     </message>
     <message>
-      <source>Profile name cannot be empty. Please enter a valid profile name.</source>
-      <translation/>
+        <source>Profile name cannot be empty. Please enter a valid profile name.</source>
     </message>
     <message>
-      <source>You have already created the maximum number of profiles allowed. Please delete an existing profile if you wish to create a new one.</source>
-      <translation/>
+        <source>You have already created the maximum number of profiles allowed. Please delete an existing profile if you wish to create a new one.</source>
     </message>
     <message>
-      <source>Create From</source>
-      <translation/>
+        <source>Create From</source>
     </message>
     <message>
-      <source>How would you like to reset this profile?</source>
-      <translation/>
+        <source>How would you like to reset this profile?</source>
     </message>
     <message>
-      <source>Enter some text to describe this profile...</source>
-      <translation/>
+        <source>Enter some text to describe this profile...</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ImportExportDialog</name>
     <message>
-      <source>Browse File To be Imported</source>
-      <translation/>
+        <source>Browse File To be Imported</source>
     </message>
     <message>
-      <source>Import Profile</source>
-      <translation/>
+        <source>Import Profile</source>
     </message>
     <message>
-      <source>Please select Ryzen Master profile</source>
-      <translation/>
+        <source>Please select Ryzen Master profile</source>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Export</source>
-      <translation/>
+        <source>Export</source>
     </message>
     <message>
-      <source>Import</source>
-      <translation/>
+        <source>Import</source>
     </message>
     <message>
-      <source>Browse...</source>
-      <translation/>
+        <source>Browse...</source>
     </message>
     <message>
-      <source>No File Selected</source>
-      <translation/>
+        <source>No File Selected</source>
     </message>
     <message>
-      <source>Browse Directory where profile has to be exported</source>
-      <translation/>
+        <source>Browse Directory where profile has to be exported</source>
     </message>
     <message>
-      <source>File Location</source>
-      <translation/>
+        <source>File Location</source>
     </message>
     <message>
-      <source>Export Profile</source>
-      <translation/>
+        <source>Export Profile</source>
     </message>
     <message>
-      <source>Description</source>
-      <translation/>
+        <source>Description</source>
     </message>
     <message>
-      <source>Profile with same name already exist. Cannot Import selected file</source>
-      <translation/>
+        <source>Profile with same name already exist. Cannot Import selected file</source>
     </message>
     <message>
-      <source>The profile you are trying to import is incompatible and cannot be imported.</source>
-      <translation/>
+        <source>The profile you are trying to import is incompatible and cannot be imported.</source>
     </message>
     <message>
-      <source>Enter some text to describe this profile...</source>
-      <translation/>
+        <source>Enter some text to describe this profile...</source>
     </message>
-  </context>
-  <context>
-    <name>RestartPopup</name>
-    <message>
-      <source>Hover the respective error icons of each parameter for more details</source>
-      <translation/>
-    </message>
-    <message>
-      <source>A restart is required to complete this process.</source>
-      <translation/>
-    </message>
-    <message>
-      <source>Summary</source>
-      <translation/>
-    </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SystemTuningPage</name>
     <message>
-      <source>Control Mode</source>
-      <translation/>
+        <source>Control Mode</source>
     </message>
     <message>
-      <source>EXPO Profile</source>
-      <translation/>
+        <source>EXPO Profile</source>
     </message>
     <message>
-      <source>More Options</source>
-      <translation/>
+        <source>More Options</source>
     </message>
     <message>
-      <source>EXPO Mode</source>
-      <translation/>
+        <source>EXPO Mode</source>
     </message>
     <message>
-      <source>System</source>
-      <translation/>
+        <source>System</source>
     </message>
     <message>
-      <source>Stress Test</source>
-      <translation/>
+        <source>Stress Test</source>
     </message>
     <message>
-      <source>Reset System Profile</source>
-      <translation/>
+        <source>Reset System Profile</source>
     </message>
     <message>
-      <source>Current State</source>
-      <translation/>
+        <source>Current State</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>IncompatibleProfile</name>
     <message>
-      <source>Discard Unsupported Values</source>
-      <translation/>
+        <source>Discard Unsupported Values</source>
     </message>
     <message>
-      <source>Incompatible Profile</source>
-      <translation/>
+        <source>Incompatible Profile</source>
     </message>
     <message>
-      <source>Delete Profile</source>
-      <translation/>
+        <source>Delete Profile</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SettingsModel</name>
     <message>
-      <source>Disabling PROCHOT causes the processor to ignore the system's PROCHOT signal. </source>
-      <translation/>
+        <source>Disabling PROCHOT causes the processor to ignore the system&apos;s PROCHOT signal. </source>
     </message>
     <message>
-      <source>NOTE: A system re-start is required to re-enable PROCHOT</source>
-      <translation/>
+        <source>NOTE: A system re-start is required to re-enable PROCHOT</source>
     </message>
     <message>
-      <source>Preferences</source>
-      <translation/>
+        <source>Preferences</source>
     </message>
     <message>
-      <source>General</source>
-      <translation/>
+        <source>General</source>
     </message>
     <message>
-      <source>PROCHOT can only be disabled once the CPU is in Manual OC Mode. </source>
-      <translation/>
+        <source>PROCHOT can only be disabled once the CPU is in Manual OC Mode. </source>
     </message>
     <message>
-      <source>This mode is typically used only with extreme cooling solutions for extreme overclocking experiments. Use with caution.</source>
-      <translation/>
+        <source>This mode is typically used only with extreme cooling solutions for extreme overclocking experiments. Use with caution.</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CustomToggleComp</name>
     <message>
-      <source>Handling...</source>
-      <translation/>
+        <source>Handling...</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
+    <name>RestartPopup</name>
+    <message>
+        <source>A restart is required to complete this process.</source>
+    </message>
+    <message>
+        <source>Summary</source>
+    </message>
+</context>
+<context>
     <name>CustomPageTitle</name>
     <message>
-      <source>Collapse All</source>
-      <translation/>
+        <source>Collapse All</source>
     </message>
     <message>
-      <source>Expand All</source>
-      <translation/>
+        <source>Expand All</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>UserMode</name>
     <message>
-      <source>Let’s choose an appropriate User Mode for you before you start tuning!</source>
-      <translation/>
+        <source>Let’s choose an appropriate User Mode for you before you start tuning!</source>
     </message>
     <message>
-      <source>Proceed</source>
-      <translation/>
+        <source>Proceed</source>
     </message>
     <message>
-      <source>You can change this user mode setting anytime under Settings &gt; Preferences</source>
-      <translation/>
+        <source>You can change this user mode setting anytime under Settings &gt; Preferences</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SwitchViewPopup</name>
     <message>
-      <source>Cancel</source>
-      <translation/>
+        <source>Cancel</source>
     </message>
     <message>
-      <source>Switch to Advanced Mode</source>
-      <translation/>
+        <source>Switch to Advanced Mode</source>
     </message>
     <message>
-      <source>Continue</source>
-      <translation/>
+        <source>Continue</source>
     </message>
     <message>
-      <source>Switching views modifies the available tuning options and requires adjustments to some settings. However, changes won't be applied, so you can review them later.
+        <source>Switching views modifies the available tuning options and requires adjustments to some settings. However, changes won&apos;t be applied, so you can review them later.
 
 Are you sure you want to continue?</source>
-      <translation/>
     </message>
     <message>
-      <source>Switch to Basic Mode</source>
-      <translation/>
+        <source>Switch to Basic Mode</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ProfileIncompatiblePopUp</name>
     <message>
-      <source>Incompatible Profiles (%1)</source>
-      <translation/>
+        <source>Incompatible Profiles (%1)</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>ExceptionPopup</name>
     <message>
-      <source>Due to the below exception following tuning settings could not be applied </source>
-      <translation/>
+        <source>Due to the below exception following tuning settings could not be applied </source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>CommonModel</name>
     <message>
-      <source>Profile </source>
-      <translation/>
+        <source>Profile </source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>BusyIndicatorDialog</name>
     <message>
-      <source>Loading...</source>
-      <translation/>
+        <source>Loading...</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SimpleTextDialog</name>
     <message>
-      <source>Enter Code</source>
-      <translation/>
+        <source>Enter Code</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SettingsGeneralPage</name>
     <message>
-      <source>Settings</source>
-      <translation/>
+        <source>Settings</source>
     </message>
-  </context>
-  <context>
+</context>
+<context>
     <name>SettingsPreferencesPage</name>
     <message>
-      <source>Settings</source>
-      <translation/>
+        <source>Settings</source>
     </message>
-  </context>
+</context>
 </TS>
