@@ -974,7 +974,7 @@ Please take an appropriate action to proceed further.</source>
     </message>
     <message>
       <source>Running the curve optimizer is a long and invasive process. You will not be able to use any other tuning features until the process is complete. Your system may restart during this process, so it is recommended that you save any work and close all applications before proceeding.</source>
-      <translation>カーブの最適化の実行は、長時間かつシステムに大きな影響を与える処理です。処理が完了するまで、他のチューニング機能は一切使用できません。処理中にシステムが再起動する可能性があるため、作業内容を保存してすべてのアプリケーションを閉じてから実行することを推奨します。</translation>
+      <translation>カーブの最適化の実行は、長時間かつシステムに大きな影響を与えるプロセスです。プロセスが完了するまで、他のチューニング機能は一切使用できません。プロセスの実行中にシステムが再起動する可能性があるため、作業内容を保存してすべてのアプリケーションを閉じてから実行することを推奨します。</translation>
     </message>
     <message>
       <source>Activate to Activate Delay Time, different bank group(tRRD_S)</source>
@@ -1218,7 +1218,7 @@ Please take an appropriate action to proceed further.</source>
     </message>
     <message>
       <source>Running the curve optimizer validation is a long and invasive process. You will not be able to use any other tuning features until the process is complete.</source>
-      <translation>カーブ最適化の検証の実行は、時間と労力を要する処理です。この処理が完了するまで、他のチューニング機能は一切使用できません。</translation>
+      <translation>カーブ最適化の検証の実行は、時間と労力を要するプロセスです。このプロセスが完了するまで、他のチューニング機能は一切使用できません。</translation>
     </message>
     <message>
       <source>PROCODT_PullDown</source>
@@ -1787,7 +1787,7 @@ Please take an appropriate action to proceed further.</source>
     <message>
       <source>Running the curve optimizer is a long and invasive process. You will not be able to use any other tuning features until the process is complete. Your system may restart during this process, so it is recommended that you save any work and close all applications before proceeding.
 Curve Optimizer is not supported with current system values, proceeding with this will lead to reset of few parameters. Do you want to proceed?</source>
-      <translation>カーブの最適化の実行は、長時間かつシステムに大きな影響を与える処理です。処理が完了するまで、他のチューニング機能は一切使用できません。処理中にシステムが再起動する可能性があるため、作業内容を保存してすべてのアプリケーションを閉じてから実行することを推奨します。
+      <translation>カーブの最適化の実行は、長時間かつシステムに大きな影響を与えるプロセスです。プロセスが完了するまで、他のチューニング機能は一切使用できません。プロセスの実行中にシステムが再起動する可能性があるため、作業内容を保存してすべてのアプリケーションを閉じてから実行することを推奨します。
 現在のシステム値では、カーブの最適化はサポートされていません。このまま実行すると一部のパラメータがリセットされます。続行してもよろしいですか？</translation>
     </message>
     <message>
@@ -1832,7 +1832,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Previous curve optimization was ended prematurely. Some values have already been optimized. You can either restart the process from the beginning, or continue where it left off.</source>
-      <translation>前回のカーブ最適化処理が途中で終了しました。一部の値はすでに最適化されています。処理を最初からやり直すか、中断したところから再開するかを選択できます。</translation>
+      <translation>前回のカーブ最適化プロセスが途中で終了しました。一部の値はすでに最適化されています。プロセスを最初からやり直すか、中断したところから再開するかを選択できます。</translation>
     </message>
     <message>
       <source>Last applied Tuning: Workspace</source>
@@ -2425,7 +2425,7 @@ Please take an appropriate action to proceed further.</source>
     <message>
       <source>Previous curve optimization was ended prematurely. Some values have already been optimized. You can either restart the process from the beginning, or continue where it left off.
 Curve Optimizer is not supported with current system values, proceeding with this will lead to reset of few parameters. Do you want to proceed?</source>
-      <translation>前回のカーブ最適化処理が途中で終了しました。一部の値はすでに最適化されています。処理を最初からやり直すか、中断したところから再開するかを選択できます。
+      <translation>前回のカーブ最適化プロセスが途中で終了しました。一部の値はすでに最適化されています。プロセスを最初からやり直すか、中断したところから再開するかを選択できます。
 現在のシステム値では、カーブの最適化はサポートされていません。このまま実行すると一部のパラメータがリセットされます。続行しますか？</translation>
     </message>
     <message>
@@ -2466,7 +2466,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Cancelled further apply process</source>
-      <translation>それ以降の適用処理をキャンセルしました</translation>
+      <translation>それ以降の適用プロセスをキャンセルしました</translation>
     </message>
     <message>
       <source>Select the ODT impedance for ACHAN DQS IOs</source>
@@ -3339,7 +3339,7 @@ Curve Optimizer is not supported with current system values, proceeding with thi
     </message>
     <message>
       <source>Note: Cancelling this will cancel further apply process.</source>
-      <translation>注意: キャンセルすると、それ以降の適用処理もキャンセルされます。</translation>
+      <translation>注意: キャンセルすると、それ以降の適用プロセスもキャンセルされます。</translation>
     </message>
     <message>
       <source>The following tuning settings could not be applied:</source>
@@ -3795,7 +3795,7 @@ Are you sure you want to continue?</source>
     </message>
     <message>
       <source>Warning: This process may cause your system to crash or reboot, and your display to flicker.</source>
-      <translation>警告: この処理により、システムのクラッシュまたは再起動、画面のちらつきが発生する可能性があります。</translation>
+      <translation>警告: このプロセスにより、システムのクラッシュまたは再起動、画面のちらつきが発生する可能性があります。</translation>
     </message>
     <message>
       <source>Stress Test</source>
@@ -4374,7 +4374,7 @@ This action cannot be undone.</source>
     <name>RestartPopup</name>
     <message>
       <source>A restart is required to complete this process.</source>
-      <translation>この処理を完了するには再起動が必要です。</translation>
+      <translation>このプロセスを完了するには再起動が必要です。</translation>
     </message>
     <message>
       <source>Summary</source>
